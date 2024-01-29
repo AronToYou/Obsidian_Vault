@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3f20ac4aff1858c",
+            "id": "d28f91dc16e9dfce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Tech/Layers/Layer 4 - Transport.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c930e2ca877b477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softwork/AI Industry.md",
+                "file": "General/Auf der Suche.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwork/AI Industry.md",
+                "file": "General/Auf der Suche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwork/AI Industry.md",
+                "file": "General/Auf der Suche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwork/AI Industry.md"
+                "file": "General/Auf der Suche.md"
               }
             }
           }
@@ -156,12 +143,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0f41f7ae7d2c7d70",
+  "active": "d28f91dc16e9dfce",
   "lastOpenFiles": [
+    "Softwork/AI Industry.md",
+    "Web Tech/Layers/Layer 4 - Transport.md",
+    "General/Auf der Suche.md",
+    "To-Read.md",
+    "articles/s41586-021-04086-x.pdf",
+    "articles",
     "help",
     "Languages/Русский/Basics.md",
     "Softwork/MI_3.0.png",
@@ -171,10 +163,8 @@
     "Keyboard_Russian.png",
     "Keyboard_Russian.png",
     "Pasted image 20240110224255.png",
-    "Softwork/AI Industry.md",
     "Machine.md",
     "Softwork/PyTorch.md",
-    "General/Auf der Suche.md",
     "Languages/Deutsch/Declension.md",
     "Languages/Deutsch/indefiniteCase.png",
     "Languages/Deutsch/definiteCase.png",
@@ -186,7 +176,6 @@
     "Web Tech/OSI Model.md",
     "Web Tech/Layers/ARP (Address Resolution Protocol).md",
     "Web Tech/Layers/Layer 3 - Network.md",
-    "Web Tech/Layers/Layer 4 - Transport.md",
     "Chemistry/Plastics.md",
     "Web Tech/Layers",
     "Web Tech",
@@ -194,7 +183,6 @@
     "Softwork",
     "Languages/Deutsch",
     "Chemistry",
-    "Languages/Русский",
-    "Languages"
+    "Languages/Русский"
   ]
 }

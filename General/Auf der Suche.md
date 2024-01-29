@@ -14,6 +14,7 @@
 - [ ] Google
 - [ ] Benz/VW
 - [ ] Sesquehana
+- [ ] Parkdepot
 - [ ] Zeiss
 	- april.miksch@zeiss.com
 	- stefan.hoelle@zeiss.com
