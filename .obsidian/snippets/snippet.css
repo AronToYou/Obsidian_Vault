@@ -1,0 +1,13 @@
+.column {
+	float: left;
+	width: 50%;
+}
+.row:after {
+	content: "";	/* To be displayed */
+	display: table;	/* Type of rendering box */
+	clear: both;	/* Push next float down */
+}
+
+hr {
+	border-top: 1px solid red;
+}

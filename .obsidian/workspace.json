@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "713449f82ad8445d",
+    "type": "split",
+    "children": [
+      {
+        "id": "14d9388708bb6e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3f20ac4aff1858c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Tech/Layers/Layer 4 - Transport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c930e2ca877b477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwork/AI Industry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f41592b4fe2ba49",
+    "type": "split",
+    "children": [
+      {
+        "id": "423faabcb0e615e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f41f7ae7d2c7d70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef77ce4191654f20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d169ed7b51704126",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "587fa5dd9cf45d80",
+    "type": "split",
+    "children": [
+      {
+        "id": "df9feeae009d5ff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ede04a0f7b95e2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Softwork/AI Industry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c9b0b52e89516bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Softwork/AI Industry.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fde972317b5fc050",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5bf5faf84cbba5ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Softwork/AI Industry.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "0f41f7ae7d2c7d70",
+  "lastOpenFiles": [
+    "help",
+    "Languages/Русский/Basics.md",
+    "Softwork/MI_3.0.png",
+    "Languages/Русский/Keyboard_Russian.png",
+    "Languages/Keyboard_Russian.png",
+    "Keyboard_Russian.png",
+    "Keyboard_Russian.png",
+    "Keyboard_Russian.png",
+    "Pasted image 20240110224255.png",
+    "Softwork/AI Industry.md",
+    "Machine.md",
+    "Softwork/PyTorch.md",
+    "General/Auf der Suche.md",
+    "Languages/Deutsch/Declension.md",
+    "Languages/Deutsch/indefiniteCase.png",
+    "Languages/Deutsch/definiteCase.png",
+    "Languages/Deutsch/Eigenschaftswörter.md",
+    "Chemistry/Cleaners.md",
+    "Chemistry/NaOCl.png",
+    "Web Tech/Distributed Systems.md",
+    "Web Tech/Networks.md",
+    "Web Tech/OSI Model.md",
+    "Web Tech/Layers/ARP (Address Resolution Protocol).md",
+    "Web Tech/Layers/Layer 3 - Network.md",
+    "Web Tech/Layers/Layer 4 - Transport.md",
+    "Chemistry/Plastics.md",
+    "Web Tech/Layers",
+    "Web Tech",
+    "General",
+    "Softwork",
+    "Languages/Deutsch",
+    "Chemistry",
+    "Languages/Русский",
+    "Languages"
+  ]
+}
