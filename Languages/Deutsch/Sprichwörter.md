@@ -1,0 +1,2 @@
+- dein Wort in Gottes Ohr.
+- Es ist noch kein Meister vom Himmel gefallen.

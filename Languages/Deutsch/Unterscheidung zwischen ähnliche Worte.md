@@ -10,3 +10,8 @@
 
 ## gelten - zutreffen
 - **zutreffen** <*intrans.*>
+
+## Worte - Wörter
+- [Here](https://www.pcs-campus.de/praxis/texten/woerter-oder-worte/#:~:text=Bei%20der%20Frage%2C%20wann%20man,Worte%20bestehen%20somit%20aus%20W%C3%B6rtern.)
+
+## zuweisen - zuordnen

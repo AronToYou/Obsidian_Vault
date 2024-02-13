@@ -1,0 +1,9 @@
+- [ ] Deutsch 
+	- [ ] from TUM notepad
+	- [ ] from green notebook
+- [ ] Open tabs on
+	- [ ] Velvet
+	- [ ] V30
+- [ ] Google Keep
+	- [ ] Fun things to do
+	- [ ] Languages

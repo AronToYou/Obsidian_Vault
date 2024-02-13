@@ -1,0 +1,7 @@
+## transitiv
+- beflügeln
+
+## intransitiv
+
+## trennbar
+

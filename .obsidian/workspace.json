@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do (For Learning).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7efd3503f252c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "Languages/Deutsch/Besondere Fälle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "Languages/Deutsch/Besondere Fälle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "Languages/Deutsch/Besondere Fälle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Auf der Suche.md"
+                "file": "Languages/Deutsch/Besondere Fälle.md"
               }
             }
           }
@@ -159,25 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7efd3503f252c4e",
+  "active": "90ecb0647a3b91a4",
   "lastOpenFiles": [
-    "To-Remember (For Fun).md",
-    "To-Do (For Learning).md",
-    "Languages/中文 - 普通话/List.md",
+    "Languages/Deutsch/ausstehende Eintragung.md",
+    "Languages/Deutsch/Sprichwörter.md",
+    "Languages/Deutsch/Eigenschaftswörter.md",
+    "Languages/Deutsch/Besondere Fälle.md",
     "Languages/Deutsch/Ausdrücke von Zeiträumen.md",
+    "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
+    "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
+    "Languages/Deutsch/Dictionary/Substantiv.md",
+    "Languages/Deutsch/Declension.md",
+    "Languages/Deutsch/indefiniteCase.png",
+    "Languages/Deutsch/Interessante Sätze.md",
+    "Languages/Deutsch/Dictionary",
+    "Languages/Deutsch/Unterscheidung zwischen ähnliche Worte.md",
+    "To-Do (For Learning).md",
+    "To-Markdown.md",
+    "General/Auf der Suche.md",
+    "To-Remember (For Fun).md",
+    "Languages/中文 - 普通话/List.md",
     "Languages/Русский/Keyboard_Russian.png",
     "Languages/Русский/Basics.md",
-    "General/Auf der Suche.md",
     "Languages/中文 - 普通话",
     "knowingless.com/raw-data.md",
     "knowingless.com",
-    "Languages/Deutsch/ausstehende Eintragung.md",
-    "Languages/Deutsch/Besondere Fälle.md",
-    "Languages/Deutsch/Declension.md",
-    "Languages/Deutsch/Eigenschaftswörter.md",
     "Languages/Deutsch/Funktion des Nebensatzes.md",
-    "Languages/Deutsch/Interessante Sätze.md",
-    "Languages/Deutsch/Unterscheidung zwischen ähnliche Worte.md",
     "Das.md",
     "Languages/Deutsch/derselbe-.png",
     "Web Tech/Tools/Web APIs.md",
@@ -196,15 +190,9 @@
     "Pasted image 20240110224255.png",
     "Machine.md",
     "Softwork/PyTorch.md",
-    "Languages/Deutsch/indefiniteCase.png",
     "Chemistry/Cleaners.md",
-    "Web Tech/Distributed Systems.md",
-    "Web Tech/Networks.md",
-    "Web Tech/OSI Model.md",
-    "Web Tech/Layers/ARP (Address Resolution Protocol).md",
     "Web Tech/Layers",
     "Web Tech",
-    "General",
-    "Softwork"
+    "General"
   ]
 }
