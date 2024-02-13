@@ -11,3 +11,22 @@
 hr {
 	border-top: 1px solid red;
 }
+
+.image-embed[alt] {
+	position: relative;
+	display: inline-block;
+	width: fit-content;
+	padding 0.5ex 1ex;
+}
+
+.image-embed[alt]:before {
+	content: attr(alt);
+	display: block;
+
+	line-height: 1.4;
+	font-weight: bold;
+	padding 0.5ex 1ex;
+
+	width: 100%;
+	text-align: center;
+}
