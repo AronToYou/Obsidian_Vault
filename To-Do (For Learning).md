@@ -1,8 +1,19 @@
 # Tech
 - [ ] [WebDAV](https://en.wikipedia.org/wiki/WebDAV)- for syncing files
 - [ ] [[https://www.langchain.com/|LangChain]] - for ML chains
+
+## Hardware
+- [ ] [PCI ports](https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect)
+
 ## Linux
 - [ ] [rsync](https://en.wikipedia.org/wiki/Rsync) - for syncing files
+
+## Web Technology
+- [ ] [Nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)
+- [ ] [Protobufs](https://protobuf.dev/)
+- [ ] [Apache Lucerne](https://lucene.apache.org/) - [written in Java?](https://news.ycombinator.com/item?id=29659266)
+- [ ] [WebAssembly platform](wasmer.io)
+- [ ] [Hugo](https://gohugo.io/) for hosting markdown??
 
 ## Filetypes
 - [ ] Matroska (.mkv)
@@ -71,5 +82,6 @@
 - [ ] [Tech for Palestine](https://updates.techforpalestine.org/oct7-fact-check/)
 	- [ ] [Oct7FactCheck.com](https://Oct7FactCheck.com)
 	- [ ] Eylon Levy
+- [ ] [SAN](san.com)
 ## To Investigate
 - [ ] [Kodama](https://kodama.ai/faqs) by Bill

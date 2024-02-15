@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Deutsch/Besondere Fälle.md",
+                "file": "To-Do (For Learning).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Deutsch/Besondere Fälle.md",
+                "file": "To-Do (For Learning).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Deutsch/Besondere Fälle.md",
+                "file": "To-Do (For Learning).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Deutsch/Besondere Fälle.md"
+                "file": "To-Do (For Learning).md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "90ecb0647a3b91a4",
   "lastOpenFiles": [
+    "To-Markdown.md",
+    "To-Do (For Learning).md",
+    "Languages/Deutsch/Besondere Fälle.md",
+    "Untitled.canvas",
     "Languages/Deutsch/ausstehende Eintragung.md",
     "Languages/Deutsch/Sprichwörter.md",
     "Languages/Deutsch/Eigenschaftswörter.md",
-    "Languages/Deutsch/Besondere Fälle.md",
     "Languages/Deutsch/Ausdrücke von Zeiträumen.md",
     "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
     "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
@@ -161,8 +164,6 @@
     "Languages/Deutsch/Interessante Sätze.md",
     "Languages/Deutsch/Dictionary",
     "Languages/Deutsch/Unterscheidung zwischen ähnliche Worte.md",
-    "To-Do (For Learning).md",
-    "To-Markdown.md",
     "General/Auf der Suche.md",
     "To-Remember (For Fun).md",
     "Languages/中文 - 普通话/List.md",
@@ -190,7 +191,6 @@
     "Pasted image 20240110224255.png",
     "Machine.md",
     "Softwork/PyTorch.md",
-    "Chemistry/Cleaners.md",
     "Web Tech/Layers",
     "Web Tech",
     "General"
