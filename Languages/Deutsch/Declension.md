@@ -1,10 +1,10 @@
 
 <div class="row">
 	<div class="column">
-		<img src="file:///home/robot/Documents/Obsidian%20Vault/definiteCase.png" alt="Definite Case Table">
+		<img src="file:///home/robot/Documents/Obsidian%20Vault/_media/img/definiteCase.png" alt="Definite Case Table">
 	</div>
 	<div class="column">
-		<img src="file:///home/robot/Documents/Obsidian%20Vault/indefiniteCase.png" alt="Indefinite Case Table">
+		<img src="file:///home/robot/Documents/Obsidian%20Vault/_media/img/indefiniteCase.png" alt="Indefinite Case Table">
 	</div>
 </div>
 
