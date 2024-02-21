@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Ideas.md",
+                "file": "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "664f28afbcaa037d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Deutsch/Grammer/Fürwörtern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Ideas.md",
+                "file": "Languages/Deutsch/Grammer/Fürwörtern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Ideas.md",
+                "file": "Languages/Deutsch/Grammer/Fürwörtern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Ideas.md"
+                "file": "Languages/Deutsch/Grammer/Fürwörtern.md"
               }
             }
           }
@@ -146,8 +159,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e67fa5c453cc7664",
+  "active": "664f28afbcaa037d",
   "lastOpenFiles": [
+    "_media/brave_bookmarks_2_21_24.html",
+    "Languages/Deutsch/Dictionary/Substantiva.md",
+    "Languages/Deutsch/Grammer/Fürwörtern.md",
+    "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
+    "Languages/Deutsch/Grammer/Declension.md",
+    "Languages/Deutsch/Sprichwörter.md",
+    "Languages/Deutsch/Interessante Sätze.md",
+    "Languages/Deutsch/ausstehende Eintragung.md",
+    "Languages/Deutsch/Dictionary/Verhältniswörter.md",
+    "Languages/Deutsch/Grammer/Funktion des Nebensatzes.md",
+    "Languages/Deutsch/Grammer/Eigenschaftswörter.md",
+    "Languages/Deutsch/Grammer/Ausdrücke von Zeiträumen.md",
+    "Languages/Deutsch/Besonderheiten/Abkürzungen.md",
+    "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
+    "Languages/Deutsch/Besonderheiten/Besondere Fälle.md",
+    "Languages/Deutsch/Besonderheiten/Art von Phrasen.md",
+    "Languages/Deutsch/Besonderheiten",
+    "To-Markdown.md",
+    "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
+    "Languages/Deutsch/Dictionary/Bindewörter.md",
+    "_media/img/personalPronounDeclension.png",
+    "_media/img/personalPronounDeclension.png.crdownload",
+    "Languages/Deutsch/Grammer",
+    "To-Do (For Learning).md",
     "General/Ideas.md",
     "_media/img/MI_3.0.png",
     "_media/img/derselbe-.png",
@@ -157,43 +194,19 @@
     "_media/img/gartner.png",
     "Languages/Русский/Basics.md",
     "_media/img/Keyboard_Russian.png",
-    "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
-    "Languages/Deutsch/Dictionary/Substantiv.md",
-    "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
-    "Languages/Deutsch/Ausdrücke von Zeiträumen.md",
-    "Languages/Deutsch/ausstehende Eintragung.md",
-    "Languages/Deutsch/Besondere Fälle.md",
-    "Languages/Deutsch/Eigenschaftswörter.md",
-    "Languages/Deutsch/Declension.md",
-    "Languages/Deutsch/Funktion des Nebensatzes.md",
-    "Languages/Deutsch/Interessante Sätze.md",
-    "Languages/Deutsch/Sprichwörter.md",
-    "Languages/Deutsch/Unterscheidung zwischen ähnliche Worte.md",
     "_media/img/indefiniteCase.png",
     "General/Auf der Suche.md",
     "Chemistry/Plastics.md",
-    "Chemistry/Cleaners.md",
     "_media/img/NaOCl.png",
     "_media/img",
     "_media",
-    "To-Do (For Learning).md",
-    "To-Markdown.md",
     "Untitled.canvas",
     "Languages/Deutsch/Dictionary",
-    "To-Remember (For Fun).md",
-    "Languages/中文 - 普通话/List.md",
     "Languages/中文 - 普通话",
-    "knowingless.com/raw-data.md",
     "knowingless.com",
-    "Das.md",
-    "Web Tech/Tools/Web APIs.md",
     "Web Tech/Tools",
     "_media/articles/s41586-021-04086-x.pdf",
-    "_media/articles",
-    "help",
     "Languages/Keyboard_Russian.png",
-    "Keyboard_Russian.png",
-    "Keyboard_Russian.png",
-    "Web Tech/Layers"
+    "Keyboard_Russian.png"
   ]
 }

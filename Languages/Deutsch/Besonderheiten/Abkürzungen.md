@@ -1,0 +1,5 @@
+- usw. -- und so weiter (etc.)
+- z.B. -- zum Beispiel
+- bzw. -- beziehungsweise
+- zuf. -- zufallig oder zufolge
+- bsd. -- besonders

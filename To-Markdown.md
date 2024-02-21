@@ -7,3 +7,5 @@
 - [ ] Google Keep
 	- [ ] Fun things to do
 	- [ ] Languages
+- [ ] Markdown
+	- [ ] Replicate image caption CSS styling for image columns like [[Declension|here]]

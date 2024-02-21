@@ -14,6 +14,7 @@
 - [ ] [Apache Lucerne](https://lucene.apache.org/) - [written in Java?](https://news.ycombinator.com/item?id=29659266)
 - [ ] [WebAssembly platform](wasmer.io)
 - [ ] [Hugo](https://gohugo.io/) for hosting markdown??
+- [ ] Web Crawling (see Brave python Bookmarks)
 
 ## Filetypes
 - [ ] Matroska (.mkv)

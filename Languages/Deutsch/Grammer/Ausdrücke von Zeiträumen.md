@@ -10,18 +10,18 @@
 - das
 	- Jahr
 	- Wochenende
-## Definite Time w/o Preposition
+## bestimmte Zeit ohne Verhältniswort
 ### <font style="color:red">Akkusativ</font>
 - Nächste Woche
 - Letzten Tag
 - Die ganze Nacht
 
-## Indefinite Time
-### <font style="color:red">Genetiv</font>
+## unbestimmte Zeit
+### <font style="color:red">Genitiv</font>
 - Eines Tages/Abends/Monats
 - Einer Nacht/Woche
 
-## Definite Time w/ Preposition
+## bestimmte Zeit mit Verhältniswort
 <font style="color:blue">Blau</font>  wird auf Präpositionen angewandt, bei denen einer von zwei möglichen Fällen auf ihre Objekte zutreffen kann.
 ### <font style="color:red">Dativ</font>
 #### <font style="color:blue">in - an - vor</font> - nach - seit

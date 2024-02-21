@@ -1,0 +1,1 @@
+See [[Languages/Deutsch/Grammer/Eigenschaftswörter|Grammer/Eigenschaftswörter]] also
