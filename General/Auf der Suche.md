@@ -28,6 +28,7 @@
 	- yusuke-kimura@fujitsu.com
 - [ ] Hennge
 	- [Internships](https://hennge.com/global/gip.html)
+- [ ] Codementor and Arc
 ### Robots
 - [ ] Formant
 - [ ] InOrbit
