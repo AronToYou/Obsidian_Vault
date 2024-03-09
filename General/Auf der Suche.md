@@ -21,6 +21,7 @@
 	- april.miksch@zeiss.com
 	- stefan.hoelle@zeiss.com
 - [ ] [Robco](https://robco.de)
+- [ ] Consol
 ### Recent
 - [ ] Fujitsu
 	- Yusuke Kimura, Ph.D.

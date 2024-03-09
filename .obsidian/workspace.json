@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "Languages/Русский/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
     "id": "587fa5dd9cf45d80",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "Languages/Русский/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "Languages/Русский/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Auf der Suche.md"
+                "file": "Languages/Русский/Basics.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,42 +149,43 @@
   },
   "active": "d4f1d9da86fcff76",
   "lastOpenFiles": [
-    "Languages/Deutsch/Grammer/Fürwörtern.md",
-    "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
-    "_media/brave_bookmarks_2_21_24.html",
-    "Languages/Deutsch/Dictionary/Substantiva.md",
-    "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
     "Languages/Deutsch/Grammer/Declension.md",
-    "Languages/Deutsch/Sprichwörter.md",
-    "Languages/Deutsch/Interessante Sätze.md",
-    "Languages/Deutsch/ausstehende Eintragung.md",
-    "Languages/Deutsch/Dictionary/Verhältniswörter.md",
+    "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
+    "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
+    "Languages/Deutsch/Besonderheiten/Abkürzungen.md",
+    "Languages/Deutsch/Grammer/Fürwörtern.md",
     "Languages/Deutsch/Grammer/Funktion des Nebensatzes.md",
     "Languages/Deutsch/Grammer/Eigenschaftswörter.md",
-    "Languages/Deutsch/Grammer/Ausdrücke von Zeiträumen.md",
-    "Languages/Deutsch/Besonderheiten/Abkürzungen.md",
-    "Languages/Deutsch/Besonderheiten/Besondere Fälle.md",
+    "Languages/Deutsch/Dictionary/Verhältniswörter.md",
     "Languages/Deutsch/Besonderheiten/Art von Phrasen.md",
+    "Languages/Deutsch/Dictionary/Bindewörter.md",
+    "Languages/Deutsch/Dictionary/Substantiva.md",
+    "Languages/Deutsch/Grammer/Ausdrücke von Zeiträumen.md",
+    "Languages/Deutsch/Besonderheiten/Besondere Fälle.md",
+    "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
+    "Languages/Deutsch/ausstehende Eintragung.md",
+    "Web Tech/Networks.md",
+    "Web Tech/Distributed Systems.md",
+    "Web Tech/Layers/Layer 3 - Network.md",
+    "Web Tech/Layers/Layer 4 - Transport.md",
+    "Languages/Русский/Basics.md",
+    "General/Auf der Suche.md",
+    "To-Remember (For Fun).md",
+    "_media/brave_bookmarks_2_21_24.html",
+    "Languages/Deutsch/Sprichwörter.md",
+    "Languages/Deutsch/Interessante Sätze.md",
     "Languages/Deutsch/Besonderheiten",
     "To-Markdown.md",
-    "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
-    "Languages/Deutsch/Dictionary/Bindewörter.md",
     "_media/img/personalPronounDeclension.png",
     "_media/img/personalPronounDeclension.png.crdownload",
     "Languages/Deutsch/Grammer",
     "To-Do (For Learning).md",
-    "General/Ideas.md",
     "_media/img/MI_3.0.png",
     "_media/img/derselbe-.png",
     "_media/img/definiteCase.png",
-    "Softwork/PyTorch.md",
-    "Softwork/AI Industry.md",
     "_media/img/gartner.png",
-    "Languages/Русский/Basics.md",
     "_media/img/Keyboard_Russian.png",
     "_media/img/indefiniteCase.png",
-    "General/Auf der Suche.md",
-    "Chemistry/Plastics.md",
     "_media/img/NaOCl.png",
     "_media/img",
     "_media",

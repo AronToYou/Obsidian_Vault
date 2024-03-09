@@ -16,9 +16,15 @@
 ### Italian
 - Pino D'Angiò
 
+### 80s Funk
+- The Electric Company (Refer to [[#Figure A]] below)
+
 # People
 ## Businesses
 - Salar Jaberi (@salar_jaberi)
 	- [The Diesel Dudes](https://thedieseldudes.com)
 	- [JOA](https://jaberioutdooradventures.com)
-	
+
+# Figures
+## Figure A
+![[Spider-Man-Electric-Company.jpg|Spiderman in The Electric Company]]
