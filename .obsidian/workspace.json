@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Русский/Basics.md",
+                "file": "General/Auf der Suche.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Русский/Basics.md",
+                "file": "General/Auf der Suche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Русский/Basics.md",
+                "file": "General/Auf der Suche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Русский/Basics.md"
+                "file": "General/Auf der Suche.md"
               }
             }
           }
@@ -149,6 +149,15 @@
   },
   "active": "d4f1d9da86fcff76",
   "lastOpenFiles": [
+    "To-Markdown.md",
+    "To-Remember (For Fun).md",
+    "To-Do (For Learning).md",
+    "Softwork/PyTorch.md",
+    "Softwork/AI Industry.md",
+    "General/Auf der Suche.md",
+    "General/Ideas.md",
+    "Languages/Русский/Basics.md",
+    "_media/ultramarin/Presentation/Other Words.md",
     "Languages/Deutsch/Grammer/Declension.md",
     "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
     "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
@@ -166,20 +175,11 @@
     "Languages/Deutsch/ausstehende Eintragung.md",
     "Web Tech/Networks.md",
     "Web Tech/Distributed Systems.md",
-    "Web Tech/Layers/Layer 3 - Network.md",
-    "Web Tech/Layers/Layer 4 - Transport.md",
-    "Languages/Русский/Basics.md",
-    "General/Auf der Suche.md",
-    "To-Remember (For Fun).md",
     "_media/brave_bookmarks_2_21_24.html",
-    "Languages/Deutsch/Sprichwörter.md",
-    "Languages/Deutsch/Interessante Sätze.md",
     "Languages/Deutsch/Besonderheiten",
-    "To-Markdown.md",
     "_media/img/personalPronounDeclension.png",
     "_media/img/personalPronounDeclension.png.crdownload",
     "Languages/Deutsch/Grammer",
-    "To-Do (For Learning).md",
     "_media/img/MI_3.0.png",
     "_media/img/derselbe-.png",
     "_media/img/definiteCase.png",
