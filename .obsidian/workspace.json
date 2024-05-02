@@ -10,11 +10,57 @@
           {
             "id": "d4f1d9da86fcff76",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "General/Auf der Suche.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bf1bf5ee9137475c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-Do (For Learning).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "19863b25b9c1a074",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-Remember (For Fun).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "316928470b41a67f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -142,44 +188,51 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "d4f1d9da86fcff76",
   "lastOpenFiles": [
-    "To-Markdown.md",
-    "To-Remember (For Fun).md",
     "To-Do (For Learning).md",
-    "Softwork/PyTorch.md",
-    "Softwork/AI Industry.md",
-    "General/Auf der Suche.md",
-    "General/Ideas.md",
-    "Languages/Русский/Basics.md",
-    "_media/ultramarin/Presentation/Other Words.md",
-    "Languages/Deutsch/Grammer/Declension.md",
+    "To-Remember (For Fun).md",
     "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
-    "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
-    "Languages/Deutsch/Besonderheiten/Abkürzungen.md",
-    "Languages/Deutsch/Grammer/Fürwörtern.md",
-    "Languages/Deutsch/Grammer/Funktion des Nebensatzes.md",
-    "Languages/Deutsch/Grammer/Eigenschaftswörter.md",
+    "Languages/Deutsch/Dictionary/Umstandswörter.md",
     "Languages/Deutsch/Dictionary/Verhältniswörter.md",
-    "Languages/Deutsch/Besonderheiten/Art von Phrasen.md",
     "Languages/Deutsch/Dictionary/Bindewörter.md",
+    "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
     "Languages/Deutsch/Dictionary/Substantiva.md",
-    "Languages/Deutsch/Grammer/Ausdrücke von Zeiträumen.md",
+    "Languages/Deutsch/Wortgrammatik/Satzstrukturen.md",
+    "Languages/Deutsch/Wortgrammatik/Fürwörter.md",
+    "Languages/Deutsch/Wortgrammatik/Tätigkeitswörter.md",
+    "Languages/Deutsch/Wortgrammatik/Declension.md",
+    "Languages/Deutsch/Wortgrammatik/Eigenschaftswörter.md",
+    "_media/img/wieso.png",
+    "_media/img/wieso.png.crdownload",
+    "Languages/Deutsch/Besonderheiten/Abkürzungen.md",
+    "Languages/Deutsch/Wortgrammatik/ß und ss.md",
+    "Languages/Deutsch/Besonderheiten/Sprichwörter.md",
+    "General/Auf der Suche.md",
+    "_media/books",
+    "_media/irreg_verbs_DNutting.pdf",
+    "Languages/Deutsch/ausstehende Eintragung.md",
+    "Languages/Deutsch/Besonderheiten/Interessante Sätze.md",
+    "Languages/Deutsch/Besonderheiten/Art von Phrasen.md",
     "Languages/Deutsch/Besonderheiten/Besondere Fälle.md",
     "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
-    "Languages/Deutsch/ausstehende Eintragung.md",
-    "Web Tech/Networks.md",
-    "Web Tech/Distributed Systems.md",
-    "_media/brave_bookmarks_2_21_24.html",
-    "Languages/Deutsch/Besonderheiten",
+    "Languages/Deutsch/Satzgrammatik/Funktion des Nebensatzes.md",
+    "Languages/Deutsch/Wortgrammatik",
+    "Languages/Deutsch/Satzgrammatik/Ausdrücke von Zeiträumen.md",
+    "wp.ge-fo-rum.de.md",
+    "Web Tech/OSI Model.md",
+    "_media/img/brain_map.jpg",
+    "_media/img/brain_map.jpg.crdownload",
+    "_media/books/Andrew_S_Tanenbaum-Computer_Networks.pdf",
+    "_media/configs/bookmarks_4_19_24.html",
+    "_media/configs",
+    "_media/Andrew_S_Tanenbaum-Computer_Networks.pdf.crdownload",
+    "gbc.one",
     "_media/img/personalPronounDeclension.png",
-    "_media/img/personalPronounDeclension.png.crdownload",
-    "Languages/Deutsch/Grammer",
     "_media/img/MI_3.0.png",
     "_media/img/derselbe-.png",
     "_media/img/definiteCase.png",
@@ -187,14 +240,6 @@
     "_media/img/Keyboard_Russian.png",
     "_media/img/indefiniteCase.png",
     "_media/img/NaOCl.png",
-    "_media/img",
-    "_media",
-    "Untitled.canvas",
-    "Languages/Deutsch/Dictionary",
-    "Languages/中文 - 普通话",
-    "knowingless.com",
-    "Web Tech/Tools",
-    "Languages/Keyboard_Russian.png",
-    "Keyboard_Russian.png"
+    "Untitled.canvas"
   ]
 }

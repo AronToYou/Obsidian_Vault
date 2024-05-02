@@ -1,0 +1,5 @@
+- deine Worte in Gottes Ohr.
+- Es ist noch kein Meister vom Himmel gefallen.
+- Du willst mich doch verarschen.
+- Jedem das Seine.
+- Jeder lobt das Seine

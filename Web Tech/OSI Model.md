@@ -1,6 +1,6 @@
 # (Open Systems Interconnection) Model
 ## Layer 7 - Application
-- HTTP, SSH, FTP, and SMTP
+- HTTP, SSH, POP3, DNS, FTP, and SMTP
 ## Layer 6 - Presentation
 - Encoding: ASCII and UTF-8
 ## Layer 5 - Session
