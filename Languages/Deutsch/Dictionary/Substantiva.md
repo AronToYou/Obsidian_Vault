@@ -9,6 +9,11 @@
 - **Anschein** -- semblance
 - **Erwerb** -- Acquisition
 - **Bezug** -- reference / regard
+- **Vorfall (1,443)** -- incident / occurrence
+	- **das Ereignis (5,379)**
+	- **das Vorkommen (20,571)** -- incidence
+- **Zettel (8,569)**
+	- **Beleg (12,991)**
 ## weibliche (die)
 - **Seine** -- his oder his/her highness (HH.)
 - **Kutsche** -- old banger

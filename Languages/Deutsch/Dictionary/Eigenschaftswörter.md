@@ -39,4 +39,5 @@ See [[Languages/Deutsch/Wortgrammatik/Eigenschaftswörter|Grammer/Eigenschaftsw�
 		- -- indiscriminately (als Adverb)
 - **worüber**
 	- Worüber denkst du nach?
-- **bezogen** - related / relative
+- **bezogen** -- related / relative
+- **aufdringlich** -- pushy / obtrusive

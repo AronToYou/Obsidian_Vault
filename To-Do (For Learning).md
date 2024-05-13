@@ -1,4 +1,3 @@
-
 # Web Infrastructure
 <hr width="50%" align="right" style="border: 1px solid white">
 ## Layered Model
@@ -43,6 +42,9 @@
 ## Linux
 - [ ] [rsync](https://en.wikipedia.org/wiki/Rsync) - for syncing files
 - [ ] Kernal-based Virtual Machine (`kvm`) vs. `docker` vs. `lxc`
+- [ ] Log4Shell
+- [ ] Dirty Pipe attack
+- [ ] [Yacc](https://en.wikipedia.org/wiki/Yacc)
 
 ## Filetypes
 - [ ] Matroska (.mkv)

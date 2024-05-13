@@ -15,6 +15,7 @@
 - [ ] Benz/VW
 - [ ] Sesquehana
 - [ ] Redhat
+
 ### In München
 - [ ] Parkdepot
 - [ ] [Quantum Space Systems (qssys)](https://qssys.de)
@@ -60,6 +61,7 @@
 
 # Tips
 - Contact headhunters on LinkedIn
+	- Use Olga's account to research interviewers' key points
 - Study
 	- [Hennge Stack](https://stackshare.io/hennge/hennge-kk)
 	- [CS 162](https://inst.eecs.berkeley.edu/~cs162/fa19/static/lectures/)
@@ -67,6 +69,15 @@
 	- [Web Architecture](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file)
 	- [[Andrew_S_Tanenbaum-Computer_Networks.pdf|Computer Networks]]
 	- [Monster](https://www.monster.de/jobs/suche?q=Informatiker+als+Beauftragter+f%C3%BCr+das+CCC++Krebszentrum+M%C3%BCnchen&where=M%C3%BCnchen&page=1&id=27d442f1-7fcd-4c67-b2ab-e0440bc095b2&mstr_dist=true&utm_id=eu0006&utm_medium=social_sm_campaigns&utm_term=paid&utm_content=prospecting+android&utm_source=facebook&utm_campaign=de-prospecting-pbc-as-offs-v4-android)
+- Informational Interviews
+	- Sydney Schreppler
+	- Kayleigh (Atom Computing)
+	- Justin Gerber (Ground Loops)
+- Lightbend
+	- Are an SRE who understands how to operate modern distributed data systems on Kubernetes to be extremely reliable with predictable performance.
+	- Are dedicated to best practices such as infrastructure as code, automated testing, code reviews, CI/CD, GitOps, and testing.
+	- Are familiar with many of the supporting technologies we use, including Terraform, Crossplane, FluxCD GitOps, Prometheus, Grafana, Actors, Service Mesh frameworks, etc.
+	- Are experienced with complex and secure networking environments, including Encryption Keys, and TLS. 
 
 # Side-Hustles
 - [ ] [Lyzeum](https://lyzeum-muenchen.de)
