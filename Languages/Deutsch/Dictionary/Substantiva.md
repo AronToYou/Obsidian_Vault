@@ -28,6 +28,8 @@ Wörter, die sich auf Informatik bezogen.
 ## der
 - **Arbeitsspeicher** -- RAM
 - **Massenspeicher** -- mass storage
+- **Server**
+- **Router**
 ## die
 - **Grafikkarte**
 ## das

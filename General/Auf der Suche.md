@@ -54,6 +54,14 @@
 - [ ] [Kuka](https://www.kuka.com)
 - [ ] Adlatus Robotics GmbH
 
+### Robotise
+- Onboarding
+	- Geobotics
+	- TCO
+- King Saudi
+- Zurich
+	- 30 -> 100 robots possibly
+
 ## Akademik
 - [ ] JRC - disinformation
 - [ ] [TUM](https://cs.cit.tum.de/cs/forschung/geb)

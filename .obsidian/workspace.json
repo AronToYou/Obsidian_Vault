@@ -53,19 +53,6 @@
             }
           },
           {
-            "id": "316928470b41a67f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Auf der Suche.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3077b6be2340c83d",
             "type": "leaf",
             "state": {
@@ -79,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "Computers/Network Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "Computers/Network Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Auf der Suche.md"
+                "file": "Computers/Network Interfaces.md"
               }
             }
           }
@@ -206,11 +193,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "316928470b41a67f",
+  "active": "0f41f7ae7d2c7d70",
   "lastOpenFiles": [
-    "To-Do (For Learning).md",
-    "General/Auf der Suche.md",
+    "Computers/Storage/Protocols & Layouts.md",
+    "Computers/Storage/Storage Devices.md",
+    "Computers/Storage",
+    "Computers/Network Interfaces.md",
+    "Languages/Deutsch/Besonderheiten/Interessante Sätze.md",
+    "Computers",
+    "Languages/Deutsch/Besonderheiten/Art von Phrasen.md",
     "Languages/Deutsch/Dictionary/Substantiva.md",
+    "General/Auf der Suche.md",
+    "To-Do (For Learning).md",
     "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
     "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
     "To-Remember (For Fun).md",
@@ -230,22 +224,15 @@
     "_media/books",
     "_media/irreg_verbs_DNutting.pdf",
     "Languages/Deutsch/ausstehende Eintragung.md",
-    "Languages/Deutsch/Besonderheiten/Interessante Sätze.md",
-    "Languages/Deutsch/Besonderheiten/Art von Phrasen.md",
     "Languages/Deutsch/Besonderheiten/Besondere Fälle.md",
     "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
     "Languages/Deutsch/Satzgrammatik/Funktion des Nebensatzes.md",
     "Languages/Deutsch/Wortgrammatik",
-    "Languages/Deutsch/Satzgrammatik/Ausdrücke von Zeiträumen.md",
-    "wp.ge-fo-rum.de.md",
-    "Web Tech/OSI Model.md",
     "_media/img/brain_map.jpg",
     "_media/img/brain_map.jpg.crdownload",
     "_media/books/Andrew_S_Tanenbaum-Computer_Networks.pdf",
     "_media/configs/bookmarks_4_19_24.html",
     "_media/configs",
-    "_media/Andrew_S_Tanenbaum-Computer_Networks.pdf.crdownload",
-    "gbc.one",
     "_media/img/personalPronounDeclension.png",
     "_media/img/MI_3.0.png",
     "_media/img/derselbe-.png",
