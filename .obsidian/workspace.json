@@ -64,9 +64,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e2aa633e3de2be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Tech/OSI Model/Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,6 +126,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "10e5a518494b8f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02b1c7d6314b22c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computers/Network Interfaces.md",
+                "file": "Web Tech/OSI Model/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computers/Network Interfaces.md",
+                "file": "Web Tech/OSI Model/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,17 +199,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computers/Network Interfaces.md"
+                "file": "Web Tech/OSI Model/Overview.md"
+              }
+            }
+          },
+          {
+            "id": "3c9d2f9ff84a6bc7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,21 +228,32 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0f41f7ae7d2c7d70",
+  "active": "0e2aa633e3de2be7",
   "lastOpenFiles": [
+    "_media/sortspec.md",
+    "Web Tech/OSI Model/Overview.md",
+    "_media/irreg_verbs_DNutting.pdf",
+    "To-Do (For Learning).md",
+    "Web Tech/Networks.md",
+    "Software Development/Semantic Versioning 2.0.0.md",
+    "Software Development",
+    "Software Development/AI and ML/PyTorch.md",
+    "Software Development/AI and ML/AI Industry.md",
+    "Computers/Linux/All Linux Programs.md",
     "Computers/Storage/Protocols & Layouts.md",
+    "Computers/Linux/Network Interfaces.md",
     "Computers/Storage/Storage Devices.md",
+    "Computers/Linux",
     "Computers/Storage",
-    "Computers/Network Interfaces.md",
     "Languages/Deutsch/Besonderheiten/Interessante Sätze.md",
     "Computers",
     "Languages/Deutsch/Besonderheiten/Art von Phrasen.md",
     "Languages/Deutsch/Dictionary/Substantiva.md",
     "General/Auf der Suche.md",
-    "To-Do (For Learning).md",
     "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
     "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
     "To-Remember (For Fun).md",
@@ -215,24 +264,13 @@
     "Languages/Deutsch/Wortgrammatik/Fürwörter.md",
     "Languages/Deutsch/Wortgrammatik/Tätigkeitswörter.md",
     "Languages/Deutsch/Wortgrammatik/Declension.md",
-    "Languages/Deutsch/Wortgrammatik/Eigenschaftswörter.md",
     "_media/img/wieso.png",
     "_media/img/wieso.png.crdownload",
-    "Languages/Deutsch/Besonderheiten/Abkürzungen.md",
-    "Languages/Deutsch/Wortgrammatik/ß und ss.md",
-    "Languages/Deutsch/Besonderheiten/Sprichwörter.md",
     "_media/books",
-    "_media/irreg_verbs_DNutting.pdf",
-    "Languages/Deutsch/ausstehende Eintragung.md",
-    "Languages/Deutsch/Besonderheiten/Besondere Fälle.md",
-    "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
-    "Languages/Deutsch/Satzgrammatik/Funktion des Nebensatzes.md",
     "Languages/Deutsch/Wortgrammatik",
     "_media/img/brain_map.jpg",
     "_media/img/brain_map.jpg.crdownload",
     "_media/books/Andrew_S_Tanenbaum-Computer_Networks.pdf",
-    "_media/configs/bookmarks_4_19_24.html",
-    "_media/configs",
     "_media/img/personalPronounDeclension.png",
     "_media/img/MI_3.0.png",
     "_media/img/derselbe-.png",

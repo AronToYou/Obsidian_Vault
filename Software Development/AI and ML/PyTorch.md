@@ -1,0 +1,12 @@
+- lightning
+- torchmetrics
+- pytorch_
+	- lightning 2.0.8
+	- forecasting 1.0.0
+	- optimizer 2.11.2
+	- multipart 0.0.6
+
+- torch 2.0.1
+	- audio 2.0.2
+	- metrics 1.1.1
+	- vision 0.15.2
