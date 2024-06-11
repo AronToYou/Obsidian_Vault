@@ -137,7 +137,7 @@
 - [Afterglow](https://doi.org/10.1016/j.euroneuro.2022.01.114)
 #### Botanicals
 - [Some Mixture](https://www.bluelight.org/community/threads/ok-to-combine-rhodiola-rosea-sam-e-cordyceps.516181/)
-- Withania somnifera (ashwagandha or winter cherry)
+- Withania somnifera (Ashwagandha or winter cherry)
 - [Rhodiola Rosea](https://www.bluelight.org/community/threads/rhodiola-rosea.591899/) (MAO-B inhibitor)
 - ##### GABA
 	- [Herbal GABA Remedies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7914492/#B5-nutrients-13-00530)
@@ -160,6 +160,7 @@
 - Role of Nitric Oxide in the body
 	- Choline in Nootropic stacks
 	- Superbeets Heart Chews
+- [Flavonoids in Dark Chocolate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6225491/)
 
 ---
 # Chemistry
@@ -186,6 +187,7 @@
 <hr width="50%" align="right" style="border: 1px solid white">
 - Principality of Andorra (Catalan)
 - Lenape - Delaware indigenous
+- Ibogaine from the Pygmy tribes of Central to the Bwiti tribe of Gabon
 
 ---
 # News

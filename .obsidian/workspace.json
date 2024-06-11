@@ -71,15 +71,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Tech/OSI Model/Overview.md",
+                "file": "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Tech/OSI Model/Overview.md",
+                "file": "General/Auf der Suche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Tech/OSI Model/Overview.md",
+                "file": "General/Auf der Suche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Tech/OSI Model/Overview.md"
+                "file": "General/Auf der Suche.md"
               }
             }
           },
@@ -220,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,12 +232,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0e2aa633e3de2be7",
+  "active": "d4f1d9da86fcff76",
   "lastOpenFiles": [
-    "_media/sortspec.md",
-    "Web Tech/OSI Model/Overview.md",
-    "_media/irreg_verbs_DNutting.pdf",
+    "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
+    "AkademischeStellen.com.md",
+    "General/Auf der Suche.md",
     "To-Do (For Learning).md",
+    "General/Ideas.md",
+    "Web Tech/OSI Model/Overview.md",
+    "_media/sortspec.md",
+    "_media/irreg_verbs_DNutting.pdf",
     "Web Tech/Networks.md",
     "Software Development/Semantic Versioning 2.0.0.md",
     "Software Development",
@@ -253,7 +257,6 @@
     "Computers",
     "Languages/Deutsch/Besonderheiten/Art von Phrasen.md",
     "Languages/Deutsch/Dictionary/Substantiva.md",
-    "General/Auf der Suche.md",
     "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
     "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
     "To-Remember (For Fun).md",
@@ -262,8 +265,6 @@
     "Languages/Deutsch/Dictionary/Bindewörter.md",
     "Languages/Deutsch/Wortgrammatik/Satzstrukturen.md",
     "Languages/Deutsch/Wortgrammatik/Fürwörter.md",
-    "Languages/Deutsch/Wortgrammatik/Tätigkeitswörter.md",
-    "Languages/Deutsch/Wortgrammatik/Declension.md",
     "_media/img/wieso.png",
     "_media/img/wieso.png.crdownload",
     "_media/books",

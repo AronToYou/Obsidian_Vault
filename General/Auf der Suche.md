@@ -15,6 +15,7 @@
 - [ ] Benz/VW
 - [ ] Sesquehana
 - [ ] Redhat
+- [ ] NVIDIA
 
 ### In München
 - [ ] Parkdepot
@@ -32,6 +33,7 @@
 - [ ] [TWT](https://www.twt.de/en/karriere)
 - [ ] [Munich RE](https://www.munichre.com/de/karriere.html)
 - [ ] [Reality Maps](https://www.realitymaps.de/unternehmen-stellenangebote/)
+- [ ] TNG Technology Consulting
 - #### Crypto
 	- [ ] [Tangany](https://tangany.com/jobs)
 	- [ ] [Munich Startup](https://www.munich-startup.de/startups/?tags=big-data)
@@ -66,10 +68,12 @@
 - [ ] JRC - disinformation
 - [ ] [TUM](https://cs.cit.tum.de/cs/forschung/geb)
 	- [ ] [Social Computing](https://soc.cit.tum-de/persons/)
+- [ ] [AkademischeStellen](https://akademischestellen.com)
 
 # Tips
 - Contact headhunters on LinkedIn
 	- Use Olga's account to research interviewers' key points
+- TLDR
 - Study
 	- [Hennge Stack](https://stackshare.io/hennge/hennge-kk)
 	- [CS 162](https://inst.eecs.berkeley.edu/~cs162/fa19/static/lectures/)
