@@ -124,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "10e5a518494b8f02",
@@ -224,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -231,7 +233,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4f1d9da86fcff76",
+  "active": "ef77ce4191654f20",
   "lastOpenFiles": [
     "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
     "AkademischeStellen.com.md",

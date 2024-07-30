@@ -1,5 +1,5 @@
 ## Arbeitsstelle
-- [ ] Siemens
+- [x] Siemens ✅ 2024-07-08
 - [ ] Bourns
 - [ ] DLR (Deutsches Zentrum für Luft- und Raumfahrt)
 - [ ] Quantum Black
@@ -18,7 +18,7 @@
 - [ ] NVIDIA
 
 ### In München
-- [ ] Parkdepot
+- [x] Parkdepot ✅ 2024-07-30
 - [ ] [Quantum Space Systems (qssys)](https://qssys.de)
 - [ ] Zeiss
 	- april.miksch@zeiss.com
@@ -33,20 +33,21 @@
 - [ ] [TWT](https://www.twt.de/en/karriere)
 - [ ] [Munich RE](https://www.munichre.com/de/karriere.html)
 - [ ] [Reality Maps](https://www.realitymaps.de/unternehmen-stellenangebote/)
-- [ ] TNG Technology Consulting
+- [ ] TNG Technology Consulting⏫ 
 - #### Crypto
 	- [ ] [Tangany](https://tangany.com/jobs)
 	- [ ] [Munich Startup](https://www.munich-startup.de/startups/?tags=big-data)
 	- [ ] [GBC](https://www.gbc.one/blockchain/)
 ### Recent
-- [ ] Fujitsu
+- [x] Fujitsu ✅ 2024-07-30
 	- Yusuke Kimura, Ph.D.
 	- Quantum Software Project
 	- yusuke-kimura@fujitsu.com
-- [ ] Hennge
+- [x] Hennge ✅ 2024-07-30
 	- [Internships](https://hennge.com/global/gip.html)
 - [ ] Codementor and Arc
 - [ ] [The Exploration Company](https://www.exploration.space)
+- [ ] Quantum Machines⏫ 
 ### Robots
 - [ ] Formant
 - [ ] Pudu
