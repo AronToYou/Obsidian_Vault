@@ -1,5 +1,5 @@
 ## Arbeitsstelle
-- [x] Siemens ✅ 2024-07-16
+- [x] Siemens ✅ 2024-07-08
 	- [ ] Verification
 - [ ] Bourns
 - [ ] DLR (Deutsches Zentrum für Luft- und Raumfahrt)
@@ -52,10 +52,11 @@
 	- Yusuke Kimura, Ph.D.
 	- Quantum Software Project
 	- yusuke-kimura@fujitsu.com
-- [ ] Hennge
+- [x] Hennge ✅ 2024-07-30
 	- [Internships](https://hennge.com/global/gip.html)
 - [ ] Codementor and Arc
 - [ ] [The Exploration Company](https://www.exploration.space)
+- [ ] Quantum Machines⏫ 
 ### Robots
 - [ ] Formant
 - [ ] Pudu
