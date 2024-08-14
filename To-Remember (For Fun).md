@@ -46,3 +46,5 @@
 # Figures
 ## Figure A
 ![[Spider-Man-Electric-Company.jpg|Spiderman in The Electric Company]]
+
+ge43gej@mytum.de

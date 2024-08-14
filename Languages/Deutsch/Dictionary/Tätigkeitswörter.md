@@ -2,11 +2,22 @@
 - **Zeitwort**
 - **Tuwort**
 [Wortarte](https://de.wiktionary.org/wiki/Hilfe:Wortart)
-# trennbar
-<hr width="75%" style="border: 1px solid white">
 
-# intransitiv
-<hr width="75%" style="border: 1px solid white">
+<div style="font-size:1.7em;display:flex;line-height:1em;"><b><ins>---- ENTRY FORMAT ----</ins></b></div>
+- **word** (*Trennbarkeit*) -- intransitive definition \<*connotation*\> \[transitive definition\] {reflexiv definition}
+	- *Example sentence.*
+	- *Another example sentence.*
+	- **related word** (*Trennbarkeit*) -- intransitive definition \<*connotation*\> \[transitive definition\] {reflexiv definition}
+		- *Example sentence.*
+		- **...**
+	- **...**
+- **...**
+# trennbar (trennb.)
+# untrennbar (utrennb.)
+
+# transitiv (trans., tr.)
+# intransitiv (intrans., intr., itr.)
+# reflexiv (refl.)
 
 
 ---
@@ -18,13 +29,12 @@
 
  - **erweitern**
  - **vertiefen**
- - **arbeiten** - do / (***reflexiv*** work one's way)
+ - **arbeiten** - do {work one's way}
 	 - **erarbeiten** - gain / extract / compile / elaborate
 	 - **verarbeiten** - make / convert (*zu* into) / process
 	 - **bearbeiten** - treat / adapt
-	 - **durcharbeiten** - plow through
-- **darstellen** - represent / depict
-	- (***reflexiv*** - present itself / appear to be)
+	 - **durcharbeiten** (*trennb.*) - plow through
+- **darstellen** (*trennb.*) - represent / depict {present itself / appear to be}
 - **behaupten**
 - **beziehen** -- refer to
 	- sich auf (*Akk.*) beziehen
@@ -34,3 +44,8 @@
 - **veranlassen** -- arrange
 	- Ich werde das Nötige (alles Weitere) veranlassen.
 	- jemanden zu etwas veranlassen -- to prompt sb. to do sth.
+- **fordern** -- demand \<*strong*\>
+	- **verlangen** -- demand \<strong emotion\>
+	- **auffordern** (*trennb.*) -- ask / invite / request \<*somewhat strong*\>
+	- **anfordern** (*trennb.*) -- request \<neutral\>
+	- **erfordern** -- require (as in a requirement) \<neutral\>

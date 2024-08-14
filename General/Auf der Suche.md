@@ -1,6 +1,7 @@
 ## Arbeitsstelle
 - [x] Siemens ✅ 2024-07-08
-	- [ ] Verification
+	- [x] Java & RPA Developer ✅ 2024-08-05
+	- [ ] C++ Software Engineer - RTL Design and Synthesis
 - [ ] Bourns
 - [ ] DLR (Deutsches Zentrum für Luft- und Raumfahrt)
 - [ ] Quantum Black
@@ -22,6 +23,7 @@
 - [x] Zolando ✅ 2024-07-16
 - [ ] Personio
 - [ ] Check24
+- [ ] [LMAX](https://careers.lmax.com/)
 
 ### In München
 - [x] Parkdepot ✅ 2024-07-16
@@ -29,6 +31,7 @@
 - [ ] Zeiss
 	- april.miksch@zeiss.com
 	- stefan.hoelle@zeiss.com
+	- [Job IDs](obsidian://open?vault=Obsidian_Vault&file=General%2FJob%20IDs)
 - [ ] [Robco](https://robco.de)
 - [ ] [Circus Group](https://www.circus-group.com)
 - [ ] Consol
@@ -42,6 +45,15 @@
 - [ ] TNG Technology Consulting
 - [x] gridX ✅ 2024-07-17
 - [x] codasip ✅ 2024-07-17
+- [ ] Covesion
+	- [ ] [Lewis Smith](https://www.linkedin.com/in/lewis-s-b91526207/)
+- [ ] [Quantagonia](https://www.quantagonia.com/)
+- [ ] [PTC](https://ptc.com/en/careers) 
+- [ ] [neofect](https://www.neofect.de/karriere/)
+- [ ] [Bertrandt Group](https://www.bertrandt.com/en/)
+- [ ] [finconomy](https://fineconomy.de/en/)
+- [ ] [IP Dynamics](https://www.ipdynamics.de/)
+- [ ] 
 
 - #### Crypto
 	- [ ] [Tangany](https://tangany.com/jobs)
@@ -83,6 +95,9 @@
 # Tips
 - Contact headhunters on LinkedIn
 	- Use Olga's account to research interviewers' key points
+- Elevator Pitch
+	- Why should I hire you?
+	- How do I know you aren't going to return to America?
 - TLDR
 - Study
 	- [Hennge Stack](https://stackshare.io/hennge/hennge-kk)
@@ -107,6 +122,9 @@
 	- Know-how im Hadoop Ecosytem, Orchestration Tools, CI/CD Tools (Pipelines, GitOps, Jenkins), Configuration Management/Infrastructure as Code (IaC) Tools wie Terraform, Chef, Puppet oder Ansible, in den Programmiersprachen Golang, Python, Bash, in Cloud-Technologien (AWS, Azure oder GCP) sowie im Aufbau und Betrieb überwiegend Linux-basierter und hochverfügbarer Systemlösungen
 	- Expertise in den gängigen ML- und KI-Bibliotheken wie TensorFlow, PyTorch und GPT-Modelle sowie Praxiswissen in der Bewertung von Cloud-Architekturen und deren Neugestaltung
 	- Experience with automotive-relevant network technologies (e.g. TCP/IP, CAN, or Ethernet) and hardware interfaces (I2C, SPI, UART)
+	- [DevOps Pass](https://github.com/devopspass)
+		- [K3s](https://k3s.io/)
 
 # Side-Hustles
 - [ ] [Lyzeum](https://lyzeum-muenchen.de)
+- [ ] [GT Protocol](https://www.gt-protocol.io/)

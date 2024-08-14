@@ -64,6 +64,7 @@
       {
         "id": "423faabcb0e615e3",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "0f41f7ae7d2c7d70",
@@ -103,6 +104,7 @@
       {
         "id": "10e5a518494b8f02",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "02b1c7d6314b22c4",
@@ -116,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 228.5
   },
   "right": {
     "id": "587fa5dd9cf45d80",
@@ -208,12 +210,23 @@
   },
   "active": "d4f1d9da86fcff76",
   "lastOpenFiles": [
-    "General/Auf der Suche.md~",
-    "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
-    "AkademischeStellen.com.md",
+    "To-Remember (For Fun).md",
+    "ptc.com/en/careers.md",
     "General/Auf der Suche.md",
+    "ptc.com/en",
+    "ptc.com",
+    "General/Job IDs.md",
     "To-Do (For Learning).md",
     "General/Ideas.md",
+    "Languages/Deutsch/Dictionary/Eigenschafts(Umstands)wörter.md",
+    "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
+    "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
+    "Languages/Deutsch/Dictionary/Substantiva.md",
+    "Languages/Deutsch/Wortgrammatik/Umstandswörter.md",
+    "Languages/Deutsch/Wortgrammatik/Eigenschaftswörter.md",
+    "Languages/Deutsch/Dictionary/Bindewörter.md",
+    "Languages/Deutsch/Dictionary/Verhältniswörter.md",
+    "AkademischeStellen.com.md",
     "Web Tech/OSI Model/Overview.md",
     "_media/sortspec.md",
     "_media/irreg_verbs_DNutting.pdf",
@@ -230,22 +243,11 @@
     "Computers/Storage",
     "Languages/Deutsch/Besonderheiten/Interessante Sätze.md",
     "Computers",
-    "Languages/Deutsch/Besonderheiten/Art von Phrasen.md",
-    "Languages/Deutsch/Dictionary/Substantiva.md",
-    "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
-    "Languages/Deutsch/Dictionary/Eigenschaftswörter.md",
-    "To-Remember (For Fun).md",
-    "Languages/Deutsch/Dictionary/Umstandswörter.md",
-    "Languages/Deutsch/Dictionary/Verhältniswörter.md",
-    "Languages/Deutsch/Dictionary/Bindewörter.md",
-    "Languages/Deutsch/Wortgrammatik/Satzstrukturen.md",
     "_media/img/wieso.png",
     "_media/img/wieso.png.crdownload",
     "_media/books",
     "Languages/Deutsch/Wortgrammatik",
     "_media/img/brain_map.jpg",
-    "_media/img/brain_map.jpg.crdownload",
-    "_media/books/Andrew_S_Tanenbaum-Computer_Networks.pdf",
     "_media/img/personalPronounDeclension.png",
     "_media/img/MI_3.0.png",
     "_media/img/derselbe-.png",
