@@ -24,6 +24,7 @@
 - [ ] Personio
 - [ ] Check24
 - [ ] [LMAX](https://careers.lmax.com/)
+- [ ] [Oxygen Digital](https://oxygendigital.ai)
 
 ### In München
 - [x] Parkdepot ✅ 2024-07-16
@@ -53,7 +54,10 @@
 - [ ] [Bertrandt Group](https://www.bertrandt.com/en/)
 - [ ] [finconomy](https://fineconomy.de/en/)
 - [ ] [IP Dynamics](https://www.ipdynamics.de/)
-- [ ] 
+- [ ] [Blickfeld](https://blickfeld.com/de/)
+- [ ] [Lilium](https://lilium.com)
+- [ ] [Fernride](https://www.fernride.com/open-positions)
+- [ ] [bitsCrunch](https://bitscrunch.com/careers)
 
 - #### Crypto
 	- [ ] [Tangany](https://tangany.com/jobs)
@@ -124,7 +128,61 @@
 	- Experience with automotive-relevant network technologies (e.g. TCP/IP, CAN, or Ethernet) and hardware interfaces (I2C, SPI, UART)
 	- [DevOps Pass](https://github.com/devopspass)
 		- [K3s](https://k3s.io/)
+	- [Top Munich Startups](https://bebeez.eu/2024/03/02/top-10-munich-based-startups-to-watch-in-2024-all-of-them-are-hiring-right-now/)
 
 # Side-Hustles
 - [ ] [Lyzeum](https://lyzeum-muenchen.de)
 - [ ] [GT Protocol](https://www.gt-protocol.io/)
+- [ ] [Modelagentur München](https://meine.foto-agentur.de)
+
+# Resume
+Layout Contact info in standard format
+> place | number | email
+### Objective Section
+### Experience
+- Olivaw
+Be specific regarding how KPIs helped team
+mention the technology used
+- Max Planck
+Explain the UV-laser's role
+- WSI
+Mention that you've also done the FoPra yourself
+- Ultracold
+List paper using your microtraps
+### Skills Section
+Tic-tac-toe grid for category versus proficiency
+
+### Education
+bullet point thesis description
+find fasfa grants
+
+### References Section
+
+	### **1. **Experience Section:**
+	
+	- **Current Role (Olivaw GmbH):**
+	    - Keep it detailed enough to showcase your achievements and the impact you've made but avoid going too deep into technical minutiae unless it directly relates to the job you're applying for.
+	- **Past Roles:**
+	    - For older experiences or roles that are less relevant to your current career goals, keep the descriptions shorter. Focus on key achievements and skills learned rather than listing every responsibility.
+	
+	### **2. **Education and Projects:**
+	
+	- **Education:**
+	    - This section is already well-detailed, especially with your thesis description. You might consider shortening some descriptions if you need space, but keep the technical aspects that showcase your expertise.
+	- **Projects:**
+	    - Your project descriptions are a bit more detailed than necessary. Briefly summarizing the project and its impact or the skills you gained would suffice. Employers typically want to see the relevance and outcome rather than every technical detail.
+	
+	### **3. **Skills Section:**
+	
+	- This section is concise, which is good. No need to add more text here, as the listed skills are clear and well-organized.
+	
+	### **4. **General Guideline:**
+	
+	- **Two-Page Resume:** Given your extensive experience and education, a two-page resume is appropriate. However, make sure every word counts. Remove or condense any sections that are overly detailed or repetitive.
+	- **Focus on Impact:** Prioritize the impact of your work rather than the processes or technologies you used. Employers are interested in what you accomplished and how it benefited the team or company.
+	
+	### **Conclusion:**
+	
+	- **Current Length:** Your resume is on the detailed side, which is fine given your background, but you could slightly reduce the word count to make it even more concise and impactful. Aim to trim down sections where you've gone into too much detail on technical processes or older roles.
+	
+	Would you like specific examples of where to cut down text or how to condense certain sections?
