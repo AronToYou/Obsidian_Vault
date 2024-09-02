@@ -51,7 +51,9 @@
  - **erweitern**
  
  - **vertiefen**
- 
+
+- **verwirklichen** -- achieve, realize, implement, carry out {to be realized (one's potential)}
+
  - **arbeiten** - do \[work\] {work one's way}
 	 - **erarbeiten** - gain / extract / compile / elaborate
 	 - **verarbeiten** - make / convert (*zu* into) / process

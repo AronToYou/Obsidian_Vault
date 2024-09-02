@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Deutsch/Dictionary/Eigenschafts(Umstands)wörter.md",
+                "file": "Languages/Deutsch/Dictionary/Substantiva.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -224,6 +224,7 @@
   },
   "active": "7611c7e7164f7548",
   "lastOpenFiles": [
+    "Languages/Deutsch/Dictionary/Substantiva.md",
     "Languages/Deutsch/Dictionary/Eigenschafts(Umstands)wörter.md",
     "General/Interview.md",
     "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
@@ -231,7 +232,6 @@
     "Computers/Linux/File System.md",
     "Languages/Deutsch/Wortgrammatik/Eigenschaftswörter.md",
     "General/Auf der Suche.md",
-    "Languages/Deutsch/Dictionary/Substantiva.md",
     "Languages/Deutsch/Dictionary/Verhältniswörter.md",
     "Computers/Bash.md",
     "Languages/Deutsch/Wortgrammatik/Declension.md",

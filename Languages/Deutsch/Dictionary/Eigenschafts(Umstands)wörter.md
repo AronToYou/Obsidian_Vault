@@ -31,11 +31,15 @@ See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de
 - **satt** -- satiated / tired of, rich / deep
 	- *etwas satt sein*
 	- *sattes Grün*
+- **hochwertig** -- high quality
 
 # Präsens-Partizip
 <hr width="75%" align="right" style="border: 1px solid white">
 
 - **anscheinend** -- seeming \[seemingly\] ^efb3ad
+- **fließend** -- fluently
+- **weitgehend** -- far reaching
+	- **weitergehend** -- further reaching
 
 # besondere Wörter
 <hr width="75%" align="right" style="border: 1px solid white">
@@ -47,13 +51,14 @@ See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de
 - **waschecht** -- sich beim Waschen nicht verändernd
 - **knifflig** (**kniffelig**) -- tricky (von [[Substantiva#^9f995d|der Kniff]])
 	- **verzwickt**
+	- **umständlich**
+	- **kompliziert**
+	- **durcheinander** -- \[indiscriminately\]
 
 ---
 # Unorganisierten
 <hr width="75%" align="right" style="border: 1px solid white">
 
-- **weitgehend** -- far reaching
-	- **weitergehend** -- further reaching
 - **wendig** -- maneuverable / agile
 	- **auswendig** -- from memory
 - **mollig**
@@ -62,7 +67,10 @@ See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de
 - **geeignet**
 	- **passend**
 	- **angemessen**
+
 - **ausführlich** -- thorough
+- **umfangreiches** -- extensive
+
 - **erklären**
 	- **erläutern**
 - **gekennzeichnet** -- marked
@@ -72,18 +80,20 @@ See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de
 	- **unsachlich** -- irrelevant / nonobjective
 - **ausstehend** -- pending
 - **hinsichtlich**
-- **umständlich**
-	- **kompliziert**
-	- **durcheinander** -- \[indiscriminately\]
-- **worüber**
-	- Worüber denkst du nach?
+
 - **bezogen** -- related / relative
 - **aufdringlich** -- pushy / obtrusive
 - **vordergründig** -- superficial, ostensible, transparent / apparent \[superficially, ostensibly, primarily / mainly\]
 - **erschwinglich** -- affordable
+- **hauptsächlich** -- primarily
+	- **vornehmlich**
+- **fleißig** -- hard-working
 
 ## Umstandswörter
 <hr width="75%" align="right" style="border: 1px solid white">
+
+- **worüber**
+	- Worüber denkst du nach?
 
 - **zueinander**
 - **im...** -- in...

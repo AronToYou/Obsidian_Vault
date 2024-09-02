@@ -17,6 +17,12 @@
 - **Zettel (8,569)**
 	- **Beleg (12,991)**
 
+- **Vorgang** -- process
+	- **Verlauf** -- course, path
+	- **Proceß** -- process
+	- **Ablauf** -- outflow, process, sequence (of events)
+	- das **Vorgehen** -- course of action
+
 ## weibliche (die)
 - **Seine** -- his oder his/her highness (HH.)
 - **Kutsche** -- old banger
