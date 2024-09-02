@@ -17,7 +17,7 @@
 - [ ] Benz/VW
 - [ ] Sesquehana
 - [ ] Redhat
-- [ ] NVIDIA
+- [x] NVIDIA ✅ 2024-08-29
 - [x] FERCHAU ✅ 2024-07-16
 - [ ] think-cell
 - [x] Zolando ✅ 2024-07-16
@@ -33,7 +33,6 @@
 	- april.miksch@zeiss.com
 	- stefan.hoelle@zeiss.com
 	- [Job IDs](obsidian://open?vault=Obsidian_Vault&file=General%2FJob%20IDs)
-- [ ] [Robco](https://robco.de)
 - [ ] [Circus Group](https://www.circus-group.com)
 - [ ] Consol
 - [ ] [Brainchild?](https://brainchild.jobs.personio.de)
@@ -58,6 +57,13 @@
 - [ ] [Lilium](https://lilium.com)
 - [ ] [Fernride](https://www.fernride.com/open-positions)
 - [ ] [bitsCrunch](https://bitscrunch.com/careers)
+- [x] [Yunex](https://www.yunextraffic.com/) ✅ 2024-08-29
+- [x] [innovis](https://www.innovis-solutions.de/) ✅ 2024-08-29
+- [x] [accenture]() ✅ 2024-08-29
+- [x] [Bachner Group](https://bachner.de/de) ✅ 2024-08-29
+- [x] [persona service AG](https://www.persona.de/) ✅ 2024-08-29
+- [ ] atos
+- [ ] BayernHeim
 
 - #### Crypto
 	- [ ] [Tangany](https://tangany.com/jobs)
@@ -72,7 +78,7 @@
 	- [Internships](https://hennge.com/global/gip.html)
 - [ ] Codementor and Arc
 - [ ] [The Exploration Company](https://www.exploration.space)
-- [ ] Quantum Machines⏫ 
+- [x] Quantum Machines ⏫ ✅ 2024-08-29
 ### Robots
 - [ ] Formant
 - [ ] Pudu
@@ -81,6 +87,7 @@
 - [ ] Meili Robots
 - [ ] [Kuka](https://www.kuka.com)
 - [ ] Adlatus Robotics GmbH
+- [x] RobCo ✅ 2024-08-29
 
 ### Robotise
 - Onboarding

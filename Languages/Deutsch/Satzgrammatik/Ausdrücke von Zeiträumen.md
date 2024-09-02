@@ -22,7 +22,9 @@
 - Einer Nacht/Woche
 
 ## bestimmte Zeit mit Verhältniswort
-<font style="color:blue">Blau</font>  wird auf Präpositionen angewandt, bei denen einer von zwei möglichen Fällen auf ihre Objekte zutreffen kann.
+> [!attention]
+> <font style="color:blue">Blau</font>  wird auf Präpositionen angewandt, bei denen einer von zwei möglichen Fällen auf ihre Objekte zutreffen kann.
+> Handelt es sich jedoch um Zeitausdrücke, gilt nur der entsprechende angegebene Fall in Rot.
 ### <font style="color:red">Dativ</font>
 #### <font style="color:blue">in - an - vor</font> - nach - seit
 - Am Montag

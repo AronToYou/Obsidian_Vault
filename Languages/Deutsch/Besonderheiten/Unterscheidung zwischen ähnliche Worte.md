@@ -27,3 +27,11 @@
 ## ändern - verändern
 - **ändern** - instantaneous, specific
 - **verändern** - over time, non-specific
+
+## meist - meistens
+- **meist** - usually
+- **meistens** - most of the time
+
+## am besten - am Besten
+- **am besten** - best out of that (*adj.*)
+- **am Besten** - the best (*noun*)

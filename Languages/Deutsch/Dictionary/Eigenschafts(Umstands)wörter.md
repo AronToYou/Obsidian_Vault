@@ -17,20 +17,41 @@ See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de
 
 # zeitliche Wörter
 <hr width="75%" style="border: 1px solid white">
+
 - **eintägig** -- lasting one day
 - **zügig** -- swift / prompt \[swiftly / briskly\]
 	- **geschwind** -- quick \[quickly\]
 	- **rasch** -- rash / hasty \[rashly / hastily\]
+- **unaufhörlich** -- incessant
+
+# erklärende Wörter
+<hr width="75%" align="right" style="border: 1px solid white">
+
+- **neidig** -- jealous
+- **satt** -- satiated / tired of, rich / deep
+	- *etwas satt sein*
+	- *sattes Grün*
+
+# Präsens-Partizip
+<hr width="75%" align="right" style="border: 1px solid white">
+
+- **anscheinend** -- seeming \[seemingly\] ^efb3ad
+
 # besondere Wörter
 <hr width="75%" align="right" style="border: 1px solid white">
+
 - **etwaig** -- any / whatever
 - **bloß** -- auch ein Umstandswort
 - **sehnsuchtsvoll** (**sehnsüchtig**) -- longing \[longingly\]
 	- *Ich verlange sehnsuchtsvoll nach Dir!*
+- **waschecht** -- sich beim Waschen nicht verändernd
+- **knifflig** (**kniffelig**) -- tricky (von [[Substantiva#^9f995d|der Kniff]])
+	- **verzwickt**
 
 ---
 # Unorganisierten
 <hr width="75%" align="right" style="border: 1px solid white">
+
 - **weitgehend** -- far reaching
 	- **weitergehend** -- further reaching
 - **wendig** -- maneuverable / agile
@@ -58,8 +79,12 @@ See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de
 	- Worüber denkst du nach?
 - **bezogen** -- related / relative
 - **aufdringlich** -- pushy / obtrusive
+- **vordergründig** -- superficial, ostensible, transparent / apparent \[superficially, ostensibly, primarily / mainly\]
+- **erschwinglich** -- affordable
+
 ## Umstandswörter
 <hr width="75%" align="right" style="border: 1px solid white">
+
 - **zueinander**
 - **im...** -- in...
 	- **Folgenden** -- the following

@@ -23,46 +23,46 @@
             }
           },
           {
-            "id": "bf1bf5ee9137475c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To-Do (For Learning).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "19863b25b9c1a074",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To-Remember (For Fun).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "55649a1820b5f743",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "Computers/Bash.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f8abf893e7ce991f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Deutsch/Dictionary/Eigenschafts(Umstands)wörter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7611c7e7164f7548",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Interview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -132,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "587fa5dd9cf45d80",
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "General/Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Auf der Suche.md",
+                "file": "General/Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Auf der Suche.md"
+                "file": "General/Interview.md"
               }
             }
           },
@@ -223,45 +222,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f41f7ae7d2c7d70",
+  "active": "7611c7e7164f7548",
   "lastOpenFiles": [
-    "General/Ideas.md",
-    "General/Auf der Suche.md",
-    "General/Bundesagentur für Arbeit.md",
+    "Languages/Deutsch/Dictionary/Eigenschafts(Umstands)wörter.md",
+    "General/Interview.md",
+    "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
+    "Languages/Русский/Keep/Practice.md",
     "Computers/Linux/File System.md",
+    "Languages/Deutsch/Wortgrammatik/Eigenschaftswörter.md",
+    "General/Auf der Suche.md",
+    "Languages/Deutsch/Dictionary/Substantiva.md",
+    "Languages/Deutsch/Dictionary/Verhältniswörter.md",
+    "Computers/Bash.md",
+    "Languages/Deutsch/Wortgrammatik/Declension.md",
+    "Languages/Deutsch/Dictionary/Bindewörter.md",
+    "Languages/Deutsch/Besonderheiten/Sprichwörter.md",
+    "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
+    "Languages/Deutsch/Besonderheiten/Interessante Sätze.md",
+    "Languages/Deutsch/Besonderheiten/Besondere Fälle.md",
+    "Languages/Deutsch/Besonderheiten/Art von Phrasen.md",
+    "Languages/Deutsch/Satzgrammatik/Ausdrücke von Zeiträumen.md",
+    "Languages/Deutsch/Satzgrammatik/Funktion des Nebensatzes.md",
+    "Languages/Deutsch/Besonderheiten/Abkürzungen.md",
+    "Computers/Linux/All Linux Programs.md",
+    "Computers/Linux/Network Interfaces.md",
+    "General/Job IDs.md",
+    "General/Ideas.md",
+    "General/Job Training.md",
+    "Languages/Русский/Keep/Русский.md",
+    "Languages/Русский/Keep/main",
+    "Languages/Русский/Keep",
     "_media/img/inode_links.png",
     "_media/img/inode_links.png.crdownload",
-    "Computers/Storage/Storage Devices.md",
-    "Computers/Storage/Protocols & Layouts.md",
-    "Computers/Linux/Network Interfaces.md",
-    "Computers/Linux/All Linux Programs.md",
-    "Languages/Deutsch/Wortgrammatik/Declension.md",
-    "To-Remember (For Fun).md",
-    "ptc.com/en/careers.md",
     "ptc.com/en",
     "ptc.com",
-    "General/Job IDs.md",
-    "To-Do (For Learning).md",
-    "Languages/Deutsch/Dictionary/Eigenschafts(Umstands)wörter.md",
-    "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
-    "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
-    "Languages/Deutsch/Dictionary/Substantiva.md",
-    "Languages/Deutsch/Wortgrammatik/Umstandswörter.md",
-    "Languages/Deutsch/Wortgrammatik/Eigenschaftswörter.md",
-    "Languages/Deutsch/Dictionary/Bindewörter.md",
-    "Languages/Deutsch/Dictionary/Verhältniswörter.md",
-    "AkademischeStellen.com.md",
-    "Web Tech/OSI Model/Overview.md",
-    "_media/sortspec.md",
     "_media/irreg_verbs_DNutting.pdf",
-    "Web Tech/Networks.md",
     "Software Development",
     "Computers/Linux",
     "Computers/Storage",
     "Computers",
     "_media/img/wieso.png",
-    "_media/img/wieso.png.crdownload",
-    "_media/books",
     "_media/img/brain_map.jpg",
     "_media/img/personalPronounDeclension.png",
     "_media/img/MI_3.0.png",

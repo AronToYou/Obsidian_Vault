@@ -3,3 +3,9 @@
 - Du willst mich doch verarschen.
 - Jedem das Seine.
 - Jeder lobt das Seine
+- Kein Anschiss ist Lob genug.
+	- Nicht geschimpft ist Lob genug.
+- ein waschechter Berliner
+- Was du heute kannst besorgen, das verschiebe nicht auf morgen.
+- Morgen, morgen nur nicht heute, sagen alle faulen Leute.
+	- ! Sprechen immer träge Leute.
