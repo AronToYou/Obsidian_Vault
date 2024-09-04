@@ -23,50 +23,19 @@
             }
           },
           {
-            "id": "55649a1820b5f743",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computers/Bash.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f8abf893e7ce991f",
+            "id": "c8761dcc3e7b8f30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Deutsch/Dictionary/Substantiva.md",
+                "file": "Computers/Rust.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "7611c7e7164f7548",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Interview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Interview.md",
+                "file": "General/Auf der Suche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Interview.md",
+                "file": "General/Auf der Suche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Interview.md"
+                "file": "General/Auf der Suche.md"
               }
             }
           },
@@ -205,12 +174,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,18 +190,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7611c7e7164f7548",
+  "active": "d4f1d9da86fcff76",
   "lastOpenFiles": [
+    "Computers/Bash.md",
+    "General/Auf der Suche.md",
     "Languages/Deutsch/Dictionary/Substantiva.md",
-    "Languages/Deutsch/Dictionary/Eigenschafts(Umstands)wörter.md",
     "General/Interview.md",
+    "Computers/Linux/Network Interfaces.md",
+    "To-Do (For Learning).md",
+    "Computers/Rust.md",
+    "Computers/Untitled.md",
+    "Languages/Deutsch/Dictionary/Eigenschafts(Umstands)wörter.md",
     "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
     "Languages/Русский/Keep/Practice.md",
     "Computers/Linux/File System.md",
     "Languages/Deutsch/Wortgrammatik/Eigenschaftswörter.md",
-    "General/Auf der Suche.md",
     "Languages/Deutsch/Dictionary/Verhältniswörter.md",
-    "Computers/Bash.md",
     "Languages/Deutsch/Wortgrammatik/Declension.md",
     "Languages/Deutsch/Dictionary/Bindewörter.md",
     "Languages/Deutsch/Besonderheiten/Sprichwörter.md",
@@ -245,11 +217,7 @@
     "Languages/Deutsch/Satzgrammatik/Funktion des Nebensatzes.md",
     "Languages/Deutsch/Besonderheiten/Abkürzungen.md",
     "Computers/Linux/All Linux Programs.md",
-    "Computers/Linux/Network Interfaces.md",
     "General/Job IDs.md",
-    "General/Ideas.md",
-    "General/Job Training.md",
-    "Languages/Русский/Keep/Русский.md",
     "Languages/Русский/Keep/main",
     "Languages/Русский/Keep",
     "_media/img/inode_links.png",
