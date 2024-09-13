@@ -9,11 +9,11 @@ obwohl ich bald wieder einen B2-Kurs beginnen werde.
 		- Der große Teil meines Studiums konzentrierte sich tendenziell auf Hardware und Systemprogrammierung, sowie in gewißem Maße KI und Grafik-Rendering.
 
 	- Gleichzeitig arbeitete ich in mehreren Atomphysiklabors.
-		- Dazu gehört typischerweise, unter anderem, die Entwicklung von Steuerungs- und Visualisierungssoftware, um präzise Versuchsabläufe zu orchestrieren.
+		- Dazu gehört typischerweise, unter anderem, die Entwicklung von Steuerungs- und Visualisierungssoftware, um zeitlich präzise Versuchsabläufe zu orchestrieren.
 
-	- Einer der Postdocs aus Deutschland empfahl mir, nach meinem Abschluß als Masterstudent in seinem neuen Labor in München zu arbeiten.
-		- Das Angebot hab ich deutlich angenommen.
-	- Zuletzt habe ich nach Abschluß der Masterarbeit eine Stelle beim Robotik-Startup Robotise angenommen, um meine Karriere stärker in Richtung Software Hardware zu lenken.
+	- Damals empfahl mir einer der Postdocs, nach meinem Abschluß in seinem neuen Labor in München zu arbeiten.
+		- Ich habe deutlich das Angebot angenommen und bereits vor knapp einem Jahr eine Masterarbeit daraus abgeschlossen.
+	- Zuletzt habe ich eine Stelle beim Robotik-Startup Robotise angenommen, um meine Karriere stärker in Richtung Software und Hardware zu lenken.
 
 
 2. **Warum haben Sie sich bei Innovis Solutions KG beworben?** 
@@ -23,7 +23,7 @@ obwohl ich bald wieder einen B2-Kurs beginnen werde.
 
 3. **Welche Ihrer Stärken würden Sie in dieser Position einbringen?**  
    - Ich bin gut darin, die Einzelheiten sorgfältig zu bedenken       (, was ironischerweise gelegentlich auch eine Schwäche sein kann).
-   - Sehr gerne lerne ich neue Dinge und versuche neue Lösungen.
+   - Ich lerne sehr gerne neue Dinge und probiere neue Lösungen aus.
    - Darüber hinaus optimiere ich besonders gerne Systemen hinsichtlich Effizienz und Leistung.
 
 
