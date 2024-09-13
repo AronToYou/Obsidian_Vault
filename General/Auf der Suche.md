@@ -1,17 +1,137 @@
 # Jobs
-## Processed
--  Siemens ✅ 2024-07-08
+## Current
+- [ ] atos
+- [x] Celonis ✅ 2024-09-04
+	- [x] [C++ Senior Software Engineer](https://www.celonis.com/careers/jobs/details/?jobId=5789461003) ✅ 2024-09-11
+	- [ ] [Software Engineer - Platform/ Automation](https://www.celonis.com/careers/jobs/details/?jobId=6031204003)
+	- [ ] [Frontend Engineer - Data Visualization](https://www.celonis.com/careers/jobs/details/?jobId=6037217003)
+- [x] Check24 ✅ 2024-09-04
+	- [ ] (Junior) Android Developer (m/f/d) Loans -- valentina.heidenreich@check24.de
+		- [ ] [Zoom-Interview](https://check24.zoom.us/j/65148329742?pwd=KbamvW3RKGbHaccFNljHnWt2WvNKUj.1) (2024-09-17 10:00) 1 hour
+			- Florian Hofsäss, Head of Department Software Entwicklung
+	- [ ] (Junior) Business Intelligence Manager (m/f/d) Karten & Konten -- Lilly.jacobs@check24.de
+	- [ ] (Junior) Data Scientist (m/f/d) AI Forge -- fabian.stechele@check24.de
+		- [x] Documents requested ✅ 2024-09-04
+	- [ ] (Junior) Data Scientist (m/f/d) Fin Tech -- Lilly.jacobs@check24.de
+	- [ ] (Junior) Softwareentwickler (m/f/d) CTO Taskforce -- laura.hecker@check24.de
+- [x] DatagonAI ✅ 2024-09-11
+	- [ ] Data Scientist
+	- [ ] Detection Engineer
+		- Docker
+- [ ] Exasol
+- [x] Floy ✅ 2024-09-04
+	- [ ] [Senior Software Engineer/ Data Scientist](https://floy.jobs.personio.com/job/1685165?language=en&display=en)
+- [ ] Fraunhofer
+	- [ ] Fullstack Developer Typescript + Python
+	- [ ] Full Stack Engineer
+	- [x] Fullstack Engineer ✅ 2024-09-13
+	- [ ] Full Stack Software Engineer
+	- [ ] Fulstack Developer
+- [x] GovRadar ✅ 2024-09-11
+	- [ ] Fullstack Developer Typescript + Python
+- [ ] Infineon
+- [x] [innovis](https://www.innovis-solutions.de/) ✅ 2024-08-29
+	- [x] Softwareentwicklung Prozessautomation/ Visualisierung ✅ 2024-09-13
+		- [x] persönliches Vorstellungsgespräch (2024.09.02 15:00) ✅ 2024-09-13
+			- Rainer Kaufmann, Geschäftsführer
+			- Eva López Cervilla, Leitung Softwareentwicklung
+		- [ ] Arbeitsvertrag
+- [ ] [Munich Startup](https://www.munich-startup.de/startups/?tags=big-data)
+- [x] NVIDIA ✅ 2024-08-24
+	- [ ] Software Engineer - Autonomous Vehicles
+	- [x] Software Intern, Delivery Operations and Tools ✅ 2024-08-29
+- [ ] [persona service AG](https://www.persona.de/)
+	- [ ] ??? (2024-08-31)
+	- [ ] [Elektroniker](https://www.persona.de/job-finden/job/20513/elektroniker-m-w-d)
+	- [ ] [Feinoptiker](https://www.persona.de/job-finden/job/105096/feinoptiker-m-w-d)
+	- [ ] [IT Support](https://www.persona.de/job-finden/job/118736/it-support-m-w-d)
+- [ ] PlanQC
+- [x] Quantum Machines ✅ 2024-08-24
+	- [ ] Customer Success Engineer
+		- [x] Zoom-Interview ✅ 2024-09-11
+			- Theo Laudat, European Customer Success Hiring Manager
+		- [x] Zoom-Interview ✅ 2024-09-13
+			- Niv Drucker, Customer Success Director
+		- [ ] Await New Update
+- [ ] Rohde & Schwarz
+- [x] ShopVibes ✅ 2024-09-11
+	- [ ] Software Engineer
+	- [ ] Software Engineer Intern
+- [x] Siemens ✅ 2024-07-08
 	- [x] Java & RPA Developer ✅ 2024-08-05
 	- [ ] C++ Software Engineer - RTL Design and Synthesis
-- [x] NVIDIA ✅ 2024-08-29
+		- Last Updated July 8th 
+- [x] Summ AI ✅ 2024-09-11
+	- [ ] Backend / Full Stack Development (d/f/m) Django & React
+- [ ] TNG Technology Consulting
+	- [x] [Trainee IT Consulting](https://careers.allianz.com/job/Unterf%C3%B6hring-%28bei-M%C3%BCnchen%29-Trainee-IT-Consulting-%28mwd%29-85774/931510601/) ✅ 2024-09-04
+	- [ ] It Consulting
+- [x] Tacto ✅ 2024-09-11
+	- [ ] Software Engineer Intern
+	- [ ] AI Supply Chain Optimization????
+- [x] UniteLabs ✅ 2024-09-11
+	- [ ] Full Stack Software Engineer
+- [ ] Wemolo
+	- [x] [IoT System Engineer](https://jobs.eu.lever.co/WEMOLO/fe5c8c19-a7fb-4dca-86f9-e26d3b1568a9) ✅ 2024-07-04
+	- [ ] [Junior Technical Operations Manager](https://jobs.eu.lever.co/WEMOLO/fb43fee6-a888-4b1f-bd7c-420120d6c1ed)
+		- Yocto
+
+## Processed
+- [x] [accenture]() ✅ 2024-08-29
+	- [x] C++ Software Developer ✅ 2024-08-30
+	- [x] Embedded Java Developer ✅ 2024-09-02
+	- [x] Java Backend Entwickler ✅ 2024-08-30
+	- [x] Low Level Software Developer ✅ 2024-09-13
+	- [x] Mendix Lox-Code, No-Code Senior Expert ✅ 2024-08-30
+	- [x] Software Engineer & IoT Consultant ✅ 2024-09-13
+- [x] Allianz ✅ 2024-09-04
+	- [x] Trainee IT Consulting ✅ 2024-09-07
+	- [x] Data Analytics Expert ✅ 2024-09-12
+- [x] [Bachner Group](https://bachner.de/de) ✅ 2024-08-29
+	- [x] Software Entwickler (m/w/d) .NET und C# ✅ 2024-08-128
+- [x] codasip ✅ 2024-07-17
+	- [x] [Data Analytics Expert](https://careers.allianz.com/job/Unterf%C3%B6hring-%28bei-M%C3%BCnchen%29-Data-Analytics-Expert-%28mwd%29-85774/1108519301/) ✅ 2024-09-04
+	- [x] HW Validation/Verification Engineer ✅ 2024-07-18
+	- [x] LLVM Compiler Engineer ✅ 2024-07-24
+- [x] Fernride ✅ 2024-09-04
+	- [x] Autonomous & Teleportation Systems Test Engineer ✅ 2024-09-09
+- [x] finway ✅ 2024-09-11
+	- [x] Initiativbewerbung ✅ 2024-09-13
 - [x] FERCHAU ✅ 2024-07-16
+	- [x] DevOps Engineer (m/w/d)- Direktvermittlung- Renewables ✅ 2024-07-25
+	- [x] (Junior) Software Engineer bei München City ✅ 2024-07-15
+	- [x] Junior Cloud Infrastruktur Consultant bei München IT ✅ 2024-07-12
+	- [x] ?? bei München Automotive Support ✅ 2024-07-17
+	- [x] ?? bei München Mobility ✅ 2024-07-17
+	- [x] Automotive Software Engineer bei München Mobility ✅ 2024-07-17
+	- [x] Softwareentwickler / Software Developer bei München Mobility ✅ 2024-07-16
+	- [x] ?? bei Aviation Niederlassung München ✅ 2024-07-15
 - [x] Zolando ✅ 2024-07-16
 - [x] Fujitsu ✅ 2024-07-17
 	- Yusuke Kimura, Ph.D.
 	- Quantum Software Project
 	- yusuke-kimura@fujitsu.com
+	- [x] rejected ✅ 2024-07-19
 - [x] Hennge ✅ 2024-07-30
-	- [Internships](https://hennge.com/global/gip.html)
+	- [x] [Internship](https://hennge.com/global/gip.html) (2024-05-21) ✅ 2024-09-13
+	- [x] Internship (2024-08-30) ✅ 2024-09-02
+- [x] [GBC](https://www.gbc.one/blockchain/) ✅ 2024-09-04
+	- [x] [Generative AI Engineer](https://www.studysmarter.co.uk/career/generative-ai-engineer-m-w-d/) ✅ 2024-09-04
+- [x] gridX ✅ 2024-07-17
+	- [x] Go/ Golang Developer ✅ 2024-07-22
+- [x] Predium ✅ 2024-09-11
+- [x] Quantum Machines ⏫ ✅ 2024-08-29
+- [x] RobCo ✅ 2024-08-29
+- [x] StudySmarter ✅ 2024-09-04
+- [x] VMRay ✅ 2024-09-11
+- [x] Yttrium ✅ 2024-09-11
+- [x] [Yunex](https://www.yunextraffic.com/) ✅ 2024-08-29
+	- [x] (Junior) Softwareentwickler C/C++ (m/w/d) Traffic Tools ✅ 2024-09-11
+
+## Future
+- [ ] [bitsCrunch](https://bitscrunch.com/careers)
+	- [ ] Senior Golang Developer
+		- Deep understanding of blockchain technology, including Ethereum, Polygon, Bitcoin, Solana, and other networks. 
 - [ ] Google
 	- [ ] SWE, Android Automotive
 		- Rust and Java/Kotlin
@@ -22,72 +142,15 @@
 		- Carrier Certifications PTCRB, GCF
 		- Cellular radio technologies
 		- Android
-- [x] Celonis ✅ 2024-09-04
-	- [x] [C++ Senior Software Engineer](https://www.celonis.com/careers/jobs/details/?jobId=5789461003) ✅ 2024-09-04
-	- [x] [Software Engineer - Platform/ Automation](https://www.celonis.com/careers/jobs/details/?jobId=6031204003) ✅ 2024-09-04
-	- [x] [Frontend Engineer - Data Visualization](https://www.celonis.com/careers/jobs/details/?jobId=6037217003) ✅ 2024-09-04
-
-### In München
-- [x] Parkdepot ✅ 2024-07-16
-- [ ] TNG Technology Consulting
-- [x] gridX ✅ 2024-07-17
-- [x] codasip ✅ 2024-07-17
-- [x] Quantum Machines ⏫ ✅ 2024-08-29
-- [x] [Yunex](https://www.yunextraffic.com/) ✅ 2024-08-29
-- [x] [innovis](https://www.innovis-solutions.de/) ✅ 2024-08-29
-- [x] [accenture]() ✅ 2024-08-29
-- [x] [Bachner Group](https://bachner.de/de) ✅ 2024-08-29
-- [x] [persona service AG](https://www.persona.de/) ✅ 2024-08-29
-- [ ] atos
-- [ ] BayernHeim
-- [x] Check24 ✅ 2024-09-04
-	- [x] (Junior) Business Intelligence Manager -- Lilly.jacobs@check24.de ✅ 2024-09-04
-	- [x] (Junior) Data Scientist AI Forge -- fabian.stechele@check24.de ✅ 2024-09-04
-	- [x] (Junior) Android Developer -- valentina.heidenreich@check24.de ✅ 2024-09-04
-	- [x] (Junior) Softwareentwickler CTO Taskforce -- laura.hecker@check24.de ✅ 2024-09-04
-	- [x] (Junior) Data Scientist Fin Tech -- Lilly.jacobs@check24.de ✅ 2024-09-04
-- Wemolo 2
-	- [ ] [Junior Technical Operations Manager](https://jobs.eu.lever.co/WEMOLO/fb43fee6-a888-4b1f-bd7c-420120d6c1ed)
-	- [ ] [IoT System Engineer](https://jobs.eu.lever.co/WEMOLO/fe5c8c19-a7fb-4dca-86f9-e26d3b1568a9)
-		- tcpdump, val grind, GDB
-		- TCP/UDP
-		- Docker
-		- Yocto
-- [x] Fernride -- Autonomous & Teleportation Systems Test Engineer ✅ 2024-09-04
-- [ ] Rohde & Schwarz
-- [ ] Fraunhofer
-- [ ] Exasol
-- [ ] PlanQK
-- [ ] Infineon
-- [x] Allianz ✅ 2024-09-04
-	- [x] [Data Analytics Expert](https://careers.allianz.com/job/Unterf%C3%B6hring-%28bei-M%C3%BCnchen%29-Data-Analytics-Expert-%28mwd%29-85774/1108519301/) ✅ 2024-09-04
-	- [x] [Trainee IT Consulting](https://careers.allianz.com/job/Unterf%C3%B6hring-%28bei-M%C3%BCnchen%29-Trainee-IT-Consulting-%28mwd%29-85774/931510601/) ✅ 2024-09-04
-- [x] StudySmarter ✅ 2024-09-04
-	- [x] [Generative AI Engineer](https://www.studysmarter.co.uk/career/generative-ai-engineer-m-w-d/) ✅ 2024-09-04
-- [x] Floy -- [Senior Software Engineer/ Data Scientist](https://floy.jobs.personio.com/job/1685165?language=en&display=en) ✅ 2024-09-04
-
-
-### Robots
-- [x] RobCo ✅ 2024-08-29
-
-
-### Crypto
-- [ ] [Tangany](https://tangany.com/jobs)
-	- [ ] [Backend Developer Staking ](https://join.com/companies/tangany/12298843-backend-developer-staking-m-f-d)
-- [ ] [Munich Startup](https://www.munich-startup.de/startups/?tags=big-data)
-- [x] [GBC](https://www.gbc.one/blockchain/) ✅ 2024-09-04
-
-
-## Future
 - [ ] Proxima Fusion -- High Wage
 	- [ ] [Computational Physicist](https://jobs.lever.co/proximafusion/fca1dbea-479c-4be6-9507-5eb026c082ec)
 	- [ ] Simulation Infrastructure Lead
 		- Simulations
 		- 2-years
-- [ ] [bitsCrunch](https://bitscrunch.com/careers)
-	- [ ] Senior Golang Developer
-		- Deep understanding of blockchain technology, including Ethereum, Polygon, Bitcoin, Solana, and other networks. 
-- [Tacto](https://work-at-tacto.super.site/) -- AI Supply Chain Optimization
+- [ ] [Tangany](https://tangany.com/jobs)
+	- [ ] [Backend Developer Staking ](https://join.com/companies/tangany/12298843-backend-developer-staking-m-f-d)
+		- tcpdump, val grind, GDB
+		- TCP/UDP
 
 
 ## Pending
