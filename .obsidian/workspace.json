@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "587fa5dd9cf45d80",
@@ -178,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4f1d9da86fcff76",
+  "active": "0f41f7ae7d2c7d70",
   "lastOpenFiles": [
     "Computers/Bash.md",
     "General/Auf der Suche.md",
