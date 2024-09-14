@@ -30,3 +30,10 @@ hr {
 	width: 100%;
 	text-align: center;
 }
+
+div[src$='.svg'] {
+	background-color: white;
+}
+/* div.svg img {
+
+} */
