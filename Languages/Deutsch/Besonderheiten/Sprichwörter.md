@@ -9,3 +9,4 @@
 - Was du heute kannst besorgen, das verschiebe nicht auf morgen.
 - Morgen, morgen nur nicht heute, sagen alle faulen Leute.
 	- ! Sprechen immer träge Leute.
+- Draußen regnet es Bindfäden.
