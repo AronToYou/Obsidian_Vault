@@ -37,3 +37,9 @@ div[src$='.svg'] {
 /* div.svg img {
 
 } */
+
+.callout[data-callout="bash"] {
+  --callout-color: 63, 13, 48;
+  --callout-icon: square-terminal;
+  --callout-title-color: 30, 180, 50;
+}
