@@ -40,6 +40,36 @@
           {
             "id": "34e307097e7735ed",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers/Python.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ba55f520ad7e7710",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers/Bash.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2abe8f654dac22bf",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -49,22 +79,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f873e9ad723aa1d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Deutsch/Wortgrammatik/Declension.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Deutsch/Wortgrammatik/Declension.md",
+                "file": "Computers/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Deutsch/Wortgrammatik/Declension.md",
+                "file": "Computers/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Deutsch/Wortgrammatik/Declension.md"
+                "file": "Computers/HTML.md"
               }
             }
           },
@@ -207,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 327.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -220,11 +237,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f873e9ad723aa1d1",
+  "active": "2abe8f654dac22bf",
   "lastOpenFiles": [
-    "Languages/Deutsch/Wortgrammatik/Eigenschaftswörter.md",
-    "Languages/Deutsch/Wortgrammatik/Declension.md",
+    "Project/Ameritocracy.md",
+    "Project",
+    "Computers/Android.md",
+    "Computers/Linux/vim.md",
+    "Computers/Bash.md",
     "Computers/HTML.md",
+    "Computers/Linux/Network Interfaces.md",
+    "Computers/Linux/File System.md",
+    "Computers/Linux/All Linux Programs.md",
+    "General/Auf der Suche.md",
+    "General/Android Development.md",
+    "Computers/Python.md",
+    "Languages/Deutsch/Dictionary/Bindewörter.md",
+    "Languages/Deutsch/Wortgrammatik/Declension.md",
+    "Computers/Untitled",
+    "Languages/Deutsch/Wortgrammatik/Eigenschaftswörter.md",
     "_media/img/HTML_element_content_categories.svg",
     "Languages/Deutsch/Satzgrammatik/Funktion des Nebensatzes.md",
     "Languages/Deutsch/Satzgrammatik/Ausdrücke von Zeiträumen.md",
@@ -233,21 +263,11 @@
     "Languages/Русский/Basics.md",
     "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
     "Computers/Rust.md",
-    "General/Auf der Suche.md",
-    "Computers/Bash.md",
     "Languages/Deutsch/Dictionary/Substantiva.md",
     "General/Interview.md",
-    "Computers/Linux/Network Interfaces.md",
     "To-Do (For Learning).md",
-    "Computers/Untitled.md",
     "Languages/Deutsch/Dictionary/Eigenschafts(Umstands)wörter.md",
     "Languages/Deutsch/Dictionary/Tätigkeitswörter.md",
-    "Computers/Linux/File System.md",
-    "Languages/Deutsch/Dictionary/Verhältniswörter.md",
-    "Languages/Deutsch/Dictionary/Bindewörter.md",
-    "Languages/Deutsch/Besonderheiten/Sprichwörter.md",
-    "Languages/Deutsch/Besonderheiten/Interessante Sätze.md",
-    "Languages/Deutsch/Besonderheiten/Besondere Fälle.md",
     "Languages/Русский/Keep/main",
     "Languages/Русский/Keep",
     "_media/img/inode_links.png",
@@ -257,8 +277,6 @@
     "_media/irreg_verbs_DNutting.pdf",
     "Software Development",
     "Computers/Linux",
-    "Computers/Storage",
-    "Computers",
     "_media/img/wieso.png",
     "_media/img/brain_map.jpg",
     "_media/img/personalPronounDeclension.png",
