@@ -1,4 +1,63 @@
+# Stats
+'Glassdoor' stats constrained to München, Bayern
+
+| Stelle                    | Max € --- | Grundgehalt € | --- Min € |
+| ------------------------- | --------: | ------------: | --------: |
+| Cloud Architect           |    90.000 |    **82.802** |    62.500 |
+| Site Reliability Engineer |    86.493 |    **76.748** |    70.875 |
+| Projektleiter IT          |    80.000 |    **70.000** |    56.500 |
+| DevOps Engineer           |    75.000 |    **65.000** |    57.747 |
+| Business Intelligence     |    75.000 |    **64.760** |    48.000 |
+| Backend Developer         |    70.000 |    **62.452** |    55.000 |
+| Ruby Developer*           |    59.500 |    **57.000** |    53.282 |
+| QA Engineer               |    64.000 |    **55.000** |    48.000 |
+| Frontend Developer        |    62.773 |    **55.000** |    50.000 |
+| React Developer*          |    60.750 |    **50.000** |    41.782 |
+
+
 # Jobs
+## Google Maps
+- [ ] [ZeroByte Software GmbH](https://zerobyte-software.com/) ⏬
+- [ ] XOn Software GmbH 🔽
+	- [ ] [Entwicklungsingenieur](https://xon.de/de/company_jobs_engineer.html)
+- [ ] [Tanso Technologies GmbH](https://tanso.de) ⏫
+	- [ ] [Tech Lead](https://boards.eu.greenhouse.io/tanso/jobs/4376100101)
+- [ ] [bbv Software Services GmbH](https://bbv-software.de) 🆔 w00upx
+	- [ ] [DevOps Engineer](https://bbv-software.de/job/37606973/devops-engineer-m-w-d/)
+	- [ ] [Frontend Developer](https://bbv-software.de/job/39153979/frontend-entwickler-m-w-d/)
+	- [ ] [Cloud Architekt](https://bbv-software.de/job/57811412/cloud-architekt-m-w-d/)
+- [ ] [NUA Software GmbH](https://nuasoftware.com)
+	- [ ] [Projektleiter IT](https://www.nuasoftware.com/careers/Blog%20Post%20Title%20One-sdcp3-fpbw6)
+- [ ] [Seneca Business Software GmbH](seneca-control.com) 56K 🔽
+	- [ ] info@seneca-control.com
+- [x] reev ✅ 2024-09-17
+	- [/] [Senior QA Engineer](https://reev.com/jobs/#) ➕ 2024-09-17
+- [ ] [NavVis GmbH](https://navvis.com) ⏫
+	- [-] [Senior Calibration Software Engineer](https://boards.eu.greenhouse.io/navvis/jobs/4146032101) ❌ 2024-09-18
+		- [2D/3D](https://www.reddit.com/r/computervision/comments/yiruix/what_are_open_problems_in_3d_reconstruction_sfm/) Matching 2D image pixel points to 3D world points
+		- [2D-3D Correspondences](https://abouelnaga.io/projects/camera-pose-estimation/)
+	- [/] [(Senior) Software Quality Engineer, Robotics](https://boards.eu.greenhouse.io/navvis/jobs/4346218101) 🔺 ➕ 2024-09-18
+		- [ISTQB Certified Tester Foundation Level (CTFL) v4.0](https://www.istqb.org/certifications/certified-tester-foundation-level)
+			- 2-3 Hours per Day for 2-4 Weeks
+		- test case planning, issue tracking, regression and isolation testing
+		- A strong ability to communicate in a structured, concise and clear manner will be pivotal in ensuring seamless cross-functional collaboration
+		- Linux, Python, Embedded software
+		- Python test automation
+		- C++ and tools
+	- [-] [Senior Software Engineer (Java, Spring, TypeScript, Angular)](https://boards.eu.greenhouse.io/navvis/jobs/4370209101) ❌ 2024-09-18
+	- [-] [Junior IT Support Engineer](https://boards.eu.greenhouse.io/navvis/jobs/4354491101) ❌ 2024-09-18
+
+
+## 2nd Order
+- [ ] [Xempus AG](https://xempus.com) ⏫
+	- [ ] [Site Reliability Engineer](https://xempus.jobs.personio.com/job/1687098?language=de%3Flanguage%3D&display=en) 90-105K
+	- [ ] [Senior Kotlin Engineer](https://xempus.jobs.personio.com/job/1449877?language=de%3Flanguage%3D&display=en)
+- [ ] [Experteer GmbH](https://experteer.de)
+	- [ ] [Data Quality Assurance Country Lead DE](https://www.experteer.de/about/careers/Data-Quality-Assurance-Country-Lead-DE)
+- [ ] [TerminApp GmbH](timify.com)
+	- [/] Initiativbewerbung ➕ 2024-09-17
+
+
 ## Current
 - [ ] atos
 - [x] Celonis ✅ 2024-09-04
@@ -124,6 +183,7 @@
 - [x] RobCo ✅ 2024-08-29
 - [x] StudySmarter ✅ 2024-09-04
 - [x] VMRay ✅ 2024-09-11
+	- [-] ??? ❌ 2024-09-18
 - [x] Yttrium ✅ 2024-09-11
 - [x] [Yunex](https://www.yunextraffic.com/) ✅ 2024-08-29
 	- [x] (Junior) Softwareentwickler C/C++ (m/w/d) Traffic Tools ✅ 2024-09-11
@@ -151,6 +211,24 @@
 	- [ ] [Backend Developer Staking ](https://join.com/companies/tangany/12298843-backend-developer-staking-m-f-d)
 		- tcpdump, val grind, GDB
 		- TCP/UDP
+- [ ] Xempus AG
+	- [ ] [Site Reliability Engineer](https://xempus.jobs.personio.com/job/1687098?language=de%3Flanguage%3D&display=en) 90-105K
+		- ISO 27001 context
+		- Kubernetes, Kafka, PostgreSQL, HashiCorp Vault, and Min.IO
+		- Infrastructure as code: Terraform, Packer, and Ansible
+		- Virtualization / Networking: VMware, NSX-T, and Openstack
+		- Organization: Grafana, Influx, M3DB, and Elastic-Stack
+	- [ ] Senior Kotlin Engineer
+		- Kotlin
+		- PostgreSQL and MySQL
+		- Spring Boot, Hibernate, Kafka, SQL DBs, ReSTful APIs, Docker, and Kubernetes
+- (Senior) Ruby Developer
+	- Sinatra, Ruby on Rails, Ruby
+	- RSpec, PostgreSQL, Apache Kafka, rabbitmq, Elastic, docker, and Terraform
+	- BDD/TDD --> Cucumber
+- [ ] [Productsup](https://productsup.com)
+	- [ ] Backend Developer
+		- 5 years PHP
 
 
 ## Pending
@@ -226,81 +304,14 @@
 	- [ ] [Social Computing](https://soc.cit.tum-de/persons/)
 - [ ] [AkademischeStellen](https://akademischestellen.com)
 
+
 # Tips
-- Contact headhunters on LinkedIn
-	- Use Olga's account to research interviewers' key points
+- Contribute to Open Source Projects
 - Elevator Pitch
 	- Why should I hire you?
 	- How do I know you aren't going to return to America?
-- TLDR
-- Informational Interviews
-	- Sydney Schreppler
-	- Kayleigh (Atom Computing)
-	- Justin Gerber (Ground Loops)
 - [DevOps Pass](https://github.com/devopspass)
 	- [K3s](https://k3s.io/)
-- [Top Munich Startups](https://bebeez.eu/2024/03/02/top-10-munich-based-startups-to-watch-in-2024-all-of-them-are-hiring-right-now/)
-
-## Study
-- [Hennge Stack](https://stackshare.io/hennge/hennge-kk)
-- [CS 162](https://inst.eecs.berkeley.edu/~cs162/fa19/static/lectures/)
-- [Glassdoor](https://www.glassdoor.de/Geh%C3%A4lter/software-engineer-gehalt-SRCH_KO0,17_IP7.htm)
-- [Web Architecture](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file)
-- [[Andrew_S_Tanenbaum-Computer_Networks.pdf|Computer Networks]]
-- [Monster](https://www.monster.de/jobs/suche?q=Informatiker+als+Beauftragter+f%C3%BCr+das+CCC++Krebszentrum+M%C3%BCnchen&where=M%C3%BCnchen&page=1&id=27d442f1-7fcd-4c67-b2ab-e0440bc095b2&mstr_dist=true&utm_id=eu0006&utm_medium=social_sm_campaigns&utm_term=paid&utm_content=prospecting+android&utm_source=facebook&utm_campaign=de-prospecting-pbc-as-offs-v4-android)
-- Lightbend
-	- Are an SRE who understands how to operate modern distributed data systems on Kubernetes to be extremely reliable with predictable performance.
-	- Are dedicated to best practices such as infrastructure as code, automated testing, code reviews, CI/CD, GitOps, and testing.
-	- Are familiar with many of the supporting technologies we use, including Terraform, Crossplane, FluxCD GitOps, Prometheus, Grafana, Actors, Service Mesh frameworks, etc.
-	- Are experienced with complex and secure networking environments, including Encryption Keys, and TLS. 
-- Accenture
-	- Du kennst dich in (REST-)Backend Entwicklungen mit gängigen Umgebungen, wie z.B. NodeJS und Java aus
-	- Arbeiten mit Docker Containern und deren Orchestrierung mit z.B. Kubernetes ist für dich eine Selbstverständlichkeit
-	- CI/CD sind nicht bloß Konzepte für dich, sondern du weißt auch, wie du sie erfolgreich implementierst
-	- Know-how im Hadoop Ecosytem, Orchestration Tools, CI/CD Tools (Pipelines, GitOps, Jenkins), Configuration Management/Infrastructure as Code (IaC) Tools wie Terraform, Chef, Puppet oder Ansible, in den Programmiersprachen Golang, Python, Bash, in Cloud-Technologien (AWS, Azure oder GCP) sowie im Aufbau und Betrieb überwiegend Linux-basierter und hochverfügbarer Systemlösungen
-	- Expertise in den gängigen ML- und KI-Bibliotheken wie TensorFlow, PyTorch und GPT-Modelle sowie Praxiswissen in der Bewertung von Cloud-Architekturen und deren Neugestaltung
-	- Experience with automotive-relevant network technologies (e.g. TCP/IP, CAN, or Ethernet) and hardware interfaces (I2C, SPI, UART)
-- Rational DOORS
-- Experience with implementation and tuning in the Big Data Ecosystem, (such as EMR, Hadoop, Spark, R, Presto, Hive), ML Platforms (SageMaker, Kubeflow, Azure Machine Learning, SAS, Domino), and MLOps (model development, orchestration and deployment, monitoring, optimisation).
-- Reinforcement learning and recommendations, and familiarity with LLMs, latent diffusion, or related foundational models that will accelerate our plans to dynamically optimize ad creatives on behalf of advertisers.
-- JetBrains
-	- WebStorm -- TypeScript
-	- CLion
-	- IntelliJ -- Java
-	- GoLand
-	- ReSharper C++
-	- RustRover
-- Vagrant -- VM environment manager
-	- Virtual Machine Hypervisors
-		- VirtualBox
-		- VMware
-		- Hyper-V
-		- KVM
-		- lxc -- System-level Containerization
-			- Full OS emulation
-			- Isolated user-space w/o Hypervisor
-			- Shares Host OS Kernel
-	- VM Configuration Scripts
-		- Chef
-		- Puppet
-		- Ansible
-		- Shell
-	- Docker -- Application-level Containerization
-		- File-System
-		- Network
-		- Process Space
-		- Shares Host OS Kernel
-- Authentifizierungstechnologien (z.B. pfSense, iptables, Shibboleth, MFA)
-- Other: LLMs, LMMs, NeoVim Configs, …
-- Frontend: Vue / Nuxt, Svelte / Svelte Kit, Tailwind, Bun, tRPC, …
-
-## Robotise
-- Onboarding
-	- Geobotics
-	- TCO
-- King Saudi
-- Zurich
-	- 30 -> 100 robots possibly
 
 
 # Side-Hustles
