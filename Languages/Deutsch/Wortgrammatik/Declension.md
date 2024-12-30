@@ -12,6 +12,8 @@
 ## Plural im Dativ
 - die *Nominativ* -> den *Dative* + **n**
 	- die Vorsätze -> mit den Vorsätzen
+- Ausnahmen:
+   - Plural endet auf **-n** oder **-s**
 
 ## sächliche (Neutrum) und männlicher Genitiv
 - der/das *Nominative* -> des *Genitiv* + **s** oder **es**
