@@ -35,3 +35,13 @@
 ## am besten - am Besten
 - **am besten** - best out of that (*adj.*)
 - **am Besten** - the best (*noun*)
+
+## rechnen
+ - **rechnen** - calculating
+ - **berechnen** - calculate
+ - **errechnen** - calculate successfully
+
+## fügen
+ - **anfügen** - attach
+ - **einfügen** - insert
+ - **hinzufügen** - add to / append

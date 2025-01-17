@@ -134,6 +134,9 @@
 	- [x] [IoT System Engineer](https://jobs.eu.lever.co/WEMOLO/fe5c8c19-a7fb-4dca-86f9-e26d3b1568a9) ✅ 2024-07-04
 	- [ ] [Junior Technical Operations Manager](https://jobs.eu.lever.co/WEMOLO/fb43fee6-a888-4b1f-bd7c-420120d6c1ed)
 		- Yocto
+ - [ ] [Pripares](https://pripares.com)
+ - [ ] [Orange Cybersecurity](https://jobs.orangecyberdefense.com/jobs?split_view=true&geobound_coordinates%5Btop_left_lat%5D=49.1116507512627&geobound_coordinates%5Btop_left_lon%5D=10.4539354078604&geobound_coordinates%5Bbottom_right_lat%5D=47.749857562071824&geobound_coordinates%5Bbottom_right_lon%5D=11.847088326770063&query=)
+
 
 ## Processed
 - [x] [accenture]() ✅ 2024-08-29
