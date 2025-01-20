@@ -180,6 +180,8 @@
 		- Yocto
  - [ ] [Pripares](https://pripares.com)
  - [ ] [Orange Cybersecurity](https://jobs.orangecyberdefense.com/jobs?split_view=true&geobound_coordinates%5Btop_left_lat%5D=49.1116507512627&geobound_coordinates%5Btop_left_lon%5D=10.4539354078604&geobound_coordinates%5Bbottom_right_lat%5D=47.749857562071824&geobound_coordinates%5Bbottom_right_lon%5D=11.847088326770063&query=)
+ - [ ] Fujitsu München
+ - [ ] Apple München
 
 
 ## Processed
@@ -238,6 +240,52 @@
 	- [x] Associate Intern (f/m/x) Data Science in Growth Equity ✅ 2024-09-24
 - [x] [Yunex](https://www.yunextraffic.com/) ✅ 2024-08-29
 	- [x] (Junior) Softwareentwickler C/C++ (m/w/d) Traffic Tools ✅ 2024-09-11
+
+
+## Future
+- [ ] [bitsCrunch](https://bitscrunch.com/careers)
+	- [ ] Senior Golang Developer
+		- Deep understanding of blockchain technology, including Ethereum, Polygon, Bitcoin, Solana, and other networks. 
+- [ ] Google
+	- [ ] SWE, Android Automotive
+		- Rust and Java/Kotlin
+		- AUTOSAR, SOME/IP
+	- [ ] UX Researcher
+		- Human Computer Interaction
+	- [ ] Pixel Partner Engineer
+		- Carrier Certifications PTCRB, GCF
+		- Cellular radio technologies
+		- Android
+- [ ] Proxima Fusion -- High Wage
+	- [ ] [Computational Physicist](https://jobs.lever.co/proximafusion/fca1dbea-479c-4be6-9507-5eb026c082ec)
+	- [ ] Simulation Infrastructure Lead
+		- Simulations
+		- 2-years
+- [ ] [Tangany](https://tangany.com/jobs)
+	- [ ] [Backend Developer Staking ](https://join.com/companies/tangany/12298843-backend-developer-staking-m-f-d)
+		- tcpdump, val grind, GDB
+		- TCP/UDP
+- [ ] Xempus AG
+	- [ ] [Site Reliability Engineer](https://xempus.jobs.personio.com/job/1687098?language=de%3Flanguage%3D&display=en) 90-105K
+		- ISO 27001 context
+		- Kubernetes, Kafka, PostgreSQL, HashiCorp Vault, and Min.IO
+		- Infrastructure as code: Terraform, Packer, and Ansible
+		- Virtualization / Networking: VMware, NSX-T, and Openstack
+		- Organization: Grafana, Influx, M3DB, and Elastic-Stack
+	- [ ] Senior Kotlin Engineer
+		- Kotlin
+		- PostgreSQL and MySQL
+		- Spring Boot, Hibernate, Kafka, SQL DBs, ReSTful APIs, Docker, and Kubernetes
+- (Senior) Ruby Developer
+	- Sinatra, Ruby on Rails, Ruby
+	- RSpec, PostgreSQL, Apache Kafka, rabbitmq, Elastic, docker, and Terraform
+	- BDD/TDD --> Cucumber
+- [ ] [Productsup](https://productsup.com)
+	- [ ] Backend Developer
+		- 5 years PHP
+- [ ] CCNA
+- [ ] Networks course
+- [ ] Linux course
 
 
 ## Pending
