@@ -12,9 +12,11 @@
 ## Plural im Dativ
 - die *Nominativ* -> den *Dative* + **n**
 	- die Vorsätze -> mit den Vorsätzen
+- Ausnahmen:
+   - Plural endet auf **-n** oder **-s**
 
 ## sächliche (Neutrum) und männlicher Genitiv
-- der/das *Nominative* -> des *Dativ* + **s** oder **es**
+- der/das *Nominative* -> des *Genitiv* + **s** oder **es**
 	- der Vater -> des Vaters
 	- das Gebäude -> des Gebäudes
 	- der Einfluss -> des Einflusses
