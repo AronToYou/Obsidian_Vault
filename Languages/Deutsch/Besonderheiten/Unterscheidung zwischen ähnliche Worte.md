@@ -45,3 +45,20 @@
  - **anfügen** - attach
  - **einfügen** - insert
  - **hinzufügen** - add to / append
+
+## schaffen
+ - **geschaffen / schufen** - create
+ - **geschafft / schafften** - managed
+
+## umfahren
+ - **fahre** etwas **um** - run over
+ - **umfahre** etwas - drive around
+ - **umfahre** - detour
+
+## halten
+ - **halten** - to hold
+ - **verhalten** - hold back / behave
+ - **behalten** - physically keep
+ - **beibehalten** - something abstract
+ - **festhalten** - physically hold (firm)
+    - preserve something abstract
