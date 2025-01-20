@@ -62,3 +62,24 @@
  - **beibehalten** - something abstract
  - **festhalten** - physically hold (firm)
     - preserve something abstract
+
+## offen - offenbar - öffenbar - öffentlich
+- **offen** - open(ly)  \[geöffnet\]
+- **offenbar** - obvious(ly) / (apparently)
+	- **offensichtlich**
+	- **augenscheinlich**
+- **offenbaren** - reveal
+	- **offenbart** - revealed
+- **öffenbar** - openable
+- **öffentlich** - public(ly)
+
+## handeln
+- **handeln** - allgemeiner Begriff für Tun, Entscheiden oder Geschäfte machen.
+	- etwas tun, aktiv werden
+	- Geschäfte machen
+	- sich in einer bestimmten Weise verhalten
+- **verhandeln** - fokussiert auf die Kommunikation über eine Vereinbarung.
+	- mit jmdm. über eine Einigung sprechen.
+- **behandeln** - bezieht sich auf den Umgang/Auseinandersetzung mit etwas/jmdm.
+	- sich mit etwas beschäftigen oder bearbeiten.
+	- jmdn./etwas auf eine Weise betreuen/pflegen/versorgen.

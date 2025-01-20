@@ -9,3 +9,6 @@
 `git checkout HEAD@{1} .`
 `git checkout master`
 [Here](https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git)
+
+
+![[git_diff.png|]]
