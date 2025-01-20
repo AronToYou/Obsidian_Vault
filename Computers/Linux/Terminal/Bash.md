@@ -83,8 +83,14 @@ Same as for variables
 > `a b`
 > `c d`
 ## Redirection
+[Here](https://www.gnu.org/software/bash/manual/html_node/Redirections.html)
+### stdin
 `>` -- creates or overwrites
 `>>` -- appends
+
+### stdout
+`<` -- 
+`<<` -- 
 
 ## Detached Processes
 ### Long-way

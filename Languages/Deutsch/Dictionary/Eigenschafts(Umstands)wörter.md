@@ -15,6 +15,12 @@ See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de
 
 <hr style="border-color:black">
 
+# allgemeine Wörter
+<hr width="75%" style="border: 1px solid white">
+
+- **gängig** -- current, common, usual, prevalent, conventional
+	- *Backend-Entwicklung mit gängigen Umgebungen*
+
 # zeitliche Wörter
 <hr width="75%" style="border: 1px solid white">
 
@@ -27,11 +33,12 @@ See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de
 # erklärende Wörter
 <hr width="75%" align="right" style="border: 1px solid white">
 
+- **hochwertig** -- high quality
 - **neidig** -- jealous
 - **satt** -- satiated / tired of, rich / deep
 	- *etwas satt sein*
 	- *sattes Grün*
-- **hochwertig** -- high quality
+- **verderblich** -- perishable
 
 # Präsens-Partizip
 <hr width="75%" align="right" style="border: 1px solid white">
@@ -44,16 +51,17 @@ See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de
 # besondere Wörter
 <hr width="75%" align="right" style="border: 1px solid white">
 
-- **etwaig** -- any / whatever
 - **bloß** -- auch ein Umstandswort
-- **sehnsuchtsvoll** (**sehnsüchtig**) -- longing \[longingly\]
-	- *Ich verlange sehnsuchtsvoll nach Dir!*
-- **waschecht** -- sich beim Waschen nicht verändernd
+- **eklatant** -- blatant
+- **etwaig** -- any / whatever
 - **knifflig** (**kniffelig**) -- tricky (von [[Substantiva#^9f995d|der Kniff]])
 	- **verzwickt**
 	- **umständlich**
 	- **kompliziert**
 	- **durcheinander** -- \[indiscriminately\]
+- **sehnsuchtsvoll** (**sehnsüchtig**) -- longing \[longingly\]
+	- *Ich verlange sehnsuchtsvoll nach Dir!*
+- **waschecht** -- sich beim Waschen nicht verändernd
 
 ---
 # Unorganisierten

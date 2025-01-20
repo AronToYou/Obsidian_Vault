@@ -1,12 +1,21 @@
+# Active!
+- [ ] tacto -- [Data Automation Intern](https://tacto.jobs.personio.de/job/1044568?display=en)
+	- [ ] 14.10.2024 -- Get-to-know interview
+	- BI-Tools: (PowerBI, Tableau, Looker, Metabase)
+	- Dateneingangs-Pipeline-Tools: (Dagster, Airflow, Prefect, Great Expectations, dbt)
+
 # Stats
 'Glassdoor' stats constrained to München, Bayern
 
 | Stelle                    | Max € --- | Grundgehalt € | --- Min € |
 | ------------------------- | --------: | ------------: | --------: |
 | Cloud Architect           |    90.000 |    **82.802** |    62.500 |
+| Data Architect            |    92.537 |    **80.000** |    74.943 |
 | Site Reliability Engineer |    86.493 |    **76.748** |    70.875 |
 | Projektleiter IT          |    80.000 |    **70.000** |    56.500 |
+| Data Scientist            |    76.669 |    **66.773** |    59.943 |
 | DevOps Engineer           |    75.000 |    **65.000** |    57.747 |
+| Data Engineer             |    73.310 |    **64.927** |    57.423 |
 | Business Intelligence     |    75.000 |    **64.760** |    48.000 |
 | Backend Developer         |    70.000 |    **62.452** |    55.000 |
 | Ruby Developer*           |    59.500 |    **57.000** |    53.282 |
@@ -16,6 +25,12 @@
 
 
 # Jobs
+## München Ost
+- [/] [Huber & Feneberg](https://www.huber-feneberg.com/) - [vertrieb@huber-feneberg.de](mailto:vertrieb@huber-feneberg.de) ➕ 2024-10-02
+
+## Unterföhring
+- [-] [Arcus Elektrotechnik](https://arcus-schiffmann.de/karriere/stellenangebote/) ➕ 2024-10-02 ❌ 2024-10-02
+
 ## Google Maps
 - [ ] [ZeroByte Software GmbH](https://zerobyte-software.com/) ⏬
 - [ ] XOn Software GmbH 🔽
@@ -46,6 +61,35 @@
 		- C++ and tools
 	- [-] [Senior Software Engineer (Java, Spring, TypeScript, Angular)](https://boards.eu.greenhouse.io/navvis/jobs/4370209101) ❌ 2024-09-18
 	- [-] [Junior IT Support Engineer](https://boards.eu.greenhouse.io/navvis/jobs/4354491101) ❌ 2024-09-18
+- [ ] Cloudflight
+	- [/] [Senior Embedded Software Engineer C++](https://career.cloudflight.io/jobs/2548277-senior-embedded-software-engineer-c-m-f-x) ⏫ ➕ 2024-10-02
+		- [ ] [Catcoding](https://register.codingcontest.org/login)
+	- [ ] [Data Analyst / Data Scientist](https://career.cloudflight.io/jobs/4545649-data-analyst-data-scientist-f-m-x)
+- [ ] BearingPoint GmbH
+	- [/] [Digital Testing Engineer](https://www.bearingpoint.com/de-de/karriere/stellenangebote/angebot/?id=T4773039&country=DE) ➕ 2024-10-02
+	- [-] [Data Engineer / Data Architect](https://www.bearingpoint.com/de-de/karriere/stellenangebote/angebot/?id=T4773781&country=DE) ❌ 2024-11-07
+	- [ ] [IT System Architect](https://www.bearingpoint.com/de-de/karriere/stellenangebote/angebot/?id=T4773423&country=DE)
+	- [ ] [(Junior)Consultant Generative AI](https://www.bearingpoint.com/de-de/karriere/stellenangebote/angebot/?id=T5020872&country=DE)
+		-  [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+	- [ ] [(Junior) Consultant Data Science & Artificial Intelligence](https://www.bearingpoint.com/de-de/karriere/stellenangebote/angebot/?id=T4923059&country=DE)
+- [-] [Meltwater](https://meltwatercareers.ttcportals.com) ➕ 2024-10-02 ❌ 2024-10-02
+- [-] [infinit.cx GmbH](https://infinit.softgarden.io) ❌ 2024-11-07
+	- [/] [KI-Spezialist für CX-Lösungen](https://jobs-infinit.career.softgarden.de/jobs/45604477/KI-Spezialist-in-f%C3%BCr-CX-L%C3%B6sungen-m-w-d-/) ➕ 2024-10-02
+- [-] [benefit concepts GmbH](https://benefitconcepts.de/) ➕ 2024-10-02 ❌ 2024-10-02
+- [-] [insight 42](https://insight42.com) ➕ 2024-10-02 ❌ 2024-10-02
+- [-] [ITRS Group Ltd.](https://www.itrsgroup.com/) ➕ 2024-10-02 ❌ 2024-10-02
+- [-] [Media Cerrier Solutions GmbH](https://www.media-carrier.de/) ➕ 2024-10-02 ❌ 2024-10-02
+- [-] [Essentials Concept GmbH](https://www.essentials-concept.de/leistungen) ➕ 2024-10-02 ❌ 2024-10-02
+- [-] [Forcepoint](https://www.forcepoint.com/company/work-with-us) ➕ 2024-10-02 ❌ 2024-10-02
+- [-] [Finanz-DATA GmbH](https://fida.de) ❌ 2024-11-07
+	- [/] [Junior Consultant für Versicherungs-IT](https://jobs.fida.de/stellenangebote/junior-consultant-fuer-versicherungs-it) ➕ 2024-10-02
+	- [/] [Host Entwickler](https://jobs.fida.de/stellenangebote/host-entwickler) ➕ 2024-10-02
+	- [/] [Java Entwickler](https://jobs.fida.de/stellenangebote/java-entwickler) ➕ 2024-10-02
+- [-] Acterys ➕ 2024-10-04 ❌ 2024-10-04
+- [-] [Datagroup](https://datagroup.de) ➕ 2024-10-04 ❌ 2024-10-04
+- [-] [Minnt GmbH](https://minnt.com) ➕ 2024-10-04 ❌ 2024-10-04
+- [x] [BRZ Deutschland GmbH](https://brz.eu) ➕ 2024-10-04 ✅ 2024-11-07
+	- [-] [Software-Entwickler (m/w/d) für den Bereich Baulohn in C# und C++ (Remote)](https://www.brz.eu/de/karriere/stellenangebote/49386358?hsLang=de) ➕ 2024-10-04 ❌ 2024-11-07
 
 
 ## 2nd Order
@@ -65,8 +109,8 @@
 	- [ ] [Software Engineer - Platform/ Automation](https://www.celonis.com/careers/jobs/details/?jobId=6031204003)
 	- [ ] [Frontend Engineer - Data Visualization](https://www.celonis.com/careers/jobs/details/?jobId=6037217003)
 - [x] Check24 ✅ 2024-09-04
-	- [ ] (Junior) Android Developer (m/f/d) Loans -- valentina.heidenreich@check24.de
-		- [ ] [Zoom-Interview](https://check24.zoom.us/j/65148329742?pwd=KbamvW3RKGbHaccFNljHnWt2WvNKUj.1) (2024-09-17 10:00) 1 hour
+	- [x] (Junior) Android Developer (m/f/d) Loans -- valentina.heidenreich@check24.de ✅ 2024-09-20
+		- [x] [Zoom-Interview](https://check24.zoom.us/j/65148329742?pwd=KbamvW3RKGbHaccFNljHnWt2WvNKUj.1) (2024-09-17 10:00) 1 hour ✅ 2024-09-17
 			- Florian Hofsäss, Head of Department Software Entwicklung
 	- [ ] (Junior) Business Intelligence Manager (m/f/d) Karten & Konten -- Lilly.jacobs@check24.de
 	- [ ] (Junior) Data Scientist (m/f/d) AI Forge -- fabian.stechele@check24.de
@@ -106,19 +150,19 @@
 	- [ ] [IT Support](https://www.persona.de/job-finden/job/118736/it-support-m-w-d)
 - [ ] PlanQC
 - [x] Quantum Machines ✅ 2024-08-24
-	- [ ] Customer Success Engineer
+	- [x] Customer Success Engineer ✅ 2024-10-02
 		- [x] Zoom-Interview ✅ 2024-09-11
 			- Theo Laudat, European Customer Success Hiring Manager
 		- [x] Zoom-Interview ✅ 2024-09-13
 			- Niv Drucker, Customer Success Director
-		- [ ] Await New Update
+		- [x] Await New Update ✅ 2024-10-02
 - [ ] Rohde & Schwarz
 - [x] ShopVibes ✅ 2024-09-11
 	- [ ] Software Engineer
 	- [ ] Software Engineer Intern
 - [x] Siemens ✅ 2024-07-08
 	- [x] Java & RPA Developer ✅ 2024-08-05
-	- [ ] C++ Software Engineer - RTL Design and Synthesis
+	- [x] C++ Software Engineer - RTL Design and Synthesis ✅ 2024-10-02
 		- Last Updated July 8th 
 - [x] Summ AI ✅ 2024-09-11
 	- [ ] Backend / Full Stack Development (d/f/m) Django & React
@@ -179,56 +223,18 @@
 - [x] gridX ✅ 2024-07-17
 	- [x] Go/ Golang Developer ✅ 2024-07-22
 - [x] Predium ✅ 2024-09-11
+	- [x] ?? ✅ 2024-09-19
 - [x] Quantum Machines ⏫ ✅ 2024-08-29
 - [x] RobCo ✅ 2024-08-29
 - [x] StudySmarter ✅ 2024-09-04
+- [x] Timify ✅ 2024-09-16
+	- [x] Initiativbewerbung ✅ 2024-09-24
 - [x] VMRay ✅ 2024-09-11
 	- [-] ??? ❌ 2024-09-18
 - [x] Yttrium ✅ 2024-09-11
+	- [x] Associate Intern (f/m/x) Data Science in Growth Equity ✅ 2024-09-24
 - [x] [Yunex](https://www.yunextraffic.com/) ✅ 2024-08-29
 	- [x] (Junior) Softwareentwickler C/C++ (m/w/d) Traffic Tools ✅ 2024-09-11
-
-## Future
-- [ ] [bitsCrunch](https://bitscrunch.com/careers)
-	- [ ] Senior Golang Developer
-		- Deep understanding of blockchain technology, including Ethereum, Polygon, Bitcoin, Solana, and other networks. 
-- [ ] Google
-	- [ ] SWE, Android Automotive
-		- Rust and Java/Kotlin
-		- AUTOSAR, SOME/IP
-	- [ ] UX Researcher
-		- Human Computer Interaction
-	- [ ] Pixel Partner Engineer
-		- Carrier Certifications PTCRB, GCF
-		- Cellular radio technologies
-		- Android
-- [ ] Proxima Fusion -- High Wage
-	- [ ] [Computational Physicist](https://jobs.lever.co/proximafusion/fca1dbea-479c-4be6-9507-5eb026c082ec)
-	- [ ] Simulation Infrastructure Lead
-		- Simulations
-		- 2-years
-- [ ] [Tangany](https://tangany.com/jobs)
-	- [ ] [Backend Developer Staking ](https://join.com/companies/tangany/12298843-backend-developer-staking-m-f-d)
-		- tcpdump, val grind, GDB
-		- TCP/UDP
-- [ ] Xempus AG
-	- [ ] [Site Reliability Engineer](https://xempus.jobs.personio.com/job/1687098?language=de%3Flanguage%3D&display=en) 90-105K
-		- ISO 27001 context
-		- Kubernetes, Kafka, PostgreSQL, HashiCorp Vault, and Min.IO
-		- Infrastructure as code: Terraform, Packer, and Ansible
-		- Virtualization / Networking: VMware, NSX-T, and Openstack
-		- Organization: Grafana, Influx, M3DB, and Elastic-Stack
-	- [ ] Senior Kotlin Engineer
-		- Kotlin
-		- PostgreSQL and MySQL
-		- Spring Boot, Hibernate, Kafka, SQL DBs, ReSTful APIs, Docker, and Kubernetes
-- (Senior) Ruby Developer
-	- Sinatra, Ruby on Rails, Ruby
-	- RSpec, PostgreSQL, Apache Kafka, rabbitmq, Elastic, docker, and Terraform
-	- BDD/TDD --> Cucumber
-- [ ] [Productsup](https://productsup.com)
-	- [ ] Backend Developer
-		- 5 years PHP
 
 
 ## Pending

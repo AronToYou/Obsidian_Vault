@@ -13,7 +13,13 @@ Groups together processes and enables the limiting, accounting for, and isolatio
 - Imctfy
 
 # Linux Containers
+
+^9eb2b8
+
 Based on Linux namespaces and [[Kernel#^843630|cgroups]].
+- full OS emulation
+- shares host Kernel
+- isolated user-space w/o Hypervisor
 ### Isolated Resources
 - connected devices
 - files / folders

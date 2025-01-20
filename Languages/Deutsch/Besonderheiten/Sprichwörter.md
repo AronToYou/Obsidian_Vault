@@ -10,3 +10,4 @@
 - Morgen, morgen nur nicht heute, sagen alle faulen Leute.
 	- ! Sprechen immer träge Leute.
 - Draußen regnet es Bindfäden.
+- **Der Fisch stinkt vom Kopf** -- Macht der Kopf, also die Führung, in der Wirtschaft oder der Politik schwerwiegende Fehler.

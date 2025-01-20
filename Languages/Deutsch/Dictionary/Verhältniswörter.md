@@ -10,4 +10,6 @@
 	- **zufolge**
 	- **laut** \[Gen.\]
 	- **mit Rücksicht auf** \[Akk.\]
+- **dank**
+	- *Dank Lohnsteuerkarte wusste der Arbeitgeber ...*
 - **aufgrund** \[Gen.\] -- on the basis of / on account of

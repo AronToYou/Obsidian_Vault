@@ -1,24 +1,44 @@
-## Study
+# Study
 - [Hennge Stack](https://stackshare.io/hennge/hennge-kk)
 - [CS 162](https://inst.eecs.berkeley.edu/~cs162/fa19/static/lectures/)
 - [Web Architecture](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file)
 - [[Andrew_S_Tanenbaum-Computer_Networks.pdf|Computer Networks]]
-- [Monster](https://www.monster.de/jobs/suche?q=Informatiker+als+Beauftragter+f%C3%BCr+das+CCC++Krebszentrum+M%C3%BCnchen&where=M%C3%BCnchen&page=1&id=27d442f1-7fcd-4c67-b2ab-e0440bc095b2&mstr_dist=true&utm_id=eu0006&utm_medium=social_sm_campaigns&utm_term=paid&utm_content=prospecting+android&utm_source=facebook&utm_campaign=de-prospecting-pbc-as-offs-v4-android)
-- Lightbend
-	- Are an SRE who understands how to operate modern distributed data systems on Kubernetes to be extremely reliable with predictable performance.
-	- Are dedicated to best practices such as infrastructure as code, automated testing, code reviews, CI/CD, GitOps, and testing.
-	- Are familiar with many of the supporting technologies we use, including Terraform, Crossplane, FluxCD GitOps, Prometheus, Grafana, Actors, Service Mesh frameworks, etc.
-	- Are experienced with complex and secure networking environments, including Encryption Keys, and TLS. 
-- Accenture
-	- Du kennst dich in (REST-)Backend Entwicklungen mit gängigen Umgebungen, wie z.B. NodeJS und Java aus
-	- Arbeiten mit Docker Containern und deren Orchestrierung mit z.B. Kubernetes ist für dich eine Selbstverständlichkeit
-	- CI/CD sind nicht bloß Konzepte für dich, sondern du weißt auch, wie du sie erfolgreich implementierst
-	- Know-how im Hadoop Ecosytem, Orchestration Tools, CI/CD Tools (Pipelines, GitOps, Jenkins), Configuration Management/Infrastructure as Code (IaC) Tools wie Terraform, Chef, Puppet oder Ansible, in den Programmiersprachen Golang, Python, Bash, in Cloud-Technologien (AWS, Azure oder GCP) sowie im Aufbau und Betrieb überwiegend Linux-basierter und hochverfügbarer Systemlösungen
-	- Expertise in den gängigen ML- und KI-Bibliotheken wie TensorFlow, PyTorch und GPT-Modelle sowie Praxiswissen in der Bewertung von Cloud-Architekturen und deren Neugestaltung
-	- Experience with automotive-relevant network technologies (e.g. TCP/IP, CAN, or Ethernet) and hardware interfaces (I2C, SPI, UART)
+
+# Software Development Practices
+## Agile
+- **Individuals/Interactions** vs. processes/tools
+- **Working Software** vs. comprehensive documentation
+- **Customer Collaboration** vs. contract negotiation
+- **Dynamically Adapting** vs. plan following
+### Scrum
+- ***sprints*** -- time-boxed goal iterations no longer than 1 month
+- ***daily scrums*** -- stand-up assessment meetings no longer than 15 minutes
+- Post-sprint meetings
+	- ***sprint review*** -- work demonstration for stakeholders
+	- ***internal sprint retrospective***
+- ***scrum master*** -- in charge of scrum team
+- ***product backlog*** -- work list of product requirements
+	- ***sprint backlog*** -- sprint subset
+![[scrum.png|]]
+### Extreme Programming
+- frequent short development cycles
+	- introduces checkpoints allowing new requirements adoption
+- code reviews
+- unit testing
+
+## Digital Transformation Consulting
+- ITIL
+- Cobit
+- IREB
+- SAFe
+- TOGAF
+
+## Technology
 - Rational DOORS
-- Experience with implementation and tuning in the Big Data Ecosystem, (such as EMR, Hadoop, Spark, R, Presto, Hive), ML Platforms (SageMaker, Kubeflow, Azure Machine Learning, SAS, Domino), and MLOps (model development, orchestration and deployment, monitoring, optimisation).
-- Reinforcement learning and recommendations, and familiarity with LLMs, latent diffusion, or related foundational models that will accelerate our plans to dynamically optimize ad creatives on behalf of advertisers.
+- Big Data Ecosystem: (EMR, Hadoop, Spark, R, Presto, Hive)
+- ML: (SageMaker, Kubeflow, Azure Machine Learning, SAS, Domino)
+	- MLOps: (modelling, orchestration, monitoring, optimisation)
+	- (Reinforcement, LLMs, latent diffusion)
 - JetBrains
 	- WebStorm -- TypeScript
 	- CLion
@@ -27,55 +47,129 @@
 	- ReSharper C++
 	- RustRover
 - Vagrant -- VM environment manager
-	- Virtual Machine Hypervisors
-		- VirtualBox
-		- VMware
-		- Hyper-V
-		- KVM
-		- lxc -- System-level Containerization
-			- Full OS emulation
-			- Isolated user-space w/o Hypervisor
-			- Shares Host OS Kernel
-	- VM Configuration Scripts
-		- Chef
-		- Puppet
-		- Ansible
-		- Shell
-	- Docker -- Application-level Containerization
-		- File-System
-		- Network
-		- Process Space
-		- Shares Host OS Kernel
-- Authentifizierungstechnologien (z.B. pfSense, iptables, Shibboleth, MFA)
-- Other: LLMs, LMMs, NeoVim Configs, …
-- Frontend: Vue / Nuxt, Svelte / Svelte Kit, Tailwind, Bun, tRPC, …
+	- VM Hypervisors: (VirtualBox, VMware, Hyper-V, KVM, [[Kernel#^9eb2b8|lxc]])
+	- VM Configuration Scripts: (Chef, Puppet, Ansible, Shell)
+	- Docker: (File-System, Network, Process Space, Shares Host OS Kernel)
+- Authentifizierungstechnologien: (pfSense, iptables, Shibboleth, MFA)
+- Other: (LLMs, LMMs, NeoVim Configs)
+- Frontend: (Vue / Nuxt, Svelte / Svelte Kit, Tailwind, Bun, tRPC)
+- Business Data
+	- **CRM** (Customer Relationship Management)
+	- **PSA** (Professional Services Automation)
+	- **HCM** (Human Capital Management)
+- Data visualization Tools
+	- Tableau (Creator, Explorer, Viewer)
+	- Power BI
+- Testautomatisierungswerkzeugkette
+	- Jenkins, GitHub, UFT One, Tricentis Tosca, Oracle/ IBM Datenbanken
+- prozedurale Softwareentwicklung mit: ([TSO](https://en.wikipedia.org/wiki/Time_Sharing_Option), [PL/1](https://www.devx.com/de/AGB/Programmiersprache-eins/), [DB2](https://www.ibm.com/db2))
 
-Brute Force
+### Message Brokers
+- Kafka
+- Redis
+- RabbitMQ
+	- AMQP (Advanced Message Queuing Protocol)
+	- STOMP (Streaming Text Oriented Messaging Protocol)
+- JBoss
 
-  
-
-Check all standard libraries
-
+## Olga
+- Brute Force
+- Check all standard libraries
 - all functions of data structures
-
 - asymptotics
-
 - bruteforce, how to get the permutation
-
 - hash map, set, dfs, bfs, dynamic programming, sort
+- red-black tree
+- topological graph sort
+- segment tree
 
--
-
-  
-
-red-black tree
-
-  
-
-topological graph sort
-
-g
-
-segment tree
-
- 
+## Jobs
+- [ ] [bitsCrunch](https://bitscrunch.com/careers)
+	- [ ] Senior Golang Developer
+		- Deep understanding of blockchain technology, including Ethereum, Polygon, Bitcoin, Solana, and other networks. 
+- [ ] Google
+	- [ ] SWE, Android Automotive
+		- Rust and Java/Kotlin
+		- AUTOSAR, SOME/IP
+	- [ ] UX Researcher
+		- Human Computer Interaction
+	- [ ] Pixel Partner Engineer
+		- Carrier Certifications PTCRB, GCF
+		- Cellular radio technologies
+		- Android
+- [ ] Proxima Fusion -- High Wage
+	- [ ] [Computational Physicist](https://jobs.lever.co/proximafusion/fca1dbea-479c-4be6-9507-5eb026c082ec)
+	- [ ] Simulation Infrastructure Lead
+		- Simulations
+		- 2-years
+- [ ] [Tangany](https://tangany.com/jobs)
+	- [ ] [Backend Developer Staking ](https://join.com/companies/tangany/12298843-backend-developer-staking-m-f-d)
+		- tcpdump, val grind, GDB
+		- TCP/UDP
+- [ ] Xempus AG
+	- [ ] [Site Reliability Engineer](https://xempus.jobs.personio.com/job/1687098?language=de%3Flanguage%3D&display=en) 90-105K
+		- ISO 27001 context
+		- Kubernetes, Kafka, PostgreSQL, HashiCorp Vault, and Min.IO
+		- Infrastructure as code: Terraform, Packer, and Ansible
+		- Virtualization / Networking: VMware, NSX-T, and Openstack
+		- Organization: Grafana, Influx, M3DB, and Elastic-Stack
+	- [ ] Senior Kotlin Engineer
+		- Kotlin
+		- PostgreSQL and MySQL
+		- Spring Boot, Hibernate, Kafka, SQL DBs, ReSTful APIs, Docker, and Kubernetes
+- (Senior) Ruby Developer
+	- Sinatra, Ruby on Rails, Ruby
+	- RSpec, PostgreSQL, Apache Kafka, rabbitmq, Elastic, docker, and Terraform
+	- BDD/TDD --> Cucumber
+- [ ] [Productsup](https://productsup.com)
+	- [ ] Backend Developer
+		- 5 years PHP
+- [ ] Cloudflight
+	- [ ] [Senior Embedded Software Engineer C++](https://career.cloudflight.io/jobs/2548277-senior-embedded-software-engineer-c-m-f-x)
+		-  Qt and QML
+		- Embedded OSes: Linux, embOS, FreeRTOS
+	- [ ] Data Engineer (Austria)
+		- data architecture patterns
+			- star schema, medallion, snowflake schema, & data vault modelling
+		- Airflow, PySpark, dbt, & Databricks or Snowflake
+		- Azure Synapse Analytics, Microsoft Fabric, AWS Redshift, & GCP Big Query or Dataflow
+		- Infrastructure-as-Code: Terraform, Pulumi, or CloudFormation
+- [ ] [Landeshauptstadt München - IT & Telekommunikation](https://karriere.muenchen.de/job/Agnes-Pockels-Bogen-33-Servicemitarbeiterin-UC-Voice-over-IP-%28wmd%29-Agnes-Pock/1121229501/)
+	- [Kindergarten](https://stadt.muenchen.de/infos/it-karriere.html)
+- [ ] Boston Consulting Group Platinion
+	- [ ] [Associate IT Architect](https://careers.bcg.com/us/en/job/592/Associate-IT-Architect-all-genders-BCG-Platinion)
+	- [ ] [Associate IT Consultant](https://careers.bcg.com/us/en/job/593/Associate-IT-Consultant-all-genders-BCG-Platinion)
+- [ ] [QVEST](https://qvest.com) - braucht Deutsch
+	- [ ] [IT System Administrator](https://career.qvest.com/de/jobs/20333/it-system-administrator-mwd)
+	- [ ] [Sales Engineer - AI Transformation in Media & Entertainment](https://career.qvest.com/de/jobs/20315/sales-engineer-ai-transformation-in-media-entertainment-mwd)
+- [ ] [Immoconn](https://immocnn.com) (Juconn GmbH)
+	- [ ] [Backend-Entwickler](https://immoconn.com/karriere/backend-entwickler-m-w-d-deutschlandweit/)
+		- Java, Spring Boot, MongoDB, PostgresSQL, Redis, RabbitMQ(broker)
+- [ ] [PentaSoft AG](https://pentasoft.de)
+	- [ ] [Software Developer PL/1](https://pentasoft.de/en/eu-en_vacancies/eu-en_munich_pl1dev/)
+		- JCL, REXX scripting, 5-8 years
+	- [ ] [Web Developer for Insurance Applications](https://pentasoft.de/en/eu-en_vacancies/eu-en_munich_webdev_insuranceapp/)
+		- JS, SQL, XML, JSP, CSS, HTML5
+		- Jenkins, Maven, Cloud Foundry, OpenShift, Docker
+		- Eclipse/Intellij, IBM DB2, Grafana, Dynatrace from Kibana
+	- [ ] [Software Developer Java, C/C++](https://pentasoft.de/en/eu-en_vacancies/eu-en_munich_javacdev/)
+		- Jenkins, SVN, Cobertura, Maven, Cloud Foundry, ELK Stack (Elastic, Kibana, Logstash), Jira, OpenShift, Docker
+- [ ] [Hetzner Cloud GmbH](https://hetzner-cloud.de)
+	- [ ] [Softwareentwickler (m/w/d) Backend Go](https://hetzner-cloud.de/jobs/1019297)
+		- (Go, PostgreSQL, Redis, Docker, Kafka, RabbitMQ) 
+- [Monster](https://www.monster.de/jobs/suche?q=Informatiker+als+Beauftragter+f%C3%BCr+das+CCC++Krebszentrum+M%C3%BCnchen&where=M%C3%BCnchen&page=1&id=27d442f1-7fcd-4c67-b2ab-e0440bc095b2&mstr_dist=true&utm_id=eu0006&utm_medium=social_sm_campaigns&utm_term=paid&utm_content=prospecting+android&utm_source=facebook&utm_campaign=de-prospecting-pbc-as-offs-v4-android)
+- Lightbend
+	- SRE: distributed data systems on Kubernetes
+	- Infrastructure-as-Code, automated testing, code reviews, CI/CD, & GitOps.
+	- Stack: (Terraform, Crossplane, FluxCD GitOps, Prometheus, Grafana, Actors, Service Mesh frameworks)
+	- Secure networking environments: (Encryption Keys, and TLS) 
+- Accenture
+	- (REST-)Backend Entwicklungen: (NodeJS, Java)
+	- Docker Containern und deren Orchestrierung mit Kubernetes
+	- CI/CD Tools: (Pipelines, GitOps, Jenkins)
+	- Infrastructure-as-Code (IaC): (Terraform, Chef, Puppet, Ansible)
+	- Cloud-Technologien: (AWS, Azure, GCP)
+	- Hadoop Ecosytem, Golang, Python, Bash
+	- ML: (TensorFlow, PyTorch, GPT-Modelle)
+	- Automotive: (TCP/IP, CAN, Ethernet) 
+	- Hardware: (I2C, SPI, UART)

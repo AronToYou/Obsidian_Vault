@@ -1,3 +1,41 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1726756342516,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1726756325798,
+          "path": "General/Auf der Suche.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726756325798,
+          "path": "Computers/Linux/Terminal/Bash.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726756325798,
+          "path": "General/NavVis.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726756325798,
+          "path": "Computers/Web Development/Jenkins.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726756325798,
+          "path": "Computers/Web Development/Overview.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726756325798,
+          "path": "Computers/Linux/Kernel.md"
+        }
+      ],
+      "title": "The Hunt"
+    }
+  ]
 }
