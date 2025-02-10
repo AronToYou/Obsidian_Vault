@@ -1,14 +1,108 @@
-`git log --oneline --graph --decorate --all`
+## log
+`git log --oneline --graph --decorate --all --date=short`
 
+
+## checkout & branch
+`git checkout -b <new-branch-name> <start-commit>`
+`git checkout <branch-name>`
+`git branch -d <branch-name>`
+
+`git checkout <tree-ish> -- <path>`
+
+`git branch -d -r origin/<remote-branch-name>`
+- stops tracking named remote branch locally (deletes remote-tracking branch)
+## rename
+`git mv ./old ./new`
+
+## rm
 `git rm -r --cached .`
+- Unstages & removes **paths** only from the index
 
+
+## add
+`git add -p` or `--patch`
+- Interactively choose hunks of patch between the index and working tree
+
+
+## restore
+`git restore <path>`
+- restores working tree to the index for all matching `<path>`'s
+`git restore --staged --worktree -- <path>`
+- restores only the index to `HEAD`
+`git restore --source=<commit,branch,tag>`
+- restores working tree to source
+
+## reset
+`git reset <tree-ish> -- <path>`
+- copies entries from `<source>` to the index for all matching `<path>`'s
+- equivalent to `git restore --staged <path>`
+
+`git reset <commit>`
+- `--soft` resets `HEAD` to `<commit>`, leaving index & working tree alone
+- `--mixed` resets the index as well **\<DEFAULT\>**
+- `--hard` resets index & working tree
+- `-N` adds [intent-to-add](https://stackoverflow.com/questions/24329051/what-does-git-add-intent-to-add-or-n-do-and-when-should-it-be-used) for removed paths
+- `--keep` aborts if a reset file has local changes
+
+
+## Amending
 `git commit --amend`
-`git commit --amend -m`
+`git commit --amend -m "new message"`
 `git commit --amend --no-edit`
+- does not change commit message
 
+## reflog
+`HEAD@{n}`
+- where `HEAD` was `n` moves ago (e.g. `n reset` commands )
+`master@{one.week.ago}`
+- where `master` branch pointed 1 week ago
 `git checkout HEAD@{1} .`
-`git checkout master`
-[Here](https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git)
 
+
+## Tree Traversal
+`git rev-parse --short HEAD~~~^2~3`
+- caret `^n` selects a the **nth**-path at a fork
+- each `~` or `~n` goes backwards by **1** or **n** respectively, always choosing the first parent at forks 
 
 ![[git_diff.png|]]
+
+
+# \<tree-ish\>
+```
+----------------------------------------------------------------------
+|    Commit-ish/Tree-ish    |                Examples
+----------------------------------------------------------------------
+|  1. <sha1>                | dae86e1950b1277e545cee180551750029cfe735
+|  2. <describeOutput>      | v1.7.4.2-679-g3bee7fb
+|  3. <refname>             | master, heads/master, refs/heads/master
+|  4. <refname>@{<date>}    | master@{yesterday}, HEAD@{5 minutes ago}
+|  5. <refname>@{<n>}       | master@{1}
+|  6. @{<n>}                | @{1}
+|  7. @{-<n>}               | @{-1}
+|  8. <refname>@{upstream}  | master@{upstream}, @{u}
+|  9. <rev>^                | HEAD^, v1.5.1^0
+| 10. <rev>~<n>             | master~3
+| 11. <rev>^{<type>}        | v0.99.8^{commit}
+| 12. <rev>^{}              | v0.99.8^{}
+| 13. <rev>^{/<text>}       | HEAD^{/fix nasty bug}
+| 14. :/<text>              | :/fix nasty bug
+----------------------------------------------------------------------
+|       Tree-ish only       |                Examples
+----------------------------------------------------------------------
+| 15. <rev>:<path>          | HEAD:README, :README, master:./README
+----------------------------------------------------------------------
+|         Tree-ish?         |                Examples
+----------------------------------------------------------------------
+| 16. :<n>:<path>           | :0:README, :README
+----------------------------------------------------------------------
+```
+
+
+# .gitconfig
+```
+[user]
+	name = Aron Lloyd
+	email = aron.lloyd@innovis-kg.de
+[alias]
+	tree = log --graph --all --pretty=format:'%C(auto)%h%d [%cs](%cn): %s'
+```

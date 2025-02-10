@@ -182,6 +182,10 @@
  - [ ] [Orange Cybersecurity](https://jobs.orangecyberdefense.com/jobs?split_view=true&geobound_coordinates%5Btop_left_lat%5D=49.1116507512627&geobound_coordinates%5Btop_left_lon%5D=10.4539354078604&geobound_coordinates%5Bbottom_right_lat%5D=47.749857562071824&geobound_coordinates%5Bbottom_right_lon%5D=11.847088326770063&query=)
  - [ ] Fujitsu München
  - [ ] Apple München
+ - [ ] [Landesamt für Digitalisierung](https://www.goforit.bayern.de)
+ - [ ] [Landesamt für Sicherheit in der Informationstechnik](https://www.lsi.bayern.de/stellen/)
+ - [ ] [Landesamt für Steuer](https://www.finanzamt.bayern.de/Informationen/Job_und_Karriere/Wir_stellen_ein/IT-Fachkraefte/)
+ - [ ] [Landesamt für Finanzen](https://www.lff-karriere.bayern.de/stellenangebote/)
 
 
 ## Processed

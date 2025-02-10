@@ -36,6 +36,24 @@
         }
       ],
       "title": "The Hunt"
+    },
+    {
+      "type": "group",
+      "ctime": 1738876087549,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1738876102486,
+          "path": "Languages/Deutsch/Besonderheiten/Unterscheidung zwischen ähnliche Worte.md",
+          "title": "der Unterschied"
+        },
+        {
+          "type": "file",
+          "ctime": 1739150828051,
+          "path": "Languages/Deutsch/Wortgrammatik/Declension.md"
+        }
+      ],
+      "title": "Deutsch"
     }
   ]
 }

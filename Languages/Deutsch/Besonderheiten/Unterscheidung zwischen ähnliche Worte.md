@@ -1,4 +1,45 @@
+# Substantive
+---
+## Unterschied - Unterscheidung
+- der **Unterschied** - the difference
+- **Unterscheidung** - the distinction, the action of having distinguished
+	- **unterscheiden** - differentiate
+
+## Worte - Wörter
+- [Here](https://www.pcs-campus.de/praxis/texten/woerter-oder-worte/#:~:text=Bei%20der%20Frage%2C%20wann%20man,Worte%20bestehen%20somit%20aus%20W%C3%B6rtern.)
+- **Wörter** - einfach Plural
+- **Worte** - eine Folge von Wörtern, die eine Bedeutung darstellen.
+
+# Eigenschaftswörter
+---
+## einzig - einzeln
+
+## offen - offenbar - öffenbar - öffentlich
+- **offen** - open(ly)  \[geöffnet\]
+- **offenbar** - obvious(ly) / (apparently)
+	- **offensichtlich**
+	- **augenscheinlich**
+- **offenbaren** - reveal
+	- **offenbart** - revealed
+- **öffenbar** - openable
+- **öffentlich** - public(ly)
+
+# Umstandswörter
+---
+## immerhin - sowieso - ohnehin
+
+## manchmal(s) - mitunter - ab und zu - hin und her - gehobener
+
+## meist - meistens
+- **meist** - usually
+- **meistens** - most of the time
+
+## am besten - am Besten
+- **am besten** - best out of that (*adj.*)
+- **am Besten** - the best (*noun*)
+
 # Tätigkeitswörter
+---
 ## benutzen - nutzen - verwenden - anwenden
 - **benutzen** - using something, as in operating it.
 - **nutzen** - making use of something as a means to an end.
@@ -11,30 +52,11 @@
 ## gelten - zutreffen
 - **zutreffen** <*intrans.*>
 
-## einzig - einzeln
-
-## Worte - Wörter
-- [Here](https://www.pcs-campus.de/praxis/texten/woerter-oder-worte/#:~:text=Bei%20der%20Frage%2C%20wann%20man,Worte%20bestehen%20somit%20aus%20W%C3%B6rtern.)
-- **Wörter** - einfach Plural
-- **Worte** - eine Folge von Wörtern, die eine Bedeutung darstellen.
-
 ## zuweisen - zuordnen
 
-## immerhin - sowieso - ohnehin
-
-## manchmal(s) - mitunter - ab und zu - hin und her - gehobener
-
-## ändern - verändern
+## ändern
 - **ändern** - instantaneous, specific
 - **verändern** - over time, non-specific
-
-## meist - meistens
-- **meist** - usually
-- **meistens** - most of the time
-
-## am besten - am Besten
-- **am besten** - best out of that (*adj.*)
-- **am Besten** - the best (*noun*)
 
 ## rechnen
  - **rechnen** - calculating
@@ -63,16 +85,6 @@
  - **festhalten** - physically hold (firm)
     - preserve something abstract
 
-## offen - offenbar - öffenbar - öffentlich
-- **offen** - open(ly)  \[geöffnet\]
-- **offenbar** - obvious(ly) / (apparently)
-	- **offensichtlich**
-	- **augenscheinlich**
-- **offenbaren** - reveal
-	- **offenbart** - revealed
-- **öffenbar** - openable
-- **öffentlich** - public(ly)
-
 ## handeln
 - **handeln** - allgemeiner Begriff für Tun, Entscheiden oder Geschäfte machen.
 	- etwas tun, aktiv werden
@@ -83,3 +95,9 @@
 - **behandeln** - bezieht sich auf den Umgang/Auseinandersetzung mit etwas/jmdm.
 	- sich mit etwas beschäftigen oder bearbeiten.
 	- jmdn./etwas auf eine Weise betreuen/pflegen/versorgen.
+
+## klären
+- **erklären** - explain, elucidate
+- **klären** - clear up / make clear, clarify, ein Umstand lösen
+- **aufklären** - make aware of, notify
+- **abklären** - decolorize (a chemical), clarify w/ somebody

@@ -19,7 +19,7 @@ hr {
 	padding 0.5ex 1ex;
 }
 
-.image-embed[alt]:before {
+.image-embed[alt]:not([alt*="."]):before {
 	content: attr(alt);
 	display: block;
 

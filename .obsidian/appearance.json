@@ -1,7 +1,10 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "snippet"
+    "snippet",
+    "MCL Wide Views",
+    "MCL Multi Column",
+    "MCL Gallery Cards"
   ],
   "theme": "obsidian"
 }

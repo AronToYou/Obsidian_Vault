@@ -1,0 +1,10 @@
+- das trifft auf mich zu
+- im Stau stehen
+- Es hängt davon ab...
+- aufwendig
+- brav
+- viel befahrene Straße
+- zur Verfügung haben
+- Rücksicht auf anderen nehmen
+- Was mich betrifft
+- sparsam
