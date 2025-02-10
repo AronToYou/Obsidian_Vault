@@ -13,6 +13,8 @@
 # Eigenschaftswörter
 ---
 ## einzig - einzeln
+- **einzig** - singular, sole individual
+- **einzeln** - individual
 
 ## offen - offenbar - öffenbar - öffentlich
 - **offen** - open(ly)  \[geöffnet\]
@@ -31,8 +33,16 @@
 ## manchmal(s) - mitunter - ab und zu - hin und her - gehobener
 
 ## meist - meistens
-- **meist** - usually
-- **meistens** - most of the time
+- **meist** - most(ly) of / (usually)
+- **die meisten** - most people
+- **am meisten** - the most
+- **meistens** - for the most part
+
+## mindest
+- **mindest** - least / slightest
+- **mindestens** - at least (Quantität)
+- **zumindest** - at least (Qualität)
+   - **wenigstens**
 
 ## am besten - am Besten
 - **am besten** - best out of that (*adj.*)
@@ -40,14 +50,17 @@
 
 # Tätigkeitswörter
 ---
-## benutzen - nutzen - verwenden - anwenden
+## nutzen
 - **benutzen** - using something, as in operating it.
 - **nutzen** - making use of something as a means to an end.
 	- Ich nutze jede Gelegenheit, die sich mir bietet, um mein Deutsch zu verbessern.
+
+## wenden
+- **wenden** - turn
 - **verwenden** - utilize
 - **anwenden** - employ
 
-## antreffen - begegnen - treffen auf
+## antreffen - begegnen - treffen auf - anschoßen
 
 ## gelten - zutreffen
 - **zutreffen** <*intrans.*>
@@ -82,6 +95,7 @@
  - **verhalten** - hold back / behave
  - **behalten** - physically keep
  - **beibehalten** - something abstract
+ - **beinhalten** - comprise / imply
  - **festhalten** - physically hold (firm)
     - preserve something abstract
 
@@ -101,3 +115,12 @@
 - **klären** - clear up / make clear, clarify, ein Umstand lösen
 - **aufklären** - make aware of, notify
 - **abklären** - decolorize (a chemical), clarify w/ somebody
+
+## liegen - legen
+- **liegen / gelegen** - to lie down
+- **legen / gelegt** - to lay something down
+
+## sorgen
+- **sorgen** - 
+- **besorgen** - 
+- **versorgen** - 
