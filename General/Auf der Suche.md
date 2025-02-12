@@ -25,6 +25,17 @@
 
 
 # Jobs
+## Mozilla
+- [ ] [[https://www.mozillapulse.org/entry/2190|entry1]]
+- [ ] [[https://www.mozillapulse.org/entry/2463|entry2]]
+- [ ] [[https://www.mozillapulse.org/entry/2538|entry3]]
+- [ ] [[https://www.mozillapulse.org/entry/2536|entry4]]
+- [ ] [[https://www.mozillapulse.org/entry/2535|entry5]]
+- [ ] [[https://www.mozillapulse.org/entry/2460|entry6]]
+- [ ] [[https://www.mozillapulse.org/entry/2459|entry7]]
+- [ ] [[https://www.mozillapulse.org/entry/2211|entry8]]
+- [ ] [[https://embassynetwork.com/|Embassy Network]]
+
 ## München Ost
 - [/] [Huber & Feneberg](https://www.huber-feneberg.com/) - [vertrieb@huber-feneberg.de](mailto:vertrieb@huber-feneberg.de) ➕ 2024-10-02
 

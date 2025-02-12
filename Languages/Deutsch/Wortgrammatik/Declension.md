@@ -6,7 +6,6 @@
 >
 >> [!blank-container]
 >> ![[indefiniteCase.png|Indefinite Case Table]]
-
 ## Plural im Dativ
 - die *Nominativ* -> den *Dative* + **n**
 	- die Vorsätze -> mit den Vorsätzen
@@ -22,12 +21,9 @@ All cases, other than nominative, end with an n/en
 	- der endet in **or** und verweist eine Person
 	- der Autor / die Autoren -> den/dem Autor
 
-> [!multi-column]
->> [!blank-container]
->> ![[definiteCase.png|bestimmte Artikel]]
->
->> [!blank-container]
->> ![[indefiniteCase.png|unbestimmte Artikel]]
+![[definiteCaseTable.png]]
+![[indefiniteCaseTable.png]]
+![[ohneCaseTable.png]]
 
 ## sächliche (Neutrum) und männlicher Genitiv
 - der/das *Nominative* -> des *Genitiv* + **s** oder **es**

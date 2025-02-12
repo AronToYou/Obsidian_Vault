@@ -76,6 +76,8 @@
 - [ ] Deno - successor of Node.js
 - [ ] threaded code - programming technique
 - [ ] memoization
+- [ ] [[https://courses.cs.washington.edu/courses/cse341/04wi/lectures/|CS341]]
+- [ ] [[https://news.ycombinator.com/item?id=24883740|Performance of Functional Languages]]
 
 # Robotics
 <hr width="50%" align="right" style="border: 1px solid white">
@@ -212,12 +214,23 @@
 	- Cannabigerol (CBG)
 	- Tetrahydrocannabinol
 	- Tetrahydrocannabihexol (*delta9*-THCH)
+	- [[https://pubmed.ncbi.nlm.nih.gov/20174577|link1]]
+	- [[https://www.medcentral.com/pain/chronic/glial-cell-activation-neuroinflammation-how-they-cause-centralized-pain|glial cell activation & neuroinflammation]]
+	- [[https://pubmed.ncbi.nlm.nih.gov/7925829|link3]]
+	- [[https://en.m.wikipedia.org/wiki/MPTP|link4]]
+	- [[https://en.m.wikipedia.org/wiki/Anticholinergic|link5]]
+	- [[https://en.m.wikipedia.org/wiki/Thyroid_disease|link6]]
+
+#### Flavonoids
+- [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8007671/#:~:text=Mechanisms%20of%20action%20of%20flavonoids,downstream%20responses%20including%20inflammatory%20diseases|Mechanisms of action]]
+- [Flavonoids in Dark Chocolate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6225491/)
+- [[https://en.m.wikipedia.org/wiki/Vicia_faba|Vicia faba]]
+- [[https://www.bluelight.org/community/threads/levodopa.923041/|levodopa]]
 
 ### Nutrition
 - Role of Nitric Oxide in the body
 	- Choline in Nootropic stacks
 	- Superbeets Heart Chews
-- [Flavonoids in Dark Chocolate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6225491/)
 
 
 ---
