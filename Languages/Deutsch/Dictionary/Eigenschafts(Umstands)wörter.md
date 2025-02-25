@@ -1,5 +1,5 @@
 - <b>Wiew<ins>ort</ins>(örter)</b>
-See [[Languages/Deutsch/Wortgrammatik/Eigenschaftswörter|Wortgrammatik/Eigenschaftswörter]] also [Wortarte](https://de.wiktionary.org/wiki/Hilfe:Wortart)
+See [Wortarte](https://de.wiktionary.org/wiki/Hilfe:Wortart)
 - **das Adverb(ien)**
 See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de.wiktionary.org/wiki/Hilfe:Wortart)
 

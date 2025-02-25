@@ -3,3 +3,4 @@
 - bzw. -- beziehungsweise
 - zuf. -- zufallig oder zufolge
 - bsd. -- besonders
+- m.E. -- meines Erachtens

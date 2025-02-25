@@ -25,5 +25,24 @@
       ],
       "key": "F"
     }
+  ],
+  "obsidian-paste-to-current-indentation:paste-in-mode-TextBlockquote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "7"
+    }
+  ],
+  "obsidian-paste-to-current-indentation:toggle-blockquote-at-current-indentation": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "7"
+    }
   ]
 }

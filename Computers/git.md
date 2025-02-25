@@ -2,6 +2,15 @@
 `git log --oneline --graph --decorate --all --date=short`
 
 
+## file info
+`git cat-file -s 033b4468fa6b2a9547a70d88d1bbe8bf3f9ed0d5`
+`git cat-file -p master^{tree}`
+
+
+## loose object compression
+`git gc`
+`find .git/objects -type f`
+
 ## checkout & branch
 `git checkout -b <new-branch-name> <start-commit>`
 `git checkout <branch-name>`
@@ -11,6 +20,7 @@
 
 `git branch -d -r origin/<remote-branch-name>`
 - stops tracking named remote branch locally (deletes remote-tracking branch)
+
 ## rename
 `git mv ./old ./new`
 

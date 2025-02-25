@@ -7,6 +7,10 @@
 
 
 ## Zufällige Sätze
+..., wie Sie dabei vorgehen sollten.
+
+"Verlässlich" hat m.E. noch eine emotionale Komponente, weshalb ich es auch eher auf Lebewesen als auf Gegenstände anwenden würde.
+
 In Stockwerken 5 und 6 haben wir das Problem, daß unser Roboter in manchen Arealen des Flurs sich nicht mit dem Internet verbinden kann, was dazu führt, daß er nicht mehr eigenständig an die Homing-Position zurückkehrt.
 
 Es wurde Kontakt mit einem Mitarbeiter hergestellt, mit dem ich auch freundlicherweise eine Lösung gefunden habe.

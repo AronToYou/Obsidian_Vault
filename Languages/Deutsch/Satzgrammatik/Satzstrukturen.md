@@ -1,3 +1,9 @@
+- **mit Bezug zu / auf**
+- **Ich gehe davon aus, daß...** - I assume that
+- **etwas/jemanden zurate ziehen** - consult sth/sb
+	- **mit sich zurate gehen** - think things over
+
+
 ## Präpositionalphrasen
 - according to
 	- von Leute
@@ -9,5 +15,3 @@
 		- *dativ* **zufolge** -- **zufolge** *genetive* 
 			- nachgestellt mit *dat*; vorangestellt mit *gen*
 		- **aufgrund** *genetiv* -- **aufgrund von** *dativ* (aber ohne Artikel)
-
-

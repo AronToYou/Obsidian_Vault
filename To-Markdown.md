@@ -8,4 +8,4 @@
 	- [ ] Fun things to do
 	- [ ] Languages
 - [ ] Markdown
-	- [ ] Replicate image caption CSS styling for image columns like [[Declension|here]]
+	- [ ] Replicate image caption CSS styling for image columns like [[Substantive|here]]
