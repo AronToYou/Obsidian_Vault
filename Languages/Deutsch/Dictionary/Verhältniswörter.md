@@ -5,11 +5,16 @@
 ---
 # Unorganisierten
 <hr width="75%" align="right" style="border: 1px solid white">
-- **gemäß** \[Dat.\]
-	- **nach**
-	- **zufolge**
-	- **laut** \[Gen.\]
-	- **mit Rücksicht auf** \[Akk.\]
+
+- **gemäß** \[*Dat.*\]
+- **nach**
+- \[*Dat.*\] **zufolge** - according to ^6a2299
+	- *dem Befehl zufolge*
+	- als Folge von
+	- (selten) vorangestellt mit *gen.*
+- **laut** \[*Gen.*\]
+- **mit Rücksicht auf** \[*Akk.*\]
+
 - **dank**
 	- *Dank Lohnsteuerkarte wusste der Arbeitgeber ...*
-- **aufgrund** \[Gen.\] -- on the basis of / on account of
+- **aufgrund** \[*Gen.*\] -- on the basis of / on account of

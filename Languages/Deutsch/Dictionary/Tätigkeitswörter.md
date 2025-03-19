@@ -13,15 +13,6 @@
 	- **...**
 - **...**
 
-# trennbar (trennb.)
-
-# untrennbar (utrennb.)
-
-# transitiv (trans., tr.)
-# intransitiv (intrans., intr., itr.)
-# reflexiv (refl.)
-
-
 ---
 
 # unpersönliche Verben
@@ -41,18 +32,9 @@
 # Unorganisierten
 <hr width="75%" style="border: 1px solid white">
 
- - **arbeiten** - do \[work\] {work one's way}
-	 - **erarbeiten** - gain / extract / compile / elaborate
-	 - **verarbeiten** - make / convert (*zu* into) / process
-	 - **bearbeiten** - treat / adapt
-	 - **durcharbeiten** (*trennb.*) - plow through
-
 - **beflügeln** -- inspire + facilitate
 
 - **behaupten** -- state / declare {maintain their position}
-
-- **beziehen** -- cover {refer to, [[#^6bbe72|unpersönlich]]}
-	- *sich auf (Akk.) beziehen*
 
 - **darstellen** (*trennb.*) - represent / depict {present itself / appear to be}
 
@@ -63,34 +45,8 @@
 
 - **erweitern**
  
-- **fordern** -- demand \<*strong*\>
-	- **verlangen** -- demand \[to ask *nach etwas*\] \<strong emotion\>
-	- **auffordern** (*trennb.*) -- ask / invite / request \<*somewhat strong*\>
-	- **anfordern** (*trennb.*) -- request \<neutral\>
-	- **erfordern** -- require (as in a requirement) \<neutral\>
-
 - **freuen**
 	- **erfreuen** -- delight {take delight in}
-
-- **führen** -- lead / build / wield / bear / manage \[lead / run\] {conduct oneself}
-	- *einen Blinden an der Hand über die Straße führen*
-	- *eine Mauer um den Garten führen*
-	- *jemandem zeigen, wie man geschickt den Pinsel führen*
-	- *Er führt (den Namen) nie viel Geld bei/mit sich.*
-	- *Ich führe unseren Haushalt.*
-	- *Diese Tür führt in den Garten.*
-	- *sich schlecht führen*
-	- *Hunde sind an der Leine zu führen!*
-	- **einführen** (*trennb.*) -- introduce {oneself}
-		- *Du hast dich hier ja gut eingeführt!* \<ironisch\>
-	- **abführen** (*trennb.*) -- pay / lead off \[loosen the bowels\]
-		- *einen Betraf an jemanden abführen*
-		- *Der Weg führt uns von der Straße ab*
-		- *jemanden ins Gefängnis abführen*
-
-- **holen** -- get / fetch, extract
-	- **wiederholen** -- repeat {recur}
-	- **wiederholen** (*trennb.*) -- re-fetch
 
 - **halten** -- hold \[keep, last\]
 	- *etwas in der Hand halten*

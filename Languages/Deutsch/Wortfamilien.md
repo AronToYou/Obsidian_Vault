@@ -1,3 +1,4 @@
+Im Allgemeinen sollten die Listen nach Nutzungshäufigkeit sortiert werden.
 # Eigenschaft-/Umstandswörter
 ---
 > [!note]- Entry Format
@@ -11,7 +12,7 @@
 >   - **...**
 ## meist
 - **meist** - most(ly) of / (usually)
-- **die meisten** - most people
+	- **die meisten** - most people
 - **am meisten** - the most
 - **meistens** - for the most part
 
@@ -47,18 +48,53 @@
 - **ändern** - instantaneous, specific
 - **verändern** - over time, non-specific
 
+## arbeiten
+ - **arbeiten** - do \[work\] {work one's way}
+ - **erarbeiten** - gain / extract / compile / elaborate
+ - **verarbeiten** - make / convert (*zu* into) / process
+ - **bearbeiten** - treat / adapt
+ - **durcharbeiten** (*trennb.*) - plow through
+
+## fordern
+- **fordern** - demand \<*strong*\>
+	- **verlangen** (*untr.*) - demand \[to ask *nach etwas*\] \<*strong emotion*\>
+- **auffordern** - ask / invite / request \<*somewhat strong*\>
+- **anfordern** - request \<neutral\>
+- **erfordern** (*untr.*) - require (as in a requirement) \<*neutral*\>
+
 ## fügen
- - **anfügen** (trenn.) - attach
- - **einfügen** (trenn.) - insert
- - **hinzufügen** (trenn.) - add to / append
+ - **anfügen** - attach
+ - **einfügen** - insert
+ - **hinzufügen** - add to / append
+
+## führen
+- **führen** - lead / build / wield / bear / manage \[lead / run\] {conduct oneself}
+	- *einen Blinden an der Hand über die Straße führen*
+	  	- *eine Mauer um den Garten führen*
+	  	- *jemandem zeigen, wie man geschickt den Pinsel führen*
+	  	- *Er führt (den Namen) nie viel Geld bei/mit sich.*
+	  	- *Ich führe unseren Haushalt.*
+	  	- *Diese Tür führt in den Garten.*
+	  	- *sich schlecht führen*
+	  	- *Hunde sind an der Leine zu führen!*
+- **durchführen** - conduct *operations*
+- **ausführen** - implement / perform, execute
+- **anführen** - lead / invoke / allege
+- **aufführen** - perform (theater) / list, present
+- **einführen** - introduce {oneself} / import
+		- *Du hast dich hier ja gut eingeführt!* \<ironisch\>
+- **abführen** - pay / lead off \[loosen the bowels\]
+	- *einen Betraf an jemanden abführen*
+	- *Der Weg führt uns von der Straße ab*
+	- *jemanden ins Gefängnis abführen*
 
 ## gehen
 - **gehen** - go
-- **ergehen** - be sent, be issued
+- **ergehen** (untr.) - be sent, be issued
 	- *etwas über sich ergehen lassen.* - endure
-- **begehen** - go about / commit *Verbrechen*
-- **vergehen** (trenn.) - vanish / go by *Zeit*
-- **vorgehen** - advance, proceed
+- **begehen** (untr.) - go about / commit *Verbrechen*
+- **vergehen** (untr.) - vanish / go by *Zeit*
+- **vorgehen** (trennb.) - advance, proceed
 
 ## halten
  - **halten** - hold
@@ -81,6 +117,11 @@
 	- sich mit etwas beschäftigen oder bearbeiten.
 	- jmdn./etwas auf eine Weise betreuen/pflegen/versorgen.
 
+## holen
+- **holen** - get / fetch, extract
+- **wiederholen** (untr.) - repeat {recur}
+- **wiederholen** (*trennb.*) - re-fetch
+
 ## klären
 - **klären** - clear up / make clear, clarify, ein Umstand lösen
 - **aufklären** - make aware of, notify
@@ -94,6 +135,10 @@
 
 ## liegen
 - **liegen / gelegen** - to lie down
+
+## löschen
+- **löschen** - delete, erase / extinguish (light, fire)
+- **auslöschen** - extinguish / obliterate, expunge
 
 ## nutzen
 - **benutzen** - using something, as in operating it.

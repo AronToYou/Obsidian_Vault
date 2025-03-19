@@ -45,10 +45,10 @@ All cases, other than nominative, end with an n/en
 	- Clemens -> Clemens' Hinweise
 
 
-# adjektivisches Substantiv(e)
+# substantiviertes Adjektiv(e)
 ---
-- **substantiviertes Adjektiv(e)**
-- [here](https://en.wikibooks.org/wiki/German/Grammar/Nouns/Adjectival_Nouns)
+- **[adjektivisches Substantiv(e)](https://deutsch.lingolia.com/en/grammar/nouns/declension/nominalised-adjectives)**
+- [Wikibooks](https://en.wikibooks.org/wiki/German/Grammar/Nouns/Adjectival_Nouns)
 ## bestimmter Artikel
 ```
 der Kleine         das Kleine             die Kleine           die Kleinen
@@ -76,3 +76,9 @@ follows the above pattern
 - ein Deutscher
 - eine Deutsche
 - die Deutschen
+
+
+# substantivierte Verben
+---
+- [Deutsch Lingolia](https://deutsch.lingolia.com/de/gross-kleinschreibung/verben)
+Almost always simply becomes Neutrum

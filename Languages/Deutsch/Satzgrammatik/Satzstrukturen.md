@@ -1,17 +1,26 @@
-- **mit Bezug zu / auf**
+### mit Bezug zu / auf
+- in relation to / with
+### davon ausgehen
 - **Ich gehe davon aus, daß...** - I assume that
-- **etwas/jemanden zurate ziehen** - consult sth/sb
-	- **mit sich zurate gehen** - think things over
 
+### etwas/jemanden zurate ziehen
+- **etwas/jemanden zurate ziehen** - consult sth./sb.
+	- **mit sich zurate gehen** - deliberate
+
+### in Bezug setzen
+- **Im Team Chat können die Mitarbeiter gezielt und schnell austauschen...**
+		- *In the team chat colleagues can pointedly and quickly exchange ideas...*
+	- **und Nachrichten durch den Upload/Hochladen zugehöriger Dateien direkt in Bezug setzen.**
+		- *and directly relate messages through the uploading of files*
 
 ## Präpositionalphrasen
 - according to
 	- von Leute
-		- **laut** *dativ*
-		- *dativ* **zufolge nach**
+		- **laut** \[*Dat.*\]
+		- \[*Dat.*\] **zufolge nach**
 	- von Internet
-		- **laut**, **nach** *dativ* (immer am Anfang des Satzes)
-		- **gemäß** *dativ* (manchmals in der Mitte des Satzes)
-		- *dativ* **zufolge** -- **zufolge** *genetive* 
+		- **laut**, **nach** \[*Dat.*\] (immer am Anfang des Satzes)
+		- **gemäß** \[*Dat.*\] (manchmals in der Mitte des Satzes)
+		- \[*Dat.*\] **zufolge** -- **zufolge** \[*Gen.*\]
 			- nachgestellt mit *dat*; vorangestellt mit *gen*
-		- **aufgrund** *genetiv* -- **aufgrund von** *dativ* (aber ohne Artikel)
+		- **aufgrund** \[*Gen.*\] -- **aufgrund von** \[*Dat.*\] (aber ohne Artikel)

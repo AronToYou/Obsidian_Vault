@@ -357,6 +357,8 @@
 - [ ] [finconomy](https://fineconomy.de/en/)
 - [ ] [IP Dynamics](https://www.ipdynamics.de/)
 - [ ] [Lilium](https://lilium.com)
+- [ ] [IQM](https://meetiqm.com/company/careers)
+- [ ] [Synlab](https://karriere-synlab.de/index.php?ac=start)
 
 
 

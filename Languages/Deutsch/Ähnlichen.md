@@ -1,5 +1,9 @@
 # Substantive
 ---
+## Beschränkung - Einschränkung
+- **Beschränkung** - a upper limit imposed
+- **Einschränkung** - a smaller space forced
+
 ## Teil
 - **der Teil** - eine Untermenge des Ganzen
 - **das Teil** - Losgelöstes
@@ -28,6 +32,11 @@
 ## sofort
 - **sofort**
 - **unmittelbar**
+
+## zusammen
+- beisammen
+	- beisammensein
+
 
 # Umstandswörter
 ---

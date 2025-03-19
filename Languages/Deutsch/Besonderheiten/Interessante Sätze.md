@@ -1,3 +1,23 @@
+## Gerundiv
+---
+### Example 1
+- **Sie werden mit häufig durchzuführenden Arbeiten vertraut gemacht...**
+		- *You will become familiar with frequently executed tasks...*
+	- **und sollen die dafür zu meisternden Probleme gemeinsam lösen.**
+		- *and shall solve the Problems to be mastered for them together.*
+- **Es sind keine leicht zu absolvierenden Aufgaben...**
+		- *They are no easy to solve tasks...*
+	- **und die Teilnehmenden stoßen dabei auf nur im Team zu überwindende Hürden.**
+		- *and the participants therewith encounter hurdles only surmountable in a team.*
+
+#### Glossary
+- **überwinden** - overcome / vanquish / surmount, negotiate / hurdle
+- **die Hürde** - hurdle
+- **vertraut** - familiar, acquainted, conversant / intimate(ly)
+- **durchzuführend** - frequently performed
+
+
+---
 - Das trifft durchaus zu.
 	- That's quite correct.
 - Das dürfte nicht ganz zutreffen.
@@ -5,8 +25,11 @@
 
 - Wir haben ohnehin versucht, einen Anschein der Tänzen zu beflügeln.
 
+- Ich muß seine Haltung entschieden verneinen.
+
 
 ## Zufällige Sätze
+---
 ..., wie Sie dabei vorgehen sollten.
 
 "Verlässlich" hat m.E. noch eine emotionale Komponente, weshalb ich es auch eher auf Lebewesen als auf Gegenstände anwenden würde.

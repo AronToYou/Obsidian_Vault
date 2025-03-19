@@ -1,11 +1,20 @@
 ## log
 `git log --oneline --graph --decorate --all --date=short`
 
+## config
+`git config [<level>] [<category.config> [<value>]]`
+- `[<level>]`
+	- `--system` : System-wide `$(prefix)/etc/gitconfig`
+	- `--global` : User-specific `~/.gitconfig`
+	- `--local` : Repository `.git/config`
+`git config list [<level>] [--show-origin]`
+`git config edit [<level>]`
+- Opens the level's corresponding config file for editing.
+
 
 ## file info
 `git cat-file -s 033b4468fa6b2a9547a70d88d1bbe8bf3f9ed0d5`
 `git cat-file -p master^{tree}`
-
 
 ## loose object compression
 `git gc`
@@ -35,24 +44,28 @@
 
 
 ## restore
-`git restore <path>`
-- restores working tree to the index for all matching `<path>`'s
-`git restore --staged --worktree -- <path>`
-- restores only the index to `HEAD`
-`git restore --source=<commit,branch,tag>`
-- restores working tree to source
+`git restore [-s <tree>] [-S] [-W] [--] <pathspec>`
+- restores **working tree** to **the index** for all paths matching `<pathspec>`
+	- `[-S] --staged` : restores **index** to **`HEAD`**
+		- `[-W] --worktree` : also restores **working tree** to **`HEAD`**
+	- `[-s <tree>] --source=<tree>` : restores to `<source>=commit,branch,tag`
 
 ## reset
-`git reset <tree-ish> -- <path>`
-- copies entries from `<source>` to the index for all matching `<path>`'s
-- equivalent to `git restore --staged <path>`
+`git reset [-p] [<tree-ish>] [--] <pathspec>`
+- Copies files from **`HEAD`** to **the index** for all paths matching `<pathspec>`
+	- `<tree-ish>` : replaces **`HEAD`** as source
+	- `[-p] --patched`
+	- `git restore [--source=<tree-ish>] --staged <pathspec>` : equivalent
 
-`git reset <commit>`
-- `--soft` resets `HEAD` to `<commit>`, leaving index & working tree alone
-- `--mixed` resets the index as well **\<DEFAULT\>**
-- `--hard` resets index & working tree
-- `-N` adds [intent-to-add](https://stackoverflow.com/questions/24329051/what-does-git-add-intent-to-add-or-n-do-and-when-should-it-be-used) for removed paths
-- `--keep` aborts if a reset file has local changes
+`git reset [<mode>] <commit>`
+- Resets branch **`HEAD`** to `<commit>`, along with...
+- `[<mode>]`
+	- `--mixed` : **the index** ***(default)***
+		- `-N` : adds [intent-to-add](https://stackoverflow.com/questions/24329051/what-does-git-add-intent-to-add-or-n-do-and-when-should-it-be-used) for removed paths (deleted files)
+	- `--soft` : 
+	- `--hard` : **the index** & **working tree**
+		- `--keep` : aborts if a reset file has local changes
+			- use to revert commits while local changes exist
 
 
 ## Amending
