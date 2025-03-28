@@ -1,6 +1,15 @@
 ## log
 `git log --oneline --graph --decorate --all --date=short`
 
+## reflog
+> [!info] Every commit or branch `HEAD` tip update is logged
+`git reflog` to view
+- `HEAD@{n}`
+	- where `HEAD` was `n` moves ago (e.g. `n reset` commands )
+	- `git checkout HEAD@{1} .`
+- `master@{one.week.ago}`
+	- where `master` branch pointed 1 week ago
+
 ## config
 `git config [<level>] [<category.config> [<value>]]`
 - `[<level>]`
@@ -12,26 +21,37 @@
 - Opens the level's corresponding config file for editing.
 
 
+## remote
+`git remote` : lists remote repos
+`git remote show <origin>` : prints un-/tracked branches
+`git push <origin> --all --dry-run`
+
+
 ## file info
 `git cat-file -s 033b4468fa6b2a9547a70d88d1bbe8bf3f9ed0d5`
 `git cat-file -p master^{tree}`
+
 
 ## loose object compression
 `git gc`
 `find .git/objects -type f`
 
+
 ## checkout & branch
 `git checkout -b <new-branch-name> <start-commit>`
+- `<start-commit>` : for example `origin\branch-to-track`
+`git checkout -t origin/branch-to-track`
 `git checkout <branch-name>`
-`git branch -d <branch-name>`
-
 `git checkout <tree-ish> -- <path>`
 
+`git branch -d <branch-name>`
 `git branch -d -r origin/<remote-branch-name>`
 - stops tracking named remote branch locally (deletes remote-tracking branch)
 
+
 ## rename
 `git mv ./old ./new`
+
 
 ## rm
 `git rm -r --cached .`
@@ -49,6 +69,7 @@
 	- `[-S] --staged` : restores **index** to **`HEAD`**
 		- `[-W] --worktree` : also restores **working tree** to **`HEAD`**
 	- `[-s <tree>] --source=<tree>` : restores to `<source>=commit,branch,tag`
+
 
 ## reset
 `git reset [-p] [<tree-ish>] [--] <pathspec>`
@@ -73,13 +94,6 @@
 `git commit --amend -m "new message"`
 `git commit --amend --no-edit`
 - does not change commit message
-
-## reflog
-`HEAD@{n}`
-- where `HEAD` was `n` moves ago (e.g. `n reset` commands )
-`master@{one.week.ago}`
-- where `master` branch pointed 1 week ago
-`git checkout HEAD@{1} .`
 
 
 ## Tree Traversal

@@ -30,6 +30,11 @@ Go to [[Wortfamilien]] or [[Ähnlichen]] for inspiration
 - liegen - lie
 	- erliegen - succumb to
 
+- setzen
+	- **setzen** - set, put {sit}
+	- **ersetzen** - replace / compensate
+	- **besetzen** - occupy / reserve
+
 - erreichen
 - Erliegen
 

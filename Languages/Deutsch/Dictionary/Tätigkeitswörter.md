@@ -41,12 +41,16 @@
 - **eignen** -- {be suitable}
 	- **aneignen** -- acquire / appropriate
 
+- **eingreifen** -- intervene / encroach
+
  - **einstufen** -- classify / grade
 
 - **erweitern**
  
 - **freuen**
 	- **erfreuen** -- delight {take delight in}
+
+- **gewährleisten** -- ensure / warrant *sth.* / guarantee
 
 - **halten** -- hold \[keep, last\]
 	- *etwas in der Hand halten*

@@ -67,6 +67,11 @@
 - **legen / gelegt** - to lay something down
 - **liegen / gelegen** - to lie down
 
+## zahlen - zählen
+- **zählen** - to count
+- **zahlen** - to pay
+- **bezahlen** - to pay \[to pay\]
+  
 ## zuweisen - zuordnen
 
 

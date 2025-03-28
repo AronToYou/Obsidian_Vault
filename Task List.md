@@ -1,6 +1,8 @@
-- [ ] taxes
-- [ ] April Vacation flights
-- [ ] Google/Resumé
+- [x] taxes ✅ 2025-03-25
+- [x] April Vacation flights ✅ 2025-03-25
+	- [x] Ask the Bosses! ✅ 2025-03-25
+	- [x] Book! ✅ 2025-03-25
+- [x] Google/Resumé ✅ 2025-03-25
 - [ ] Budget
 	- [ ] Credit
 	- [ ] Pay Olga
@@ -8,23 +10,26 @@
 - [ ] Hennge
 	- [ ] ChatGPT
 - [x] Call Jerome during the day!! ✅ 2025-03-19
+	- [ ] Call again end of this week
+- [ ] Kontenerklärung
+	- [ ] V0100
+	- [ ] V0410
+- [ ] Praxis
 
 #### Quick Bits
 - [x] Nelnet ✅ 2025-03-19
-- [ ] link / Japanese Dinner €200
-- Burfday
+- [x] link / Japanese Dinner €200 ✅ 2025-03-25
+- [X] Burfday
 	- [x] WhatsApp group ✅ 2025-03-19
 	- [x] email Monaco ✅ 2025-03-19
-	- [ ] make reservation
+	- [x] make reservation ✅ 2025-03-25
 - [ ] Rahul/Miguel
-- [ ] Creatine
+- [x] Creatine ✅ 2025-03-25
 
 ### Secondary
 - [ ] Führerschein
 	- [ ] eye-test
 	- [ ] written test
-- [ ] ADHD appointment Eupoapo
-- [ ] WG-Gesuch
 - [ ] Kleinanzeigen
 - [ ] Degiro
 

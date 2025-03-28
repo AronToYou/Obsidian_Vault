@@ -9,7 +9,9 @@
 
 
 # Demonstrativpronomen
-## derselb-
+## diese/r/s und jene/r/s
+- this and that
+## derselbe- / derjenige-
 - [Link hier](https://www.deutschplus.net/pages/Demonstrativpronomen_derselbe#:~:text=Das%20Demonstrativpronomen%20derselbe%2C%20dieselbe%2C%20dasselbe%20ist%20synonym%20mit%20der%20gleiche,man%20sie%20nicht%20synonym%20gebrauchen.)
 ![Das Demonstrativpronomen](derselbe-.png)
 

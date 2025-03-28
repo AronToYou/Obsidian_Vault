@@ -1,3 +1,10 @@
+## RheinEnergy
+### (*Nom.*), oder anders ausgedrückt (*Nom.*), 
+### Der Server wird vom WinCC Server inklusive der Datenbank physisch getrennt.
+### wobei der Aufruf dieser nur von dem http-Server aus erfolgt.
+
+### von (*dat.*) über (*Akk.*) und (*Akk.*) bis hin zu (*Dat.*)
+
 ### mit Bezug zu / auf
 - in relation to / with
 ### davon ausgehen

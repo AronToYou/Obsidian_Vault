@@ -130,6 +130,10 @@ Im Allgemeinen sollten die Listen nach Nutzungshäufigkeit sortiert werden.
 	- **beschreiben** - describe: *einen Gegenstand ausführlich beschreiben*
 	-  **schildern** - describe: *den Sachverhalt in allen Einzelheiten schildern*
 
+## laufen
+- **laufen** - run / walk \[{\*}\]
+- **belaufen** - {exceed}
+
 ## legen
 - **legen / gelegt** - to lay something down
 
@@ -154,10 +158,21 @@ Im Allgemeinen sollten die Listen nach Nutzungshäufigkeit sortiert werden.
  - **geschaffen / schufen** - create
  - **geschafft / schafften** - managed
 
+## setzen
+- **setzen** - set, put {sit}
+- **ersetzen** - replace / compensate
+- **besetzen** - occupy / reserve
+- **ansetzen** - apply / fix / put on \[start anew\]
+	- *ein Plaster an der Wunde ansetzen.*
+
 ## sorgen
 - **sorgen** - 
 - **besorgen** - 
 - **versorgen** - 
+
+## tragen
+- **tragen** - carry / wear \[{\*}\]
+- **betragen** - amount to {behave oneself}
 
 ## treten
 - **treten** - step / kick / pedal

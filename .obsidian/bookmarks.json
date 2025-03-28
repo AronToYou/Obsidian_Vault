@@ -45,15 +45,30 @@
           "type": "file",
           "ctime": 1738876102486,
           "path": "Languages/Deutsch/Wortfamilien.md",
-          "title": "der Unterschied"
+          "title": "Wortfamilien"
         },
         {
           "type": "file",
           "ctime": 1739150828051,
           "path": "Languages/Deutsch/Wortgrammatik/Substantive.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1742978839501,
+          "path": "Languages/Deutsch/Imp- & Perfective.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1742978891616,
+          "path": "Languages/Deutsch/Satzgrammatik/Satzstrukturen.md"
         }
       ],
       "title": "Deutsch"
+    },
+    {
+      "type": "file",
+      "ctime": 1742978819511,
+      "path": "Task List.md"
     }
   ]
 }
