@@ -40,3 +40,6 @@ Go to [[Wortfamilien]] or [[Ähnlichen]] for inspiration
 
 - bewältigen
 - bewußt
+
+- **tätigen** - effectuate
+    - **betätigen** - operate
