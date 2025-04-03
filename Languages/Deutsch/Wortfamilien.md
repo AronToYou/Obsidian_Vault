@@ -88,6 +88,12 @@ Im Allgemeinen sollten die Listen nach Nutzungshäufigkeit sortiert werden.
 	- *Der Weg führt uns von der Straße ab*
 	- *jemanden ins Gefängnis abführen*
 
+## geben
+- **geben** - give
+- **ergeben** - yield, result in
+- **begeben** - (archaic, financial)
+- **zugeben** - admit, concede / add (cooking)
+
 ## gehen
 - **gehen** - go
 - **ergehen** (untr.) - be sent, be issued
@@ -158,6 +164,10 @@ Im Allgemeinen sollten die Listen nach Nutzungshäufigkeit sortiert werden.
  - **geschaffen / schufen** - create
  - **geschafft / schafften** - managed
 
+## sehen
+- **sehen** - see
+- **versehen** - oversee / misread / overlook, neglect
+
 ## setzen
 - **setzen** - set, put {sit}
 - **ersetzen** - replace / compensate
@@ -173,6 +183,10 @@ Im Allgemeinen sollten die Listen nach Nutzungshäufigkeit sortiert werden.
 ## tragen
 - **tragen** - carry / wear \[{\*}\]
 - **betragen** - amount to {behave oneself}
+
+## treiben
+- **treiben** - 
+- **betreiben** - operate, conduct / pursue, be engaged in, proceed with
 
 ## treten
 - **treten** - step / kick / pedal

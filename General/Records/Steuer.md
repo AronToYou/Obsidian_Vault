@@ -59,6 +59,22 @@ Year | Month | LS  | RV  | Reason | LS  | RV  | Reason | Brutto
 ^^   | 6     |  !  |  !  | " |     |     |   |   |
 ```
 
+| Year        | Zeitraum          | Entgelt | Loch? |                                          |
+| ----------- | ----------------- | ------: | ----- | ---------------------------------------- |
+| 2014 - 2021 | 20.03 - 31.10     |         | X     | Ausland                                  |
+| 2021        | 1.11 - 31.12      |   2.426 |       |                                          |
+| 2022        | 1.01 - 31.03      |   3.639 | X     | Arbeiten                                 |
+|             | 1.04 - 31.03.2023 |         | X     | Gastsvertrag                             |
+|             | 1.07 - 30.09      |         | X     | Beitragszeit mit keinen Pflichtbeiträgen |
+|             | 01.10 - 31.10     |         | X     | kein Vertrag                             |
+|             | 1.11 - 31.12      |   1.877 |       |                                          |
+| 2023        | 1.01 - 31.01      |     939 |       |                                          |
+|             | 1.02 - 15.10      |       0 | X     | kein Vertrag                             |
+|             | 16.10 - 31.12     |   5.311 |       |                                          |
+| 2024        | 1.01 - 30.06      |  14.400 |       |                                          |
+|             | 1.11 - 31.12      |   8.000 |       |                                          |
+
+
 # Glossary
 - **LT** - Lohnsteuer
 - **RV** - Rentenversicherung

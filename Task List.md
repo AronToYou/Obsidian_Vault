@@ -12,7 +12,7 @@
 - [x] Call Jerome during the day!! ✅ 2025-03-19
 	- [ ] Call again end of this week
 - [ ] Kontenerklärung
-	- [ ] V0100
+	- [x] V0100 ✅ 2025-04-03
 	- [ ] V0410
 - [ ] Praxis
 

@@ -9,8 +9,11 @@
 
 ## männliche (der)
 - **Anschein** -- semblance
+- **Betrag** -- amount, sum
 - **Bezug** -- reference / regard
-- **Erwerb** -- Acquisition
+- **Einspruch** -- objection
+- **Erwerb** -- acquisition
+- **Fortschritt** -- progress
 - **Geruch** -- Oder
 - **Vorfall (1,443)** -- incident / occurrence
 	- **das Ereignis (5,379)**
@@ -24,6 +27,8 @@
 	- **Beleg (12,991)**
 
 ## weibliche (die)
+- **Abweichung** -- deviation
+- **Erstattung** -- reimbursement
 - **Gestaltung** -- shaping, design, structure, form
 	- **Neugestaltung** -- reshaping, redesign, restructuring, reformation
 - **Kutsche** -- old banger

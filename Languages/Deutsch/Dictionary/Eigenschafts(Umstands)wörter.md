@@ -33,12 +33,15 @@ See [[Umstandswörter|Wortgrammatik/Umstandswörter]] also [Wortarte](https://de
 # erklärende Wörter
 <hr width="75%" align="right" style="border: 1px solid white">
 
+- **betrieben** -- operated
 - **hochwertig** -- high quality
 - **neidig** -- jealous
 - **satt** -- satiated / tired of, rich / deep
 	- *etwas satt sein*
 	- *sattes Grün*
 - **verderblich** -- perishable
+- **vereinbar** -- compatible
+- **spürbar** -- noticeable, perceptible
 
 # Präsens-Partizip
 <hr width="75%" align="right" style="border: 1px solid white">
