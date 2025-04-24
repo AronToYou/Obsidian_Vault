@@ -102,13 +102,3 @@ Same as for variables
 ### Short-way
 `$ COMMAND &`  -  the `&` at the end runs `COMMAND` in background
 `$ jobs`  -  view processes
-
-# Other Commands
-## Text Manipulation
-> [!bash]
-> `$ echo $var | sed 's/pattern/sub/g'`
-> `$ echo $var | tr "pattern" "sub"`
-
-## Regular Expressions
-Use Perl-syntax
-`$ grep -P "pattern"`

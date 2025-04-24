@@ -1,4 +1,24 @@
 # Active!
+- [ ] Zeiss
+	- [ ] Machine Learning Engineer ➕ 2025-04-24
+- [ ] Quantum Delta NL
+- [ ] futur eins
+- [ ] planqc
+- [ ] DLR
+- [ ] a wolf project
+- [ ] 2NA FISH
+- [ ] Liquid AI
+- [ ] 1E9 Denkfabrik GmbH
+- [ ] Neodyme AG
+- [ ] Longshot Space Technologies Corporation
+- [ ] Focused Energy
+- [ ] Intuity
+- [ ] Gauss Fusion
+- [ ] Merantix Momentum
+- [ ] PIABO Communications
+- [ ] Fraunhofer ISI
+- [ ] Fujitsu Germany
+- [ ] Munitech
 - [ ] tacto -- [Data Automation Intern](https://tacto.jobs.personio.de/job/1044568?display=en)
 	- [ ] 14.10.2024 -- Get-to-know interview
 	- BI-Tools: (PowerBI, Tableau, Looker, Metabase)

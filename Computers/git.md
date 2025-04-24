@@ -12,6 +12,7 @@
 
 ## config
 `git config [<level>] [<category.config> [<value>]]`
+- Sets the value of a particular git configuration field
 - `[<level>]`
 	- `--system` : System-wide `$(prefix)/etc/gitconfig`
 	- `--global` : User-specific `~/.gitconfig`
@@ -19,6 +20,7 @@
 `git config list [<level>] [--show-origin]`
 `git config edit [<level>]`
 - Opens the level's corresponding config file for editing.
+`git config --get-regexp ^alias`
 
 
 ## remote
@@ -44,10 +46,40 @@
 `git checkout <branch-name>`
 `git checkout <tree-ish> -- <path>`
 
+`git branch [-a]`
+- list branches
+- use `-a` to show hidden branches as well
 `git branch -d <branch-name>`
 `git branch -d -r origin/<remote-branch-name>`
 - stops tracking named remote branch locally (deletes remote-tracking branch)
 
+> [!info]- Rename branch locally & remotely
+> from [here](https://stackoverflow.com/questions/30590083/git-how-to-rename-a-branch-both-local-and-remote)
+> ```bash
+> # Names of things - allows you to copy/paste commands
+> old_name=feature/old
+> new_name=feature/new
+> remote=origin
+> 
+> # Rename the local branch to the new name
+> git branch -m $old_name $new_name
+> 
+> # Delete the old branch on remote
+> git push $remote --delete $old_name
+> 
+> # Or shorter way to delete remote branch [:]
+> git push $remote :$old_name
+> 
+> # Prevent git from using the old name when pushing in the next step.
+> # Otherwise, git will use the old upstream name instead of $new_name.
+> git branch --unset-upstream $new_name
+> 
+> # Push the new branch to remote
+> git push $remote $new_name
+> 
+> # Reset the upstream branch for the new_name local branch
+> git push $remote -u $new_name
+> ```
 
 ## rename
 `git mv ./old ./new`
@@ -94,6 +126,11 @@
 `git commit --amend -m "new message"`
 `git commit --amend --no-edit`
 - does not change commit message
+
+
+## Visualizing?
+`gitk`
+`git rev-list`
 
 
 ## Tree Traversal
