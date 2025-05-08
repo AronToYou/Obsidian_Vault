@@ -1,6 +1,18 @@
+Bayerisch KI-Projekt [[https://www.behoerden-spiegel.de/2024/08/07/bayern-und-sachsen-starten-ki-projekt-gain/|gAIn]]
+
+# Peter
+- [ ] Airbus
+- [ ] Rheinmetal / Rheinmetal Man
+- [ ] Leonardo (Italian)
+- [ ] Thales
+- [ ] MBDA
+- [ ] BAE Systems
+
 # Active!
 - [ ] Zeiss
 	- [ ] Machine Learning Engineer ➕ 2025-04-24
+- [ ] Stroer
+- [ ] wiz.io
 - [ ] Quantum Delta NL
 - [ ] futur eins
 - [ ] planqc
@@ -19,6 +31,7 @@
 - [ ] Fraunhofer ISI
 - [ ] Fujitsu Germany
 - [ ] Munitech
+- [ ] Ground News
 - [ ] tacto -- [Data Automation Intern](https://tacto.jobs.personio.de/job/1044568?display=en)
 	- [ ] 14.10.2024 -- Get-to-know interview
 	- BI-Tools: (PowerBI, Tableau, Looker, Metabase)

@@ -30,6 +30,29 @@ Bert, wieso siehst du so lustig aus? \[direkte Frage\]
 Ernie fragte Bert, wieso er so lustig aussah. \[indirekte Frage\]
 
 
+|               | Person | Objekt |
+| ------------: | :----: | :----: |
+| **Nominativ** |  wer   |  was   |
+| **Akkusativ** |  wen   |  was   |
+|     **Dativ** |  wem   |  wem?  |
+|   **Genetiv** | wessen |        |
+
+
+|               | maskulin | neutrum | feminin | Plural  |
+| ------------: | :------: | :-----: | :-----: | :-----: |
+| **Nominativ** | welcher  | welches | welche  | welche  |
+| **Akkusativ** | welchen  | welches | welche  | welche  |
+|     **Dativ** | welchem  | welchem | welcher | welchen |
+|   **Genetiv** | welches  | welches | welcher | welcher |
+[Unfinished below!](https://deutsch.lingolia.com/de/grammatik/pronomen/interrogativpronomen)
+
+|               |  maskulin   |   neutrum   |   feminin   |     Plural     |
+| ------------: | :---------: | :---------: | :---------: | :------------: |
+| **Nominativ** | was für ein | was für ein | was für ein | was für welche |
+| **Akkusativ** | was für ein | was für ein | was für ein | was für welche |
+|     **Dativ** | was für ein | was für ein | was für ein | was für welche |
+|   **Genetiv** | was für ein | was für ein | was für ein | was für welche |
+
 # Relativpronomen (bezügliches)
 ---
 Ernie stellte sich die Frage, wieso Bert so lustig aussah.

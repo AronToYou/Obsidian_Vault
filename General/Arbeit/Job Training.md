@@ -1,4 +1,10 @@
 # Study
+- [ ] segment tree
+- [ ] red black tree/graph?
+- [ ] binary tree (binary heap)
+- [ ] AVL tree
+- [ ] B-tree
+## Resources
 - [Hennge Stack](https://stackshare.io/hennge/hennge-kk)
 - [CS 162](https://inst.eecs.berkeley.edu/~cs162/fa19/static/lectures/)
 - [Web Architecture](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file)
