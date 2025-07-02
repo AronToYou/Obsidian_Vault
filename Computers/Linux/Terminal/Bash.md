@@ -102,3 +102,13 @@ Same as for variables
 ### Short-way
 `$ COMMAND &`  -  the `&` at the end runs `COMMAND` in background
 `$ jobs`  -  view processes
+
+# Examples
+```bash
+logs=(Alarm, Set, Limit, Note, Cmd)
+for i in ${logs[*]};
+do git diff REMS_BL/scripts/libs/classes/logType$i.ctl ../REMS_main/scripts/libs/classes/logType$i.ctl;
+done
+
+echo ${logs[@]}
+```
