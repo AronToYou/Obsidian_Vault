@@ -1,3 +1,5 @@
+- Aron Resume v1.4 in old_records
+- [ ] résumé_v2.2 -> résumé_v2.3
 # PhD
 ## KEK
 [QUP Internship program](http://www2.kek.jp/qup/en/jobs/qupip.html)
@@ -38,6 +40,14 @@ Bayerisch KI-Projekt [[https://www.behoerden-spiegel.de/2024/08/07/bayern-und-sa
 - [ ] Thales
 - [ ] MBDA
 - [ ] BAE Systems
+
+# Japan
+- [ ] [dentsu](https://hrmos.co/pages/dentsudigital/jobs)
+- [ ] [Rakuten](https://japan-job-en.rakuten.careers/search-jobs)
+- [x] Nomura ✅ 2025-07-08
+- [ ] NHK
+- [x] Sega ✅ 2025-07-08
+- [x] Yamato ✅ 2025-07-08
 
 # Active!
 - [ ] Zeiss
