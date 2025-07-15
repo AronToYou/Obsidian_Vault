@@ -1,37 +1,83 @@
-## log
-`git log --oneline --graph --decorate --all --date=short`
+# Commands
+## Primary
+---
+### git
+`git --no-pager <command>`
+- avoids interactive paging and simply outputs everything
 
-## remote
+### log
+`git log --oneline --graph --decorate --all --date=short --parent-branch <branch-name>`
+
+### remote
 > [!info]
 > `git remote` : lists remote repos
 > `git remote show <origin>` : prints un-/tracked branches
 > `git push <origin> --all --dry-run`
 
-## file info
+### diff
 > [!info]
-> `git cat-file -s 033b4468fa6b2a9547a70d88d1bbe8bf3f9ed0d5`
-> `git cat-file -p master^{tree}`
+> `git diff [--name-only|--stat] [<commitB> [<commitA>]] [--] [<path>]`
+> - Display the difference `<commitA> - <commitB>` per project file
+> 	- `[<commitB>]` : defaults to the **Index**
+> 	- `[<commitA>]` : defaults to the **Working Tree**
+> 	- `[<path>]` : instead only checks files found on `<path>`
+> 	- `[--name-only]` : only output changed filenames
+> 	- `[--stat]` : only output changed filenames & number of changes
+> 
+> `git diff --cached [<commitB>] [--] [<path>]`
+> - Same as above if `<commitA>` is replaced with **Index**
+> 	- `[<commitB>]` : defaults to `HEAD`
+> 	- `--staged` is the same as `--cached`
+> 
+> `git diff --no-index [--] <path> <path>`
+> - Compares two filesystem paths outside of repo
+> 
+> > [!tip]- Diagram of Repo `diff` Options
+> > ![[git_diff.png|]]
 
-## gc
-loose object compression
+### checkout
 > [!info]
-> `git gc`
-> `find .git/objects -type f`
-
-## checkout
-> [!info]
-> `git checkout -b <new-branch-name> <start-commit>`
-> - `<start-commit>` : for example `origin\branch-to-track`
+> `git checkout <commit>`
+> - Redirects HEAD pointer to `<commit>` then overwrites index & working tree accordingly
+> 	- Only proceeds if current changes in index & working tree would remain unchanged
+> 	- HEAD is detached at end
+>
+> `git checkout [--detach] <branch>`
+> - Same as above except detachment is optional
+> - `[--detach]` : Detach & redirect HEAD to `<commit>`
+> 	- preserves Index & Working directory
+> 
+> `git checkout [-p] [<tree-ish>] [--] <pathspec>`
+> - Overwrite matching working tree paths with the index
+> - `[<tree-ish>]` : overwrite both working tree & index paths with `<tree-ish>`
+> 	- for example `<commit>`
+> - `[-p]` : `--patch`
+  > 
+> `git checkout -b <new-branch> [<start-point>]`
+> - Create a new branch pointing to HEAD & checks it out
+> 	- `[<start-point>]` : points initially to this commit, branch, or tag instead
+> 		- for example `origin\branch-to-track`
+> 
 > `git checkout -t origin/branch-to-track`
+> 
 > `git checkout <branch-name>`
+> 
 > `git checkout <tree-ish> -- <path>`
 
-## branch
+### branch
 > [!info]
+> `git branch [--force] <branch-name> [<new-tip-commit>]`
+> - Creates a new branch pointing to current commit.
+> - `[<new-tip-commit>]` : New branch initially points here instead.
+> - `[--force|-f]` : If `<branch-name>` already exists, then resets it to target commit.
+> 	- Doesn't work if branch is currently checked-out in another working tree linked to same repo.
+> 
 > `git branch [-a]`
 > - list branches
 > - use `-a` to show hidden branches as well
+> 
 > `git branch -d <branch-name>`
+> 
 > `git branch -d -r origin/<remote-branch-name>`
 > - stops tracking named remote branch locally (deletes remote-tracking branch)
 >
@@ -63,22 +109,23 @@ loose object compression
 >> git push $remote -u $new_name
 >> ```
 
-## mv
-### Rename
+### mv
 > [!info]
 > `git mv ./old ./new`
+> - renames git path
 
-## rm
+### rm
 > [!info]
 > `git rm -r --cached .`
 > - Unstages & removes **paths** only from the index
 
-## add
+### add
 > [!info]
-> `git add -p` or `--patch`
-> - Interactively choose hunks of patch between the index and working tree
+> `git add [-p] [--] [<pathspec>]`
+> - add changes from working directory to index
+> 	- `[-p] --patch` : Interactively choose hunks of patch between the index and working tree
 
-## restore
+### restore
 > [!info]
 > `git restore [-s <tree>] [-S] [-W] [--] <pathspec>`
 > - restores **working tree** to **the index** for all paths matching `<pathspec>`
@@ -86,14 +133,15 @@ loose object compression
 > 		- `[-W] --worktree` : also restores **working tree** to **`HEAD`**
 > 	- `[-s <tree>] --source=<tree>` : restores to `<source>=commit,branch,tag`
 
-## reset
+### reset
 > [!info]
 > `git reset [-p] [<tree-ish>] [--] <pathspec>`
 > - Copies files from **`HEAD`** to **the index** for all paths matching `<pathspec>`
-> 	- `<tree-ish>` : replaces **`HEAD`** as source
-> 	- `[-p] --patched`
-> 	- `git restore [--source=<tree-ish>] --staged <pathspec>` : equivalent
-> 
+> 	- equivalent to : `git restore [--source=<tree-ish>] --staged <pathspec>`
+> - `[<tree-ish>]` : replaces **`HEAD`** as source
+> - `[-p] : --patched`
+>  
+>  
 > `git reset [<mode>] <commit>`
 > - Resets branch **`HEAD`** to `<commit>`, along with...
 > - `[<mode>]`
@@ -104,32 +152,46 @@ loose object compression
 > 		- `--keep` : aborts if a reset file has local changes
 > 			- use to revert commits while local changes exist
 
-## commit --amend
+### commit --amend
 > [!info]
 > `git commit --amend`
+> 
 > `git commit --amend -m "new message"`
+> 
 > `git commit --amend --no-edit`
 > - does not change commit message
 
-## merge
+### merge
 > [!info]
 > `git merge [--no-commit] <branch>`
 > - merges `<branch>` into currently checked out branch
+> 	- `[--no-commit]` : does not commit result
+> 		- `git merge --continue` : commits the merge, if finished
+> 		- `git merge --abort` : undoes changes to **Index** & **Working Tree**
 
-## tag
+### stash
+> [!info]
+> `git stash push [--include-untracked] [--keep-index]`
+> - merges `<branch>` into currently checked out branch
+
+### tag
 > [!info]
 > `git tag`
 > - lists all tags
 > 
 > `git tag [-a [-m "<msg>"]] <tagname> [<commit>]`
 > - creates tag at `HEAD` by default
-> - `-a` : creates annotated tag
-> 	- `-m` : annotation
+> - `[-a]` : creates annotated tag
+> 	- `[-m "<msg>"]` : annotation
+> 
 > `git push origin <tagname>`
 > - push tag to remote
 
-## reflog - Tree Traversal
-### rev-parse
+
+## Extra
+---
+### reflog - Tree Traversal
+#### rev-parse
 > [!info] Every commit or branch `HEAD` tip update is logged
 > `git reflog [show <ref>]`
 > Displays reference logs: movements of branch tips
@@ -147,30 +209,50 @@ loose object compression
 > 	- `<rev>^@` all parents
 > 	- `<rev>^!` no parents, only `<rev>`
 > - `~` or `~n` goes backwards by **1** or **n** graph nodes respectively, always choosing the first parent at forks 
-> > [!tip]- Diagram of Repo `diff` Options
-> > ![[git_diff.png|]]
 
-## config
+### config
 > [!info]
-> `git config [<level>] [<category.config> [<value>]]`
-> - Sets the value of a particular git configuration field
+> `git config [<level>] <category.config> [<value>]`
+> - Gets the value of a particular git configuration field (same as `git config get`)
+> - `[<value>]` : Sets the value instead (same as `git config set`)
 > - `[<level>]`
 > 	- `--system` : System-wide `$(prefix)/etc/gitconfig`
 > 	- `--global` : User-specific `~/.gitconfig`
 > 	- `--local` : Repository `.git/config`
+> 
 > `git config list [<level>] [--show-origin]`
+> - Lists all configs in a file
+>
+> `git config get [<level>] [--all] <category.config>`
+> - Reads the value of a particular git configuration field
+>
 > `git config edit [<level>]`
 > - Opens the level's corresponding config file for editing.
 > `git config --get-regexp ^alias`
 
-# Miscellaneous
-## Visualizing?
-### rev-list
+### file info
+> [!info]
+> `git cat-file -s 033b4468fa6b2a9547a70d88d1bbe8bf3f9ed0d5`
+> `git cat-file -p master^{tree}`
+
+### gc
+loose object compression
+> [!info]
+> `git gc`
+> `find .git/objects -type f`
+
+### gitk & rev-list
 > [!info]
 > `gitk`
 > `git rev-list`
 > `git rev-parse`?
+> allegedly for visualization purposes
 
+---
+
+
+# Miscellaneous
+---
 ## \<tree-ish\>
 ```shell
 ----------------------------------------------------------------------
@@ -210,4 +292,11 @@ loose object compression
 > [alias]
 > 	tree = log --graph --all --pretty=format:'%C(auto)%h%d [%cs](%cn): %s'
 > ```
-	
+
+## hub
+[[https://hub.github.com|hub]] is a cli tool from GitHub.
+
+### sync
+`git sync`
+- Update all local branches from remote
+- like [[https://stackoverflow.com/questions/4318161/can-git-pull-all-update-all-my-local-branches|here]]

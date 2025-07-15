@@ -1,12 +1,53 @@
+- Aron Resume v1.4 in old_records
+- [ ] résumé_v2.2 -> résumé_v2.3
+# PhD
+## KEK
+[QUP Internship program](http://www2.kek.jp/qup/en/jobs/qupip.html)
+- Yuji Chinone
+- CMB Data Analysis
+- Yu Nakahama
+
 Bayerisch KI-Projekt [[https://www.behoerden-spiegel.de/2024/08/07/bayern-und-sachsen-starten-ki-projekt-gain/|gAIn]]
+- [ ] [OroraTech](https://ororatech.com/company/careers/1333121)
+# Olga
+- [x] OHB systems AG ✅ 2025-06-13
+- [x] Kampf telescope optics ✅ 2025-06-13
+- [x] Luxoft ✅ 2025-06-13
+- [x] Mynaric AG ✅ 2025-06-13
+- [x] Munich Electrification GmbH ✅ 2025-06-13
+- [x] Payback ✅ 2025-06-13
+- [ ] Ferchau
+- [x] Fernride ✅ 2025-06-13
+- [ ] Infenion
+- [x] Airbus ✅ 2025-06-13
+- [ ] -
+- [ ] Planqc
+- [x] Quantum-Systems ✅ 2025-06-17
+- [ ] Menlo Systems
+- [ ] Hensoldt
+- [ ] Rivada
+- [ ] -
+- [ ] ESO
+- [ ] DLR
+- [ ] Toptica
+- [ ] Laser Components
+- [ ] Spacetech
 
 # Peter
-- [ ] Airbus
-- [ ] Rheinmetal / Rheinmetal Man
+- [x] Airbus ✅ 2025-05-15
+- [x] Rheinmetal / Rheinmetal Man ✅ 2025-06-13
 - [ ] Leonardo (Italian)
 - [ ] Thales
 - [ ] MBDA
 - [ ] BAE Systems
+
+# Japan
+- [ ] [dentsu](https://hrmos.co/pages/dentsudigital/jobs)
+- [ ] [Rakuten](https://japan-job-en.rakuten.careers/search-jobs)
+- [x] Nomura ✅ 2025-07-08
+- [ ] NHK
+- [x] Sega ✅ 2025-07-08
+- [x] Yamato ✅ 2025-07-08
 
 # Active!
 - [ ] Zeiss

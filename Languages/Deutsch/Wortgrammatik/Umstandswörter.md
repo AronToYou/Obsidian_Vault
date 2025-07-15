@@ -79,8 +79,9 @@ Adverb, das auch als Konjunktion fungieren kann.
 ---
 ## Fragewörter und ihre Konjunktionen
 - **wo, wann, wie, warum**
-- **wofür, worum, worüber**
-- **weshalb / weswegen / wieso / aus welchem Grund**
+- **wofür, worum, worüber, wodurch**
+- **weshalb / weswegen**
+- **wieso / aus welchem Grund / was für ein**
 - **inwiefern / inwieweit** \[Konj.\] -- in what respect / to what extent
 
 ### Zweck
