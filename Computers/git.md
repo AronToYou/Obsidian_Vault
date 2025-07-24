@@ -16,18 +16,22 @@
 
 ### diff
 > [!info]
-> `git diff [--name-only|--stat] [<commitB> [<commitA>]] [--] [<path>]`
+> `git diff [<options>] [<commitB> [<commitA>]] [[--] <path>]`
 > - Display the difference `<commitA> - <commitB>` per project file
 > 	- `[<commitB>]` : defaults to the **Index**
 > 	- `[<commitA>]` : defaults to the **Working Tree**
 > 	- `[<path>]` : instead only checks files found on `<path>`
-> 	- `[--name-only]` : only output changed filenames
-> 	- `[--stat]` : only output changed filenames & number of changes
+> 	- `[<options>]`
+> 		- `--stat` : only output changed filenames & number of changes
+> 		- `--relative[=<path>]` : restrict output to current or `<path>` subdirectory
 > 
 > `git diff --cached [<commitB>] [--] [<path>]`
 > - Same as above if `<commitA>` is replaced with **Index**
 > 	- `[<commitB>]` : defaults to `HEAD`
 > 	- `--staged` is the same as `--cached`
+>
+> `git diff test...master`
+> - Changes on `master` since `test` branch fork.
 > 
 > `git diff --no-index [--] <path> <path>`
 > - Compares two filesystem paths outside of repo

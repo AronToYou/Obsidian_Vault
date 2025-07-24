@@ -8,18 +8,23 @@
 	clear: both;	/* Push next float down *//*
 } */
 
+
+/* Horizontal Rule */
 hr {
 	border-top: 1px solid white;
 }
 
+
+/* Allowing [alt] field of images to become the caption */
 .image-embed[alt] {
 	position: relative;
 	display: inline-block;
 	width: fit-content;
-	padding 0.5ex 1ex;
+	padding .5ex 1ex; /* leading 0 not needed! */
 }
-
-.image-embed[alt]:not([alt*="."]):before {
+/* exclude cases containing the substring "." */
+.image-embed[alt]:not([alt*="."])::before {
+/* .class[attr]:pseudo-cls([attr*="substr"])::pseudo-el */
 	content: attr(alt);
 	display: block;
 
@@ -31,6 +36,8 @@ hr {
 	text-align: center;
 }
 
+
+/* Give white backgrounds to svg images */
 div[src$='.svg'] {
 	background-color: white;
 }
@@ -38,8 +45,55 @@ div[src$='.svg'] {
 
 } */
 
+
+/* Color "bash" type callouts */
 .callout[data-callout="bash"] {
   --callout-color: 63, 13, 48;
   --callout-icon: square-terminal;
   --callout-title-color: 30, 180, 50;
 }
+
+
+/* Define indent per Header level */
+/*:root {
+	--header-indent-level-increment: 16px;
+}*/
+/* Change header indents in Edit mode */
+/*.HyperMD-header-1 div {
+  padding-left: 16px;
+}
+
+.HyperMD-header-2 div {
+  padding-left: 32px;
+}
+
+.HyperMD-header-3 div {
+  padding-left: 48px;
+}
+
+.HyperMD-header-4 div {
+  padding-left: 64px;
+}*/
+
+/* <edit mode>
+.HyperMD-header HyperMD-header-2 cm-line div
+.cm-header .cm-header-1 span {
+	padding-left: calc(1 * var(--variabel));
+}
+markdown-source-view
+*/
+
+/*<reading mode>
+.el-h1 div
+h1
+markdown-preview-view markdown-reading-view
+*/
+
+/*
+padding-left  <inside border>
+
+margin-left <outside border>
+
+position: relative;
+left: 16px;
+*/
