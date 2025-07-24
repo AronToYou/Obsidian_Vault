@@ -77,6 +77,7 @@ Bayerisch KI-Projekt [[https://www.behoerden-spiegel.de/2024/08/07/bayern-und-sa
 	- [ ] 14.10.2024 -- Get-to-know interview
 	- BI-Tools: (PowerBI, Tableau, Looker, Metabase)
 	- Dateneingangs-Pipeline-Tools: (Dagster, Airflow, Prefect, Great Expectations, dbt)
+- [ ] codecentric (ostbahnhof)
 
 # Stats
 'Glassdoor' stats constrained to München, Bayern
