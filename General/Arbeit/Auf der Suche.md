@@ -1,5 +1,7 @@
 - Aron Resume v1.4 in old_records
 - [ ] résumé_v2.2 -> résumé_v2.3
+- [ ] Celonis
+	- data visualization such as d3.js, SVG, or chart libraries like vega-lite, observable plot, or highcharts
 # PhD
 ## KEK
 [QUP Internship program](http://www2.kek.jp/qup/en/jobs/qupip.html)
@@ -7,7 +9,7 @@
 - CMB Data Analysis
 - Yu Nakahama
 
-Bayerisch KI-Projekt [[https://www.behoerden-spiegel.de/2024/08/07/bayern-und-sachsen-starten-ki-projekt-gain/|gAIn]]
+Bayerisch KI-Projekt [gAIn](https://www.behoerden-spiegel.de/2024/08/07/bayern-und-sachsen-starten-ki-projekt-gain/)
 - [ ] [OroraTech](https://ororatech.com/company/careers/1333121)
 # Olga
 - [x] OHB systems AG ✅ 2025-06-13
