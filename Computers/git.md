@@ -2,21 +2,21 @@
 ## Primary
 ---
 ### git
-`git --no-pager <command>`
+`{sh}git --no-pager <command>`
 - avoids interactive paging and simply outputs everything
 
 ### log
-`git log --oneline --graph --decorate --all --date=short --parent-branch <branch-name>`
+`{sh}git log --oneline --graph --decorate --all --date=short --parent-branch <branch-name>`
 
 ### remote
 > [!info]
-> `git remote` : lists remote repos
-> `git remote show <origin>` : prints un-/tracked branches
-> `git push <origin> --all --dry-run`
+> `{sh}git remote` : lists remote repos
+> `{sh}git remote show <origin>` : prints un-/tracked branches
+> `{sh}git push <origin> --all --dry-run`
 
 ### diff
 > [!info]
-> `git diff [<options>] [<commitB> [<commitA>]] [[--] <path>]`
+> `{sh}git diff [<options>] [<commitB> [<commitA>]] [[--] <path>]`
 > - Display the difference `<commitA> - <commitB>` per project file
 > 	- `[<commitB>]` : defaults to the **Index**
 > 	- `[<commitA>]` : defaults to the **Working Tree**
@@ -25,15 +25,15 @@
 > 		- `--stat` : only output changed filenames & number of changes
 > 		- `--relative[=<path>]` : restrict output to current or `<path>` subdirectory
 > 
-> `git diff --cached [<commitB>] [--] [<path>]`
+> `{sh}git diff --cached [<commitB>] [--] [<path>]`
 > - Same as above if `<commitA>` is replaced with **Index**
 > 	- `[<commitB>]` : defaults to `HEAD`
 > 	- `--staged` is the same as `--cached`
 >
-> `git diff test...master`
+> `{sh}git diff test...master`
 > - Changes on `master` since `test` branch fork.
 > 
-> `git diff --no-index [--] <path> <path>`
+> `{sh}git diff --no-index [--] <path> <path>`
 > - Compares two filesystem paths outside of repo
 > 
 > > [!tip]- Diagram of Repo `diff` Options
@@ -41,48 +41,48 @@
 
 ### checkout
 > [!info]
-> `git checkout <commit>`
+> `{sh}git checkout <commit>`
 > - Redirects HEAD pointer to `<commit>` then overwrites index & working tree accordingly
 > 	- Only proceeds if current changes in index & working tree would remain unchanged
 > 	- HEAD is detached at end
 >
-> `git checkout [--detach] <branch>`
+> `{sh}git checkout [--detach] <branch>`
 > - Same as above except detachment is optional
 > - `[--detach]` : Detach & redirect HEAD to `<commit>`
 > 	- preserves Index & Working directory
 > 
-> `git checkout [-p] [<tree-ish>] [--] <pathspec>`
+> `{sh}git checkout [-p] [<tree-ish>] [--] <pathspec>`
 > - Overwrite matching working tree paths with the index
 > - `[<tree-ish>]` : overwrite both working tree & index paths with `<tree-ish>`
 > 	- for example `<commit>`
 > - `[-p]` : `--patch`
   > 
-> `git checkout -b <new-branch> [<start-point>]`
+> `{sh}git checkout -b <new-branch> [<start-point>]`
 > - Create a new branch pointing to HEAD & checks it out
 > 	- `[<start-point>]` : points initially to this commit, branch, or tag instead
 > 		- for example `origin\branch-to-track`
 > 
-> `git checkout -t origin/branch-to-track`
+> `{sh}git checkout -t origin/branch-to-track`
 > 
-> `git checkout <branch-name>`
+> `{sh}git checkout <branch-name>`
 > 
-> `git checkout <tree-ish> -- <path>`
+> `{sh}git checkout <tree-ish> -- <path>`
 
 ### branch
 > [!info]
-> `git branch [--force] <branch-name> [<new-tip-commit>]`
+> `{sh}git branch [--force] <branch-name> [<new-tip-commit>]`
 > - Creates a new branch pointing to current commit.
 > - `[<new-tip-commit>]` : New branch initially points here instead.
 > - `[--force|-f]` : If `<branch-name>` already exists, then resets it to target commit.
 > 	- Doesn't work if branch is currently checked-out in another working tree linked to same repo.
 > 
-> `git branch [-a]`
+> `{sh}git branch [-a]`
 > - list branches
 > - use `-a` to show hidden branches as well
 > 
-> `git branch -d <branch-name>`
+> `{sh}git branch -d <branch-name>`
 > 
-> `git branch -d -r origin/<remote-branch-name>`
+> `{sh}git branch -d -r origin/<remote-branch-name>`
 > - stops tracking named remote branch locally (deletes remote-tracking branch)
 >
 >> [!tip]- Rename branch locally & remotely
@@ -115,23 +115,23 @@
 
 ### mv
 > [!info]
-> `git mv ./old ./new`
+> `{sh}git mv ./old ./new`
 > - renames git path
 
 ### rm
 > [!info]
-> `git rm -r --cached .`
+> `{sh}git rm -r --cached .`
 > - Unstages & removes **paths** only from the index
 
 ### add
 > [!info]
-> `git add [-p] [--] [<pathspec>]`
+> `{sh}git add [-p] [--] [<pathspec>]`
 > - add changes from working directory to index
 > 	- `[-p] --patch` : Interactively choose hunks of patch between the index and working tree
 
 ### restore
 > [!info]
-> `git restore [-s <tree>] [-S] [-W] [--] <pathspec>`
+> `{sh}git restore [-s <tree>] [-S] [-W] [--] <pathspec>`
 > - restores **working tree** to **the index** for all paths matching `<pathspec>`
 > 	- `[-S] --staged` : restores **index** to **`HEAD`**
 > 		- `[-W] --worktree` : also restores **working tree** to **`HEAD`**
@@ -139,14 +139,14 @@
 
 ### reset
 > [!info]
-> `git reset [-p] [<tree-ish>] [--] <pathspec>`
+> `{sh}git reset [-p] [<tree-ish>] [--] <pathspec>`
 > - Copies files from **`HEAD`** to **the index** for all paths matching `<pathspec>`
-> 	- equivalent to : `git restore [--source=<tree-ish>] --staged <pathspec>`
+> 	- equivalent to : `{sh}git restore [--source=<tree-ish>] --staged <pathspec>`
 > - `[<tree-ish>]` : replaces **`HEAD`** as source
 > - `[-p] : --patched`
 >  
 >  
-> `git reset [<mode>] <commit>`
+> `{sh}git reset [<mode>] <commit>`
 > - Resets branch **`HEAD`** to `<commit>`, along with...
 > - `[<mode>]`
 > 	- `--mixed` : **the index** ***(default)***
@@ -158,37 +158,37 @@
 
 ### commit --amend
 > [!info]
-> `git commit --amend`
+> `{sh}git commit --amend`
 > 
-> `git commit --amend -m "new message"`
+> `{sh}git commit --amend -m "new message"`
 > 
-> `git commit --amend --no-edit`
+> `{sh}git commit --amend --no-edit`
 > - does not change commit message
 
 ### merge
 > [!info]
-> `git merge [--no-commit] <branch>`
+> `{sh}git merge [--no-commit] <branch>`
 > - merges `<branch>` into currently checked out branch
 > 	- `[--no-commit]` : does not commit result
-> 		- `git merge --continue` : commits the merge, if finished
-> 		- `git merge --abort` : undoes changes to **Index** & **Working Tree**
+> 		- `{sh}git merge --continue` : commits the merge, if finished
+> 		- `{sh}git merge --abort` : undoes changes to **Index** & **Working Tree**
 
 ### stash
 > [!info]
-> `git stash push [--include-untracked] [--keep-index]`
+> `{sh}git stash push [--include-untracked] [--keep-index]`
 > - merges `<branch>` into currently checked out branch
 
 ### tag
 > [!info]
-> `git tag`
+> `{sh}git tag`
 > - lists all tags
 > 
-> `git tag [-a [-m "<msg>"]] <tagname> [<commit>]`
+> `{sh}git tag [-a [-m "<msg>"]] <tagname> [<commit>]`
 > - creates tag at `HEAD` by default
 > - `[-a]` : creates annotated tag
 > 	- `[-m "<msg>"]` : annotation
 > 
-> `git push origin <tagname>`
+> `{sh}git push origin <tagname>`
 > - push tag to remote
 
 
@@ -197,18 +197,18 @@
 ### reflog - Tree Traversal
 #### rev-parse
 > [!info] Every commit or branch `HEAD` tip update is logged
-> `git reflog [show <ref>]`
+> `{sh}git reflog [show <ref>]`
 > Displays reference logs: movements of branch tips
 > - `[show <ref>]` : default subcommand, `<ref>` defaults to `HEAD` 
 > - `HEAD@{n}`
 > 	- where `HEAD` was `n` `reflog` entries ago (e.g. `n reset` commands )
-> 	- `git checkout HEAD@{1} .`
+> 	- `{sh}git checkout HEAD@{1} .`
 > - `master@{one.week.ago}`
 > 	- where `master` branch pointed 1 week ago
 > - `@` is equivalent to `HEAD`
 > 	- `HEAD@{1}` is the same as `@@{1}`
 > 
-> `git rev-parse --short HEAD~~~^2~3`
+> `{sh}git rev-parse --short HEAD~~~^2~3`
 > - `<rev>^n` selects **nth**-parent of `<rev>`
 > 	- `<rev>^@` all parents
 > 	- `<rev>^!` no parents, only `<rev>`
@@ -216,23 +216,23 @@
 
 ### config
 > [!info]
-> `git config [<level>] <category.config> [<value>]`
-> - Gets the value of a particular git configuration field (same as `git config get`)
-> - `[<value>]` : Sets the value instead (same as `git config set`)
+> `{sh}git config [<level>] <category.config> [<value>]`
+> - Gets the value of a particular git configuration field (same as `{sh}git config get`)
+> - `[<value>]` : Sets the value instead (same as `{sh}git config set`)
 > - `[<level>]`
 > 	- `--system` : System-wide `$(prefix)/etc/gitconfig`
 > 	- `--global` : User-specific `~/.gitconfig`
 > 	- `--local` : Repository `.git/config`
 > 
-> `git config list [<level>] [--show-origin]`
+> `{sh}git config list [<level>] [--show-origin]`
 > - Lists all configs in a file
 >
-> `git config get [<level>] [--all] <category.config>`
+> `{sh}git config get [<level>] [--all] <category.config>`
 > - Reads the value of a particular git configuration field
 >
-> `git config edit [<level>]`
+> `{sh}git config edit [<level>]`
 > - Opens the level's corresponding config file for editing.
-> `git config --get-regexp ^alias`
+> `{sh}git config --get-regexp ^alias`
 
 ### file info
 > [!info]

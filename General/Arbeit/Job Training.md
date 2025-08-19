@@ -1,4 +1,9 @@
+# Obsidian Pages
+---
+- [ ] [Web Tools](obsidian://open?vault=Obsidian_Vault&file=Computers%2FWeb%20Tech%2FTools%2FOverview)
+
 # Study
+---
 - [ ] segment tree
 - [ ] red black tree/graph?
 - [ ] binary tree (binary heap)
@@ -11,6 +16,7 @@
 - [[Andrew_S_Tanenbaum-Computer_Networks.pdf|Computer Networks]]
 
 # Software Development Practices
+---
 ## Agile
 - **Individuals/Interactions** vs. processes/tools
 - **Working Software** vs. comprehensive documentation
@@ -69,7 +75,6 @@
 - Testautomatisierungswerkzeugkette
 	- Jenkins, GitHub, UFT One, Tricentis Tosca, Oracle/ IBM Datenbanken
 - prozedurale Softwareentwicklung mit: ([TSO](https://en.wikipedia.org/wiki/Time_Sharing_Option), [PL/1](https://www.devx.com/de/AGB/Programmiersprache-eins/), [DB2](https://www.ibm.com/db2))
-
 ### Message Brokers
 - Kafka
 - Redis
@@ -89,7 +94,13 @@
 - topological graph sort
 - segment tree
 
-## Jobs
+# Job Specific
+---
+Chronological: (lower ≈ later)
+### 3rd Phase
+- [ ] Celonis
+	- data visualization such as d3.js, SVG, or chart libraries like vega-lite, observable plot, or highcharts
+### 2nd Phase or later
 - [ ] [bitsCrunch](https://bitscrunch.com/careers)
 	- [ ] Senior Golang Developer
 		- Deep understanding of blockchain technology, including Ethereum, Polygon, Bitcoin, Solana, and other networks. 

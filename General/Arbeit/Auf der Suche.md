@@ -1,7 +1,14 @@
-- Aron Resume v1.4 in old_records
-- [ ] résumé_v2.2 -> résumé_v2.3
-- [ ] Celonis
-	- data visualization such as d3.js, SVG, or chart libraries like vega-lite, observable plot, or highcharts
+Use a single column format
+
+Start each bullet with a verb
+
+Ensure you don't repeat same words within bullets, especially your action verbs
+
+Quantify your bullets
+
+List down keywords from your target job descriptions and ensure that they're present across your work experience points
+
+- [ ] apply above to Aron Resume v2.1.2
 # PhD
 ## KEK
 [QUP Internship program](http://www2.kek.jp/qup/en/jobs/qupip.html)
@@ -25,7 +32,7 @@ Bayerisch KI-Projekt [gAIn](https://www.behoerden-spiegel.de/2024/08/07/bayern-u
 - [ ] -
 - [ ] Planqc
 - [x] Quantum-Systems ✅ 2025-06-17
-- [ ] Menlo Systems
+- [x] Menlo Systems ✅ 2025-08-11
 - [ ] Hensoldt
 - [ ] Rivada
 - [ ] -
@@ -45,7 +52,7 @@ Bayerisch KI-Projekt [gAIn](https://www.behoerden-spiegel.de/2024/08/07/bayern-u
 
 # Japan
 - [ ] [dentsu](https://hrmos.co/pages/dentsudigital/jobs)
-- [ ] [Rakuten](https://japan-job-en.rakuten.careers/search-jobs)
+- [x] [Rakuten](https://japan-job-en.rakuten.careers/search-jobs) ✅ 2025-08-11
 - [x] Nomura ✅ 2025-07-08
 - [ ] NHK
 - [x] Sega ✅ 2025-07-08

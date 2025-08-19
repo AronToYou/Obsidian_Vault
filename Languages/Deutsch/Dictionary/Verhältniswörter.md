@@ -7,14 +7,14 @@
 <hr width="75%" align="right" style="border: 1px solid white">
 
 - **gemäß** \[*Dat.*\]
-- **nach**
+- **nach** \[*Dat.*\]
+- **laut** \[*Gen.*\]
+- **aufgrund** \[*Gen.*\] -- on the basis of / on account of
 - \[*Dat.*\] **zufolge** - according to ^6a2299
 	- *dem Befehl zufolge*
-	- als Folge von
-	- (selten) vorangestellt mit *gen.*
-- **laut** \[*Gen.*\]
-- **mit Rücksicht auf** \[*Akk.*\]
+    - als Folge von
+    - **zufolge** \[*Gen.*\] (selten) vorangestellt mit *gen.*
+ - **mit Rücksicht auf** \[*Akk.*\]
 
 - **dank**
 	- *Dank Lohnsteuerkarte wusste der Arbeitgeber ...*
-- **aufgrund** \[*Gen.*\] -- on the basis of / on account of

@@ -6,5 +6,6 @@
     "MCL Multi Column",
     "snippet-table"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Obsidianite"
 }

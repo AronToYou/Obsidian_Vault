@@ -113,3 +113,15 @@ Handles requests to Jakarta Servlets and Server Pages
 ## AJAX
 - AJAX (XML)
 	- xmlns attribute of html tag
+
+
+Microservices
+Python, Django, AsyncIO
+AWS, Docker, Kubernetes
+PostgreSQL, Redis
+NATS, Kafka
+
+Since 2018 I've been trusted to code performant Python frameworks and applications for University research laboratories, starting with an atomic physics lab at UC Berkeley. To be clear, these were not data science projects; tabletop atom laser experiments demand strict performance specifications on software used to control instruments and mediate control loops. Packages I developed have been used execute experimental sequences that, for example, eventually lead to publishing an article in Nature Physics.
+
+Apart from my laboratory work, I had also formally studied computer science at UC Berkeley and in recent years have worked professionally as a software developer. Working on a variety of systems, including robot application software, ROS code, cloud services, distributed event servers, UI dynamization, etc., has required, naturally, the use of various tools to meet objectives. For example, the robots are implemented in lxc bound Docker containers, communicates with cloud apps like Node Red, MongoDB, and Elastic, all while their development testing/rollout cycles are managed with Gitlab and Ansible. At my current employment, the projects can differ customer-to-customer. I've used different databases (MSSQL, PostgreSQL, Oracle), messaging protocols, and aspects of the application development.
+

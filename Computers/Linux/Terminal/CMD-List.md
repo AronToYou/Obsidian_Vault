@@ -1,0 +1,16 @@
+- Native
+	- `whoami`
+	- `useradd -m -u 10001 appuser`
+	- `chown`
+	- `chmod`
+	- `mkdir`
+	- `ps`
+	- `ping`
+	- `find`
+	- `grep`
+	- `sed`
+	- `tr`
+	- `apt`
+		- `apt-cache policy`
+- Non-Native
+	- `xclip`
