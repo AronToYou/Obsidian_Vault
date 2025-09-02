@@ -1,0 +1,92 @@
+---
+created: 2023-12-12 14:44:03Z
+---
+
+# tmux
+## Pane
+	"	Split Up/down
+	%	Split L/R
+	!	Break-out
+	x	Kill
+## Window	
+	&	Kill
+	’	Rename
+	c	Create
+	n/l	Next/Previous
+## Session
+	$	Rename
+	)/(	Next/Previous
+## Move
+	C-o	Rotate panes
+	d	Detach
+	f	Search
+	
+# Byobu
+	F7	Scrollback
+### In Scrollback Mode
+	S		Select
+	E		Copy
+	A+I	 Paste	(oder C-a-])
+		
+# Legend
+	C	=	Ctrl
+	S	=	Spacebar
+	A	= Alt
+	I	=	Insert
+	
+# Byobu
+Byobu is a suite of enhancements to tmux, as a command line           │                                          
+                                          │ tool providing live system status, dynamic window management,         │                                          
+                                          │ and some convenient keybindings:                                      │                                          
+                                          │                                                                       │                                          
+                                          │   F1                             * Used by X11 *                      │                                          
+                                          │     Shift-F1                     Display this help                    │                                          
+                                          │   F2                             Create a new window                  │                                          
+                                          │     Shift-F2                     Create a horizontal split            │                                          
+                                          │     Ctrl-F2                      Create a vertical split              │                                          
+                                          │     Ctrl-Shift-F2                Create a new session                 │                                          
+                                          │   F3/F4                          Move focus among windows             │                                          
+                                          │     Alt-Left/Right               Move focus among windows             │                                          
+                                          │     Alt-Up/Down                  Move focus among sessions            │                                          
+                                          │     Shift-Left/Right/Up/Down     Move focus among splits              │                                          
+                                          │     Shift-F3/F4                  Move focus among splits              │                                          
+                                          │     Ctrl-F3/F4                   Move a split   
+										   Ctrl-Shift-F3/F4             Move a window                        │                                          
+                                          │     Shift-Alt-Left/Right/Up/Down Resize a split                       │                                          
+                                          │   F5                             Reload profile, refresh status       │                                          
+                                          │     Alt-F5                       Toggle UTF-8 support, refresh        │                                          
+                                          │ status                                                                │                                          
+                                          │     Shift-F5                     Toggle through status lines          │                                          
+                                          │     Ctrl-F5                      Reconnect ssh/gpg/dbus sockets       │                                          
+                                          │     Ctrl-Shift-F5                Change status bar's color randomly   │                                          
+                                          │   F6                             Detach session and then logout       │                                          
+                                          │     Shift-F6                     Detach session and do not logout     │                                          
+                                          │     Alt-F6                       Detach all clients but yourself      │                                          
+                                          │     Ctrl-F6                      Kill split in focus                  │                                          
+                                          │   F7                             Enter scrollback history             │                                          
+                                          │     Alt-PageUp/PageDown          Enter and move through scrollback    │                                          
+                                          │     Shift-F7                     Save history to                      │                                          
+                                          │ $BYOBU_RUN_DIR/printscreen                        
+										   Ctrl-Shift-F3/F4             Move a window                        │                                          
+                                          │     Shift-Alt-Left/Right/Up/Down Resize a split                       │                                          
+                                          │   F5                             Reload profile, refresh status       │                                          
+                                          │     Alt-F5                       Toggle UTF-8 support, refresh        │                                          
+                                          │ status                                                                │                                          
+                                          │     Shift-F5                     Toggle through status lines          │                                          
+                                          │     Ctrl-F5                      Reconnect ssh/gpg/dbus sockets       │                                          
+                                          │     Ctrl-Shift-F5                Change status bar's color randomly   │                                          
+                                          │   F6                             Detach session and then logout       │                                          
+                                          │     Shift-F6                     Detach session and do not logout     │                                          
+                                          │     Alt-F6                       Detach all clients but yourself      │                                          
+                                          │     Ctrl-F6                      Kill split in focus                  │                                          
+                                          │   F7                             Enter scrollback history             │                                          
+                                          │     Alt-PageUp/PageDown          Enter and move through scrollback    │                                          
+                                          │     Shift-F7                     Save history to                      │                                          
+                                          │ $BYOBU_RUN_DIR/printscreen                        
+										   split                                                                 │                                          
+                                          │     Ctrl-F11                     Join window into a vertical split    │                                          
+                                          │   F12                            Escape sequence                      │                                          
+                                          │     Shift-F12                    Toggle on/off Byobu's keybindings    │                                          
+                                          │     Alt-F12                      Toggle on/off Byobu's mouse          │                                          
+                                          │ support                                                               │                                          
+                                          │     Ctrl-Shift-F12               Mondrian squares       
