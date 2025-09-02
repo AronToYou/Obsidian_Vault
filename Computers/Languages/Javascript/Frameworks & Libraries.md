@@ -1,6 +1,25 @@
 ---
 created: 2024-02-07 10:35:40Z
 ---
+## Typescript
+- static typing: annotation
+	- variables, function parameters, return values, & objects
+	- Types can be inferred
+- Interfaces  / Type Aliases
+- Generics
+- Utility types
+	- `Partial<T>`, `Pick<T>`
+- Options
+	- `strictNullChecks`
+	- `noImplicitAny`
+	- `strictPropertyInitialization`
+
+## Node.js
+- `require` instead of `import`
+```js
+// imports 'createServer()' from Standard Library Module 'http'
+const { createServer } = require('node:http');
+```
 
 # React.js
 - Component architecture allows easier development of  HTML/CSS/JS web application user interfaces
