@@ -24,7 +24,19 @@ der Fundus
 stöbern - gestöbert
 verwaist
 knitterig
-
+aufzeigen
+Anwender
+aus meiner Sicht
+klappt es normalerweise
+nicht geregelt
+Warst du schon mal bei
+abstellen
+abbauen <--> aufbauen
+der Haufen, der Mist
+mitsamt
+samt
+verkünden
+anerkennen
 
 
 ![[HTML_element_content_categories.svg]]

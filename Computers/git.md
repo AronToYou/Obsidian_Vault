@@ -1,44 +1,65 @@
 # Commands
-## Primary
+## Tricks
+`{sh}git ls-files --deleted | xargs git add`
+
+- `file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-log.html`
+	- [link to folder](file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/)
 ---
 ### git
 `{sh}git --no-pager <command>`
 - avoids interactive paging and simply outputs everything
-
-### log
-`{sh}git log --oneline --graph --decorate --all --date=short --parent-branch <branch-name>`
-
-### remote
-> [!info]
-> `{sh}git remote` : lists remote repos
-> `{sh}git remote show <origin>` : prints un-/tracked branches
-> `{sh}git push <origin> --all --dry-run`
-
-### diff
-> [!info]
-> `{sh}git diff [<options>] [<commitB> [<commitA>]] [[--] <path>]`
-> - Display the difference `<commitA> - <commitB>` per project file
-> 	- `[<commitB>]` : defaults to the **Index**
-> 	- `[<commitA>]` : defaults to the **Working Tree**
-> 	- `[<path>]` : instead only checks files found on `<path>`
-> 	- `[<options>]`
-> 		- `--stat` : only output changed filenames & number of changes
-> 		- `--relative[=<path>]` : restrict output to current or `<path>` subdirectory
-> 
-> `{sh}git diff --cached [<commitB>] [--] [<path>]`
-> - Same as above if `<commitA>` is replaced with **Index**
-> 	- `[<commitB>]` : defaults to `HEAD`
-> 	- `--staged` is the same as `--cached`
->
-> `{sh}git diff test...master`
-> - Changes on `master` since `test` branch fork.
-> 
-> `{sh}git diff --no-index [--] <path> <path>`
-> - Compares two filesystem paths outside of repo
-> 
-> > [!tip]- Diagram of Repo `diff` Options
-> > ![[git_diff.png|]]
-
+## Primary
+### add
+   > [!info]
+   > `{sh}git add [-p] [--] [<pathspec>]`
+   > - add changes from working directory to index
+   > 	- `[-p] --patch` : Interactively choose hunks of patch between the index and working tree
+   
+### branch
+   > [!info]
+   > `{sh}git branch [--force] <branch-name> [<new-tip-commit>]`
+   > - Creates a new branch pointing to current commit.
+   > - `[<new-tip-commit>]` : New branch initially points here instead.
+   > - `[--force|-f]` : If `<branch-name>` already exists, then resets it to target commit.
+   > 	- Doesn't work if branch is currently checked-out in another working tree linked to same repo.
+   > 
+   > `{sh}git branch [-a]`
+   > - list branches
+   > - use `-a` to show hidden branches as well
+   > 
+   > `{sh}git branch -d <branch-name>`
+   > 
+   > `{sh}git branch -d -r origin/<remote-branch-name>`
+   > - stops tracking named remote branch locally (deletes remote-tracking branch)
+   >
+   >> [!tip]- Rename branch locally & remotely
+   >> from [here](https://stackoverflow.com/questions/30590083/git-how-to-rename-a-branch-both-local-and-remote)
+   >> ```bash
+   >> # Names of things - allows you to copy/paste commands
+   >> old_name=feature/old
+   >> new_name=feature/new
+   >> remote=origin
+   >> 
+   >> # Rename the local branch to the new name
+   >> git branch -m $old_name $new_name
+   >> 
+   >> # Delete the old branch on remote
+   >> git push $remote --delete $old_name
+   >> 
+   >> # Or shorter way to delete remote branch [:]
+   >> git push $remote :$old_name
+   >> 
+   >> # Prevent git from using the old name when pushing in the next step.
+   >> # Otherwise, git will use the old upstream name instead of $new_name.
+   >> git branch --unset-upstream $new_name
+   >> 
+   >> # Push the new branch to remote
+   >> git push $remote $new_name
+   >> 
+   >> # Reset the upstream branch for the new_name local branch
+   >> git push $remote -u $new_name
+   >> ```
+   
 ### checkout
 > [!info]
 > `{sh}git checkout <commit>`
@@ -56,7 +77,7 @@
 > - `[<tree-ish>]` : overwrite both working tree & index paths with `<tree-ish>`
 > 	- for example `<commit>`
 > - `[-p]` : `--patch`
-  > 
+> 
 > `{sh}git checkout -b <new-branch> [<start-point>]`
 > - Create a new branch pointing to HEAD & checks it out
 > 	- `[<start-point>]` : points initially to this commit, branch, or tag instead
@@ -68,67 +89,84 @@
 > 
 > `{sh}git checkout <tree-ish> -- <path>`
 
-### branch
-> [!info]
-> `{sh}git branch [--force] <branch-name> [<new-tip-commit>]`
-> - Creates a new branch pointing to current commit.
-> - `[<new-tip-commit>]` : New branch initially points here instead.
-> - `[--force|-f]` : If `<branch-name>` already exists, then resets it to target commit.
-> 	- Doesn't work if branch is currently checked-out in another working tree linked to same repo.
+### commit --amend
+   > [!info]
+   > `{sh}git commit --amend`
+   > 
+   > `{sh}git commit --amend -m "new message"`
+   > 
+   > `{sh}git commit --amend --no-edit`
+   > - does not change commit message
+   
+### diff
+   > [!info]
+   > `{sh}git diff [<options>] [<commitB> [<commitA>]] [[--] <path>]`
+   > - Display the difference `<commitA> - <commitB>` per project file
+   > 	- `[<commitB>]` : defaults to the **Index**
+   > 	- `[<commitA>]` : defaults to the **Working Tree**
+   > 	- `[<path>]` : instead only checks files found on `<path>`
+   > 	- `[<options>]`
+   > 		- `--stat` : only output changed filenames & number of changes
+   > 		- `--relative[=<path>]` : restrict output to current or `<path>` subdirectory
+   > 
+   > `{sh}git diff --cached [<commitB>] [--] [<path>]`
+   > - Same as above if `<commitA>` is replaced with **Index**
+   > 	- `[<commitB>]` : defaults to `HEAD`
+   > 	- `--staged` is the same as `--cached`
+   >
+   > `{sh}git diff test...master`
+   > - Changes on `master` since `test` branch fork.
+   > 
+   > `{sh}git diff --no-index [--] <path> <path>`
+   > - Compares two filesystem paths outside of repo
+   > 
+   > > [!tip]- Diagram of Repo `diff` Options
+   > > ![[git_diff.png|]]
+   
+### log
+> [!NOTE]
+> `{sh}git log [<options>] [<revision-range>] [[--] <path>]`
+> - lists commits
+> 	- `[<revision-range>]` 
+> 		- `<to>` : most recent commit to consider up until (inclusive)
+> 		- `<from>..<to>` : commits within this range
+> 			- `origin..HEAD` : all commits reachable from current commit
+> 		- `<from>...<to>` : like above, but **from** shared ancestor instead
+> 	- `[<options>]`
+> 		- `--reverse` : reverses order
+> 		- `--since=<date> | --until=<date>` : 
+> 		- `--author=<name>` : `Jon`, `"Jon"`, `"\(Adam\)\|\(Jon\)"`
+> 			- `'^(?!Adam|Jon).*$' --perl-regexp`
 > 
-> `{sh}git branch [-a]`
-> - list branches
-> - use `-a` to show hidden branches as well
-> 
-> `{sh}git branch -d <branch-name>`
-> 
-> `{sh}git branch -d -r origin/<remote-branch-name>`
-> - stops tracking named remote branch locally (deletes remote-tracking branch)
->
->> [!tip]- Rename branch locally & remotely
->> from [here](https://stackoverflow.com/questions/30590083/git-how-to-rename-a-branch-both-local-and-remote)
->> ```bash
->> # Names of things - allows you to copy/paste commands
->> old_name=feature/old
->> new_name=feature/new
->> remote=origin
->> 
->> # Rename the local branch to the new name
->> git branch -m $old_name $new_name
->> 
->> # Delete the old branch on remote
->> git push $remote --delete $old_name
->> 
->> # Or shorter way to delete remote branch [:]
->> git push $remote :$old_name
->> 
->> # Prevent git from using the old name when pushing in the next step.
->> # Otherwise, git will use the old upstream name instead of $new_name.
->> git branch --unset-upstream $new_name
->> 
->> # Push the new branch to remote
->> git push $remote $new_name
->> 
->> # Reset the upstream branch for the new_name local branch
->> git push $remote -u $new_name
->> ```
+> `{sh}git log --oneline --graph --decorate --all --date=short --parent-branch <branch-name>`
+> - custom command
 
+### merge
+   > [!info]
+   > `{sh}git merge [--no-commit] <branch>`
+   > - merges `<branch>` into currently checked out branch
+   > 	- `[--no-commit]` : does not commit result
+   > 		- `{sh}git merge --continue` : commits the merge, if finished
+   > 		- `{sh}git merge --abort` : undoes changes to **Index** & **Working Tree**
+   
 ### mv
 > [!info]
 > `{sh}git mv ./old ./new`
 > - renames git path
 
-### rm
-> [!info]
-> `{sh}git rm -r --cached .`
-> - Unstages & removes **paths** only from the index
+### push
+> [!NOTE]
+> `git push [<options>] [<repo> [<refspec>...]]`
+> - pushes current branch to configured upstream branch, if set
+> 	- `[<options>]`
+> 		- `--force-with-lease[=<refname>[:<expect>]]`
 
-### add
-> [!info]
-> `{sh}git add [-p] [--] [<pathspec>]`
-> - add changes from working directory to index
-> 	- `[-p] --patch` : Interactively choose hunks of patch between the index and working tree
-
+### remote
+   > [!info]
+   > `{sh}git remote` : lists remote repos
+   > `{sh}git remote show <origin>` : prints un-/tracked branches
+   > `{sh}git push <origin> --all --dry-run`
+   
 ### restore
 > [!info]
 > `{sh}git restore [-s <tree>] [-S] [-W] [--] <pathspec>`
@@ -156,23 +194,11 @@
 > 		- `--keep` : aborts if a reset file has local changes
 > 			- use to revert commits while local changes exist
 
-### commit --amend
-> [!info]
-> `{sh}git commit --amend`
-> 
-> `{sh}git commit --amend -m "new message"`
-> 
-> `{sh}git commit --amend --no-edit`
-> - does not change commit message
-
-### merge
-> [!info]
-> `{sh}git merge [--no-commit] <branch>`
-> - merges `<branch>` into currently checked out branch
-> 	- `[--no-commit]` : does not commit result
-> 		- `{sh}git merge --continue` : commits the merge, if finished
-> 		- `{sh}git merge --abort` : undoes changes to **Index** & **Working Tree**
-
+### rm
+   > [!info]
+   > `{sh}git rm -r --cached .`
+   > - Unstages & removes **paths** only from the index
+   
 ### stash
 > [!info]
 > `{sh}git stash push [--include-untracked] [--keep-index]`

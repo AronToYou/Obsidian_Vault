@@ -9,6 +9,24 @@ Quantify your bullets
 List down keywords from your target job descriptions and ensure that they're present across your work experience points
 
 - [ ] apply above to Aron Resume v2.1.2
+- [ ] https://job-boards.greenhouse.io/oklo/jobs/4018702004
+- [ ] https://www.airbase.com/
+```css
+https://www.paylocity.com/company/careers/product-technology.job.37892/ | Engineer Software- Marketplace | Paylocity
+https://www.google.com/search?q=SQS&sourceid=chrome&ie=UTF-8 | SQS - Google Search
+https://robotcloud.eu/en/careers/ | Careers - Robotcloud
+https://webthesis.biblio.polito.it/29533/1/tesi.pdf | tesi.pdf
+https://www.roboticsproceedings.org/rss07/p32.pdf | p32.pdf
+https://zeissgroup.wd3.myworkdayjobs.com/de-DE/External/job/Mnchen/Internship-3D-Computer-Vision-for-Agricultural-Robotics--f-m-x-_JR_1043135 | Stellenmarkt
+https://zeissgroup.wd3.myworkdayjobs.com/de-DE/External/job/Oberkochen/Senior-DevOps-Engineer--m-f-x-_JR_1040624-1 | Stellenmarkt
+https://zeissgroup.wd3.myworkdayjobs.com/de-DE/External/job/Jena/Lead-Developer---Architect-Licensing-Platforms--m-w-x-_JR_1031618-1 | Stellenmarkt
+https://zeissgroup.wd3.myworkdayjobs.com/de-DE/External/job/Oberkochen/Machine-Learning-Engineer--m-f-x-_JR_1038744-3 | Stellenmarkt
+```
+
+```c
+https://interamt.de/koop/app/stelle?0&id=1331896 | Java Softwareentwickler (w/m/d) | Landesamt für Digitalisierung, Breitband und Vermessung (LDBV) - Stellensuche (interamt.de)
+https://goforit.bayern.de/ | Startseite
+```
 # PhD
 ## KEK
 [QUP Internship program](http://www2.kek.jp/qup/en/jobs/qupip.html)

@@ -1,4 +1,11 @@
 # Core Syntax
+
+`{sh}find . -name "*.txt" -exec sh -c 'mv "$1" "${1%.txt}.md"' _ {} \;`
+- `_` is placeholder for `{sh}$0`
+- `{sh}"${1%.txt}.md"` substring match and delete
+`{sh}find . -name "awl_*.pnl" -exec sh -c 'git mv "$1" "../vision/${1#./awl_}"' _ {} \;`
+
+`{sh}find . -name "*.pnl" -exec sh -c 'git diff "$1" $(find ../wincc-oa -name $(basename "$1"))' _ {} \;`
 ## Quotations
 ### Double Quotes
 Enclosure of characters in `""` preserves their literal values with exceptions:

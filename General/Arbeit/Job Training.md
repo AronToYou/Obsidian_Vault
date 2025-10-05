@@ -9,6 +9,9 @@
 - [ ] binary tree (binary heap)
 - [ ] AVL tree
 - [ ] B-tree
+- [ ] Resource Acquisition Is Initialization
+	- [ ] Class Invariants
+		- [ ] Composition over Inheritance
 ## Resources
 - [Hennge Stack](https://stackshare.io/hennge/hennge-kk)
 - [CS 162](https://inst.eecs.berkeley.edu/~cs162/fa19/static/lectures/)
