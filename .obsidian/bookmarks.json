@@ -12,11 +12,6 @@
         {
           "type": "file",
           "ctime": 1726756325798,
-          "path": "Computers/Linux/Terminal/Bash/Bash.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1726756325798,
           "path": "General/Arbeit/NavVis.md"
         },
         {
@@ -36,6 +31,12 @@
         }
       ],
       "title": "The Hunt"
+    },
+    {
+      "type": "file",
+      "ctime": 1752566661147,
+      "path": "General/Arbeit/CI Concepts.md",
+      "title": ""
     },
     {
       "type": "group",
@@ -72,12 +73,6 @@
     },
     {
       "type": "file",
-      "ctime": 1752566661147,
-      "path": "General/Arbeit/CI Concepts.md",
-      "title": ""
-    },
-    {
-      "type": "file",
       "ctime": 1752882990542,
       "path": "Languages/Deutsch/Besonderheiten/Lingoda/7.18 Anki auch.md",
       "title": ""
@@ -86,6 +81,11 @@
       "type": "file",
       "ctime": 1757162199820,
       "path": "Projects/Ankicards.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1726756325798,
+      "path": "Computers/Linux/Terminal/Bash/Bash.md"
     }
   ]
 }

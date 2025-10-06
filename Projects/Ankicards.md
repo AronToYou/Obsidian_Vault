@@ -37,6 +37,7 @@ mitsamt
 samt
 verkünden
 anerkennen
+fassen
 
 
 ![[HTML_element_content_categories.svg]]
