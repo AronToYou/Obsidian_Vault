@@ -1,3 +1,28 @@
+# aumid-stopgap-tools
+#### Create Shortcut
+`{powershell}mklnkwaumid <ShortcutFilePath> <AppUserModelID> <Target> [<ParametersForTarget>]`
+#### Execute
+`{PowerShell}runwaumid -tp <AppUserModelID> <WindowTitle> <TargetToOpen> [<ParametersForTargetToOpen>]`
+## Precedent
+#### Create Shortcut
+```powershell title:"In Powershell:"
+.\mklnkwaumid.exe 'D:\temp\Obsidian-Vault1.lnk' Tksh164.Obsidian.Vault1 'C:\bin\runwaumid.exe' '-tp Tksh164.Obsidian.Vault1 \"Vault1 - Obsidian\" obsidian://open?vault=Vault1'
+
+"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\mklnkwaumid.exe" 'C:\Users\aron.lloyd\Desktop\ObsidianVault.lnk' md.obsidian.ObsidianVault 'C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe' '-tp md.obsidian.ObsidianVault \"Obsidian_Vault - Obsidian\" obsidian://open?vault=Obsidian_Vault'
+
+"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\mklnkwaumid.exe" 'C:\Users\aron.lloyd\Desktop\Languages.lnk' md.obsidian.Languages 'C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe' '-tp md.obsidian.Languages \"Languages - Obsidian\" obsidian://open?vault=Languages'
+```
+##### Links
+`"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe" -tp md.obsidian.ObsidianVault "Obsidian_Vault - Obsidian" obsidian://open?vault=Obsidian_Vault`
+
+`"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe" -tp md.obsidian.RheinEnergie "RheinEnergie - Obsidian" obsidian://open?vault=RheinEnergie`
+
+# Code Style
+- ` ```cpp fold title:example_title `
+- ` ```cpp title=example_title fold ` (same effect as above line)
+- ` ``` fold title:example_title ` (if no language set)
+
+# Résumé
 
 | booty   | booty_1   | booty_2            | booty_3         |
 | ------- | --------- | ------------------ | --------------- |
