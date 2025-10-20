@@ -1,5 +1,7 @@
 # aumid-stopgap-tools
 ---
+- [GitHub Page](https://github.com/tksh164/aumid-stopgap-tools)
+
 `{powershell title:CreateShortcut}mklnkwaumid <ShortcutFilePath> <AppUserModelID> <Target> [<ParametersForTarget>]`
 
 `{PowerShell title:Execute}runwaumid -tp <AppUserModelID> <WindowTitle> <TargetToOpen> [<ParametersForTargetToOpen>]`
