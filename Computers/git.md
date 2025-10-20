@@ -161,6 +161,16 @@
 > 	- `[<options>]`
 > 		- `--force-with-lease[=<refname>[:<expect>]]`
 
+### rebase
+> [!NOTE]
+> `{sh}git rebase [-i] [<options>] [<upstream> [<branch>]]`
+> - reapply commits on top of another base tip
+> 	- `[<upstream>]` : the branch off from which current branch was forked, and onto which will be rebased
+> 	- `[<branch>]` : name of branch to be rebased
+> 	- `[-i|--interactive]`
+> 	- `[<options>]`
+> 		- `--onto <newbase>` : Starting point at which to create the new commits (instead of `<upstream>`)
+
 ### remote
    > [!info]
    > `{sh}git remote` : lists remote repos
