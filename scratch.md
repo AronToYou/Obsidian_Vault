@@ -1,34 +1,46 @@
 # aumid-stopgap-tools
-#### Create Shortcut
-`{powershell}mklnkwaumid <ShortcutFilePath> <AppUserModelID> <Target> [<ParametersForTarget>]`
-#### Execute
-`{PowerShell}runwaumid -tp <AppUserModelID> <WindowTitle> <TargetToOpen> [<ParametersForTargetToOpen>]`
-## Precedent
-#### Create Shortcut
-```powershell title:"In Powershell:"
+---
+`{powershell title:CreateShortcut}mklnkwaumid <ShortcutFilePath> <AppUserModelID> <Target> [<ParametersForTarget>]`
+
+`{PowerShell title:Execute}runwaumid -tp <AppUserModelID> <WindowTitle> <TargetToOpen> [<ParametersForTargetToOpen>]`
+```powershell title:"CreateShortcut (Powershell):"
 .\mklnkwaumid.exe 'D:\temp\Obsidian-Vault1.lnk' Tksh164.Obsidian.Vault1 'C:\bin\runwaumid.exe' '-tp Tksh164.Obsidian.Vault1 \"Vault1 - Obsidian\" obsidian://open?vault=Vault1'
 
-"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\mklnkwaumid.exe" 'C:\Users\aron.lloyd\Desktop\ObsidianVault.lnk' md.obsidian.ObsidianVault 'C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe' '-tp md.obsidian.ObsidianVault \"Obsidian_Vault - Obsidian\" obsidian://open?vault=Obsidian_Vault'
+.\mklnkwaumid.exe 'C:\Users\aron.lloyd\Desktop\ObsidianVault.lnk' md.obsidian.ObsidianVault 'C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe' '-tp md.obsidian.ObsidianVault \"Obsidian_Vault - Obsidian\" obsidian://open?vault=Obsidian_Vault'
 
-"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\mklnkwaumid.exe" 'C:\Users\aron.lloyd\Desktop\Languages.lnk' md.obsidian.Languages 'C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe' '-tp md.obsidian.Languages \"Languages - Obsidian\" obsidian://open?vault=Languages'
+.\mklnkwaumid.exe 'C:\Users\aron.lloyd\Desktop\Languages.lnk' md.obsidian.Languages 'C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe' '-tp md.obsidian.Languages \"Languages - Obsidian\" obsidian://open?vault=Languages'
 ```
-##### Links
-`"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe" -tp md.obsidian.ObsidianVault "Obsidian_Vault - Obsidian" obsidian://open?vault=Obsidian_Vault`
 
-`"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe" -tp md.obsidian.RheinEnergie "RheinEnergie - Obsidian" obsidian://open?vault=RheinEnergie`
+```PowerShell title:"Created Links"
+"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe" -tp md.obsidian.ObsidianVault "Obsidian_Vault - Obsidian" obsidian://open?vault=Obsidian_Vault
+
+"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe" -tp md.obsidian.RheinEnergie "RheinEnergie - Obsidian" obsidian://open?vault=RheinEnergie
+
+"C:\Program Files\aumid-stopgap-tools-0.1.0-x64\runwaumid.exe" -tp md.obsidian.Languages "Languages - Obsidian" obsidian://open?vault=Languages
+```
+### Icon
+- put `32x32.ico` file in `.obsidian\` directory and link to shortcut
+- pin shortcut to taskbar
+	- delete desktop shortcut
+
 
 # Code Style
+---
 - ` ```cpp fold title:example_title `
 - ` ```cpp title=example_title fold ` (same effect as above line)
 - ` ``` fold title:example_title ` (if no language set)
 
+
 # Résumé
+---
 
 | booty   | booty_1   | booty_2            | booty_3         |
 | ------- | --------- | ------------------ | --------------- |
 | science | tech_lean | simple_2_unskilled | stash (711a550) |
 
+
 # All
+---
 - Software
 	- Git, GitLab
 	- Linux, bash, gprof, GDB
@@ -104,10 +116,9 @@ Mongo, SQLite, Influx, Elastic
 #### Containerization
    lxc, docker, vagrant
    
-
    
 # Communication & Research Skills
-
+---
 - Project Management
 	- planning phased deployments
 	- iterative refinement
