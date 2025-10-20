@@ -1,8 +1,0 @@
-# 
-## weshalb
- - **deshalb**
-
-## weswegen
-- **deswegen**
-
-##
