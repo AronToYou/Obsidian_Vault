@@ -1,12 +1,11 @@
-Use a single column format
+- Points to add to resume
+	- [ ] worked in Firma with large pre-existing codebase
 
-Start each bullet with a verb
-
-Ensure you don't repeat same words within bullets, especially your action verbs
-
-Quantify your bullets
-
-List down keywords from your target job descriptions and ensure that they're present across your work experience points
+- Use a single column format
+- Start each bullet with a verb
+- Ensure you don't repeat same words within bullets, especially your action verbs
+- Quantify your bullets
+- List down keywords from your target job descriptions and ensure that they're present across your work experience points
 
 - [ ] apply above to Aron Resume v2.1.2
 - [ ] https://job-boards.greenhouse.io/oklo/jobs/4018702004
