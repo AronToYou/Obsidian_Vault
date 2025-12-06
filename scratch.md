@@ -132,3 +132,7 @@ Mongo, SQLite, Influx, Elastic
 - Attention to Detail
 	- Precision alignment, calibration, and system diagnostics
 	- multi-layered issues
+
+
+Visumanstrag
+45874827

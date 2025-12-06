@@ -75,7 +75,7 @@
 > `{sh}git checkout [-p] [<tree-ish>] [--] <pathspec>`
 > - Overwrite matching working tree paths with the index
 > - `[<tree-ish>]` : overwrite both working tree & index paths with `<tree-ish>`
-> 	- for example `<commit>`
+> 	- for example `<commit>` or `A...B` for fork point
 > - `[-p]` : `--patch`
 > 
 > `{sh}git checkout -b <new-branch> [<start-point>]`
@@ -122,7 +122,19 @@
    > 
    > > [!tip]- Diagram of Repo `diff` Options
    > > ![[git_diff.png|]]
-   
+
+### grep
+> [!NOTE]
+> `git grep [pre-ops] <pattern> [<post-ops>] [[--] <pathspec>]`
+> - Search for and print lines which match patterns in working tree or index files.
+> 	- `<pattern>` : list of one or more expressions, separated by newline characters
+> 	- `[<pre-ops>]`
+> 		- `-i | --ignore-case`
+> 		- `--all-match` : Restricts to files matching all following `--or` patterns.
+> 	- `[<post-ops>]`
+> 		- `--and`, `--or`, `--not`, `\(<patterns>\)` : Combines / groups patterns.
+> 		- `-e` : Indicates a pattern. If used multiple times, combines patterns with `--or`.
+
 ### log
 > [!NOTE]
 > `{sh}git log [<options>] [<revision-range>] [[--] <path>]`
@@ -137,6 +149,9 @@
 > 		- `--since=<date> | --until=<date>` : 
 > 		- `--author=<name>` : `Jon`, `"Jon"`, `"\(Adam\)\|\(Jon\)"`
 > 			- `'^(?!Adam|Jon).*$' --perl-regexp`
+> 
+> `git log --all [-i] --grep='JIRA-363'`
+> - Searches commit messages
 > 
 > `{sh}git log --oneline --graph --decorate --all --date=short --parent-branch <branch-name>`
 > - custom command
