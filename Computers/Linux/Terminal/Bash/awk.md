@@ -1,8 +1,25 @@
 ---
 created: 2024-01-03 15:17:03Z
 ---
+# Examples
+---
+```sh
+git diff --numstat ..B | 
+awk '{ $1=$2=""; sub(/^[ \t]+/, ""); system("git diff ..B -- " $0) }'
+```
+- `$1=$2="";`
+	- Assigns first two space-separated fields to nothing
+	- rebuilds the entire string, reflected in`$0`
+- `sub(/^[ \t]+/, "");`
+	- replaces any leading space/tab characters with nothing
+	- rebuilds the entire string, reflected in`$0`
+- `system("git diff ..B -- " $0)`
+	- executes command in a new shell running as a child process of `awk`
+		- shell runs command in yet another child process of itself
+
 
 # Basics
+---
 [Official Guide to awk](https://www.gnu.org/software/gawk/manual/gawk.html)
 ## Essential Procedure
 `awk` works line by line, running the **Program** on each line, which generally parses the line into **Fields**.

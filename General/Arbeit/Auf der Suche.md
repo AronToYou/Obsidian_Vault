@@ -1,3 +1,14 @@
+- How are you?
+- Why do you want to work here?
+- Where do you see yourself in five years?
+- Why are you looking for a new opportunity?
+- How do you feel about your current manager?
+- What are you hobbies?
+- About your previous title and its description
+- Resume gaps
+- Do you have any questions for us?
+	- Why is this position open
+
 - Points to add to resume
 	- [ ] worked in Firma with large pre-existing codebase
 
@@ -10,6 +21,7 @@
 - [ ] apply above to Aron Resume v2.1.2
 - [ ] https://job-boards.greenhouse.io/oklo/jobs/4018702004
 - [ ] https://www.airbase.com/
+
 ```css
 https://www.paylocity.com/company/careers/product-technology.job.37892/ | Engineer Software- Marketplace | Paylocity
 https://www.google.com/search?q=SQS&sourceid=chrome&ie=UTF-8 | SQS - Google Search

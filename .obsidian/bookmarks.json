@@ -85,7 +85,24 @@
     {
       "type": "file",
       "ctime": 1726756325798,
-      "path": "Computers/Linux/Terminal/Bash/Bash.md"
+      "path": "Computers/Linux/Terminal/Bash/Bash.md",
+      "title": "bash"
+    },
+    {
+      "type": "file",
+      "ctime": 1768479500892,
+      "path": "main.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1775627281956,
+      "path": "Computers/Linux/Terminal/Bash/vim.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1775627318051,
+      "path": "Computers/Linux/Terminal/Bash/Basic.md",
+      "title": "bash basic"
     }
   ]
 }

@@ -1,8 +1,32 @@
 ---
 created: 2024-02-13 00:58:00Z
 ---
+# Tricks
+---
+
+| <-- |          |   -->    |
+| :-: | :------: | :------: |
+| `#` | similar  |   `*`    |
+| `?` |  search  |   `/`    |
+| `N` |          |   `n`    |
+| `u` | un-/redo | `Ctrl+r` |
+
+
+# Examples
+---
+```r
+vim .../ext_repo/file.cpp
+:vsp new
+:cd repo/file.cpp
+:read !git show master~2:./file.cpp
+:setf cpp
+:diffthis
+ctrl + w  ->
+:diffthis
+```
 
 # Resources
+---
 - [Cheatsheet](https://vim.rtorr.com/)
 - [VimScriptTheHardWay](https://learnvimscriptthehardway.stevelosh.com/)
 - [Premade .vimrc](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)

@@ -1,9 +1,62 @@
 # Commands
 ## Tricks
-`{sh}git ls-files --deleted | xargs git add`
+### add only deleted files
 
-- `file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-log.html`
-	- [link to folder](file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/)
+> [!NOTE]
+> `{sh}git ls-files --deleted | xargs git add`
+> 
+> - `file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-log.html`
+> 	- [link to folder](file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/)
+
+### Browse / Manage remote branches
+`git fetch --all`
+- 
+`git branch -r|-a [-v]`
+- `-r` : Lists all remote branches
+- `-a` : Lists all remote & local branches
+	- `[-v]` : with latest commit hash / message
+`git ls-remote`
+- Lists all references in remote repository
+`git remote show <remote-name>`
+- Displays various information about remote, including branches
+
+### Examine git Database
+#### Directory structure
+```
+.git/
+.git/objects/
+.git/objects/info/
+.git/objects/pack/
+.git/objects/<hash[:2]>/<hash[2:]>
+
+.git/refs/
+.git/refs/tags/
+.git/refs/heads/
+.git/refs/remotes/<origin>/
+```
+#### Object Types
+- Blobs
+	- inodes or file contents
+- Tree Objects
+	- UNIX directory entries
+	- One or more entries, each of which is the SHA-1 hash of
+		- blob
+		- subtree
+		- with associated 
+			- mode
+			- type
+			- filename
+
+Commands
+`git cat-file [<options>] <object-hash>`
+- Examine git object
+	- `[-p]` : determine type of object and display accordingly
+	- `[-t]` : returns the type of the object, as found in `.git/objects/` database
+`git hash-object [-w] [--stdin] <file-name/data>`
+- Computes & returns the object ID (40-character SHA-1 hash)
+	- `[-w]` : Store the object (**blob**) in `.git/objects/` as well
+	- `[--stdin]` : Read data (instead of a filename) directly from standard input
+
 ---
 ### git
 `{sh}git --no-pager <command>`
@@ -89,6 +142,14 @@
 > 
 > `{sh}git checkout <tree-ish> -- <path>`
 
+### cherry-pick
+> [!info]
+> `{sh}git cherry-pick [<options>] <commit>`
+> - Copies the commits specified by `<commit>` and applies/commits them to current `HEAD`
+> 	- `{sh}[<options>]`
+> 		- `--no-commit|-n` : does not commit the applied changes
+>
+
 ### commit --amend
    > [!info]
    > `{sh}git commit --amend`
@@ -100,14 +161,25 @@
    
 ### diff
    > [!info]
-   > `{sh}git diff [<options>] [<commitB> [<commitA>]] [[--] <path>]`
-   > - Display the difference `<commitA> - <commitB>` per project file
+   > `{sh}git diff <commit>^!`
+   > - Display difference between `<commit>` and its first immediate parent.
+   > 	- Same as `{sh}git diff <commit>~ <commit>`
+   > 	- Similar to `{sh}git show <commit>`
+   > 
+   > `{sh}git diff [<options>] [<commitB> [<commitA>]] [--] [<path>]`
+   > - Display the 2-point difference `<commitA> - <commitB>` per project file
+   > 	- Same as `{sh}git diff <commitB>..<commitA>`
    > 	- `[<commitB>]` : defaults to the **Index**
    > 	- `[<commitA>]` : defaults to the **Working Tree**
    > 	- `[<path>]` : instead only checks files found on `<path>`
    > 	- `[<options>]`
    > 		- `--stat` : only output changed filenames & number of changes
+   > 		- `--numstat` : machine friendly version of above
    > 		- `--relative[=<path>]` : restrict output to current or `<path>` subdirectory
+   > 
+   > `{sh}git diff <commitB>...<commitA> [--] [<path>]`
+   > - Display the 2-point difference`<commitA> - <fork>` 
+   > 	- `<fork>` is the forking point between `<commitB>` and `<commitA>`
    > 
    > `{sh}git diff --cached [<commitB>] [--] [<path>]`
    > - Same as above if `<commitA>` is replaced with **Index**
@@ -116,6 +188,8 @@
    >
    > `{sh}git diff test...master`
    > - Changes on `master` since `test` branch fork.
+   > 	- Same as `git diff --merge-base test master`
+   > 	- Same as `git diff $(git merge-base test master) master`
    > 
    > `{sh}git diff --no-index [--] <path> <path>`
    > - Compares two filesystem paths outside of repo
@@ -141,9 +215,11 @@
 > - lists commits
 > 	- `[<revision-range>]` 
 > 		- `<to>` : most recent commit to consider up until (inclusive)
-> 		- `<from>..<to>` : commits within this range
+> 		- `<from>..<to>` : All commits reachable from `<to>` but not from `<from>`
+> 			- commits within this range
 > 			- `origin..HEAD` : all commits reachable from current commit
-> 		- `<from>...<to>` : like above, but **from** shared ancestor instead
+> 		- `<from>...<to>` : All commits reachable from either `<to>/<from>` but not both
+> 			- like above, but **from** shared ancestor instead
 > 	- `[<options>]`
 > 		- `--reverse` : reverses order
 > 		- `--since=<date> | --until=<date>` : 
@@ -182,6 +258,7 @@
 > - reapply commits on top of another base tip
 > 	- `[<upstream>]` : the branch off from which current branch was forked, and onto which will be rebased
 > 	- `[<branch>]` : name of branch to be rebased
+> 		- i.e. `git switch <branch>` is performed before all else
 > 	- `[-i|--interactive]`
 > 	- `[<options>]`
 > 		- `--onto <newbase>` : Starting point at which to create the new commits (instead of `<upstream>`)
@@ -219,6 +296,14 @@
 > 		- `--keep` : aborts if a reset file has local changes
 > 			- use to revert commits while local changes exist
 
+### rev-parse
+
+> [!Info]
+> `{sh}git rev-parse [<options>] <args>`
+> - Pick out and massage parameters
+> 	- `[<options>]`
+> 		- `--abbrev-ref` : non-ambiguous short name of the object/refs name.
+
 ### rm
    > [!info]
    > `{sh}git rm -r --cached .`
@@ -226,8 +311,12 @@
    
 ### stash
 > [!info]
-> `{sh}git stash push [--include-untracked] [--keep-index]`
+> `{sh}git stash push [<options>] [--] [<pathspec>]`
 > - merges `<branch>` into currently checked out branch
+> 	- `{sh}[<options>]`
+> 		- `-u|--include-untracked`
+> 		- `-k|--keep-index` : don't stash the index
+> 		- `-m|--message` : name for the stash
 
 ### tag
 > [!info]
@@ -308,6 +397,14 @@ loose object compression
 
 # Miscellaneous
 ---
+## \<revision-range\>
+- `<to>` : most recent commit to consider up until (inclusive)
+- `<from>..<to>` : All commits reachable from `<to>` but not from `<from>`
+    - commits within this range
+    - `origin..HEAD` : all commits reachable from current commit
+- `<from>...<to>` : All commits reachable from either `<to>/<from>` but not both
+    - like above, but **from** shared ancestor instead
+
 ## \<tree-ish\>
 ```shell
 ----------------------------------------------------------------------

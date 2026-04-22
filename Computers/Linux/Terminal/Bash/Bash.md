@@ -1,11 +1,89 @@
-# Core Syntax
-
+# Examples
+---
+```sh
+tr -d -c ',\n' < file.dpl | 
+awk 'length!=0 { print length }'
+```
+- `tr`
+	- translate or delete characters from standard input
+	- `-d` delete
+	- `-c 'CHARS'` apply to complement (inverse set) of `CHARS`
+---
 `{sh}find . -name "*.txt" -exec sh -c 'mv "$1" "${1%.txt}.md"' _ {} \;`
 - `_` is placeholder for `{sh}$0`
 - `{sh}"${1%.txt}.md"` substring match and delete
 `{sh}find . -name "awl_*.pnl" -exec sh -c 'git mv "$1" "../vision/${1#./awl_}"' _ {} \;`
 
 `{sh}find . -name "*.pnl" -exec sh -c 'git diff "$1" $(find ../wincc-oa -name $(basename "$1"))' _ {} \;`
+
+---
+```sh
+git diff --numstat ..B | 
+awk '{ $1=$2=""; sub(/^[ \t]+/, ""); print }' |
+xargs -d '\n' -I{} sh -c 'git diff ..B -- "{}"'
+```
+- `{sh}xargs -d '\n'`
+	- treats newlines as delimiters instead of whitespaces
+- `{sh}-I{}`
+	- turns on "replace mode" where `{}` becomes the placeholder
+
+---
+```sh
+# .gitconfig alias
+child = "!bash -c 'git log ${1:-HEAD}..${2:-$(git rev-parse --abbrev-ref HEAD)} | head -1' -"
+child = !bash -c 'git rev-list ${1:-HEAD}..${git rev-parse --abbrev-ref HEAD)} | head -1' -
+# then in bash
+git child A B
+```
+- Returns first immediate child of `A` (default: `HEAD`)
+	- by stepping in direction of `B` (default: current branch)
+		- assumes one is not in detached head state
+	- `{c}!bash -c '...' -`
+		- the `{c}!` tells `{c}git` to fork `{c}alias` in `{c}/bin/sh -c` rather than interpret it as a git subcommand
+			- `{sh}bash -c '...' -` then forks **another** child shell
+				- which `{c}/bin/sh` may replace itself with via `{c}exec`
+		- the `{c}-` tells `{c}bash` to assign `{c}$0` with dummy value `{c}-`
+			- avoids accidental "login-shell", non `shift`ing, and/or weird logging behavior
+	- `{c}${1:-HEAD}` : evaluates to HEAD 
+		- or, if available, the 1st passed arg `{c}A`
+	- `{c}${2:-$(git rev-parse --abbrev-ref HEAD)}` : evaluates to the short name (branch) of `HEAD`
+		- or, if available, 2nd passed arg `{c}B`
+	- `{c} | head -1`
+		- pipes `{c}git log` output to `{c}head` where the `{c}-1` arg says to take only the first line
+---
+```sh
+git --no-pager log --oneline --follow -n 5 -- lib/file.cpp 
+	| awk '{ print $1 }'
+	| xargs -d '\n' -I{} sh -c '
+		git show {}:./lib/file.cpp 2>/dev/null > ./lib/tmp.cpp;
+		git diff --numstat ./lib/tmp.cpp ../otherRepo/lib/file.cpp'
+```
+---
+
+|     | owner | group | other |
+| --- | ----- | ----- | ----- |
+| r   | 400   | 40    | 4     |
+| w   | 200   | 20    | 2     |
+| x   | 100   | 10    | 1     |
+`{sh}chmod u+x .\file`
+
+# Core Syntax
+---
+## Parameter Expansion
+[here!](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18_06_02)
+`${parameter<operator>word}`
+
+|                      | Set &  !Null    | Set but Null  | Unset         |
+| -------------------- | --------------- | ------------- | ------------- |
+| `${parameter:-word}` | sub `parameter` | sub `word`    | sub `word`    |
+| `${parameter-word}`  | sub `parameter` | sub Null      | sub `word`    |
+| `${parameter:=word}` | sub `parameter` | assign `word` | assign `word` |
+| `${parameter=word}`  | sub `parameter` | sub null      | assign `word` |
+| `${parameter:?word}` | sub `parameter` | error, exit   | error, exit   |
+| `${parameter?word}`  | sub `parameter` | sub Null      | error, exit   |
+| `${parameter:+word}` | sub `word`      | sub Null      | sub Null      |
+| `${parameter+word}`  | sub `word`      | sub `word`    | sub Null      |
+
 ## Quotations
 ### Double Quotes
 Enclosure of characters in `""` preserves their literal values with exceptions:

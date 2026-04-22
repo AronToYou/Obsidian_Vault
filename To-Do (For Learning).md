@@ -1,6 +1,6 @@
 # Tools
 - [ ] [[https://bluespice.com|Bluespice]]
-- [ ] 
+- [ ] [Obsidian CLI](https://help.obsidian.md/cli)
 
 # Web Infrastructure
 <hr width="50%" align="right" style="border: 1px solid white">
