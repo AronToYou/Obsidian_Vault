@@ -4,7 +4,19 @@
 - [Premade .vimrc](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
 - [Documentation](https://vimdoc.sourceforge.net/htmldoc/help.html)
 - [vimlatex](https://castel.dev/post/lecture-notes-1/)
+# Help
+```
+:help
+:help :on[ly]  // <C-W> + (<C-O>|O)
+:help :map
+:help key-notation
 
+:tab help :tab
+:tabc  // close current
+:tabo  // close other
+
+:[v|s]split | :help
+```
 # Cheatsheet
 ## Undo / Redo
 ```

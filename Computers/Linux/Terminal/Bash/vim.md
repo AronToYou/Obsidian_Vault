@@ -10,7 +10,20 @@ created: 2024-02-13 00:58:00Z
 | `?` |  search  |   `/`    |
 | `N` |          |   `n`    |
 | `u` | un-/redo | `Ctrl+r` |
-
+## Visual Mode
+- `v` - character
+- `V` - line
+- `<C-v>` - Block
+### Block replace
+- `<C-V>` to enter Visual-Block
+- select text
+- then either:
+	- `c` to cut and insert
+		- type new text
+		- `ESC` to replace block
+	- `X` to delete block
+	- `I` or `A` it insert/append text
+	- `r` to replace with character
 
 # Examples
 ---

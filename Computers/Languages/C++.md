@@ -1,3 +1,57 @@
+- [ ] how again to manage pointers
+	- [ ] how to do it with smart pointers
+	- [ ] `std::lock_guard`
+- [ ] Compiler directives
+	- [ ] `#ifdef _WIN32`
+	- [ ] barriers
+		- [ ] lock free programs
+- [ ] `std::move` - convert to `rvalue` category
+	- [ ] `lvalue`s and `rvalue`s
+	- [ ] `static_cast<T&&>(obj)`
+- [ ] POSIX sockets
+- [ ] copy elision
+	- [ ] Return Value Optimisation
+	- [ ] Named Return Value Optimisation
+- [ ] alternatives to X-Lists
+- [ ] Sphinx or Doxygen
+	- [ ] how to format comments
+
+## Topic Lists
+- Performance
+	- profile it
+	- inspect flame graphs
+	- identify hotspots
+	- suggest vectorization
+	- compare STL containers
+	- benchmark alternatives
+	- generate graphs
+	- summarize findings
+- testing
+	- normal cases
+	- edge cases
+	- invalid input
+	- fuzz tests
+	- randomized tests
+	- benchmark tests
+	- v-model
+		- unit tests
+		- integration tests
+		- installation -> end-to-end tests
+# Versions
+## C++11
+- `std::move`
+- `std::forward`
+	- perfect forwarding
+	- forwards not only value but type
+```cpp
+int& z = y;
+void f(int x)
+{
+    g(x);
+}
+f(z) -> g((int)z)
+```
+## C++14
 
 ## Classes
 ### Initializer Lists

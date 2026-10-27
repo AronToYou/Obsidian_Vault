@@ -1,0 +1,55 @@
+make mind map
+- real analysis
+	- Uniform Limit Theorem
+		- continuity of limits of infinite series of functions
+		- used to prove continuity of trigonometric functions
+- conformal geometry
+- Topology
+	- Hausdorff Space
+	- neighborhood
+- differential geometry
+	- complex
+		- complex manifolds
+	- metric tensor
+	- stereographic projection
+		- Poincaré's Disk
+- complex analysis
+	- Reimann Sphere
+	- holomorphic functions
+		- Cauchy-Riemann equations
+	- Wirtinger derivative
+	- Liouville-Theorem
+	- Cauchy Integral Theorem
+		- Cauchy Integral Formula
+		- Fundamental Theorem of complex line integrals
+- homotopy
+- Calculus
+	- Green's Theorem / divergence Theorem
+		- Stoke's Theorem
+	- Green's function
+	- Harmonic functions (holomorphic)
+- Functional Analysis
+	- Topological Spaces
+		- Topological Vector Spaces (Vector Space + Topological Space)
+			- Locally convex topological vector space
+			- Metric Spaces
+				- Fréchet Spaces
+				- Normed Vector Spaces
+					- Banach Spaces (Complete Normed Vector Space)
+						- $L^{p}$ Spaces (Lebesgue Spaces)
+						- Inner Product Spaces
+							- Hilbert Spaces (Complete Inner Product Space)
+				- completeness
+				- Every Cauchy Sequence in M has limit in M
+- Mathematical Analysis
+	- Hölder's Inequality
+		- Cauchy-Schwarz Inequality
+		- Minkowski Inequality
+		- Jensen's Inequality
+	- Fourier Analysis
+		- Plancherel Theorem
+			- Hausdorff-Young Inequality
+				- Lebesgue integration
+
+
+![[Pasted image 20260724105456.png|350]]

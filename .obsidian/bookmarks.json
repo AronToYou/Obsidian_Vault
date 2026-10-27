@@ -6,6 +6,12 @@
       "items": [
         {
           "type": "file",
+          "ctime": 1777965452054,
+          "path": "General/Arbeit/Lessmüller Lasertechnik.md",
+          "title": "lessmüller"
+        },
+        {
+          "type": "file",
           "ctime": 1752566661147,
           "path": "General/Arbeit/CI Concepts.md",
           "title": ""
@@ -84,31 +90,38 @@
     },
     {
       "type": "file",
-      "ctime": 1726756325798,
-      "path": "Computers/Linux/Terminal/Bash/Bash.md",
-      "title": "bash"
-    },
-    {
-      "type": "file",
       "ctime": 1768479500892,
       "path": "main.md"
     },
     {
-      "type": "file",
-      "ctime": 1775627281956,
-      "path": "Computers/Linux/Terminal/Bash/vim.md"
-    },
-    {
-      "type": "file",
-      "ctime": 1775627318051,
-      "path": "Computers/Linux/Terminal/Bash/Basic.md",
-      "title": "bash basic"
-    },
-    {
-      "type": "file",
-      "ctime": 1777965452054,
-      "path": "General/Arbeit/Lessmüller Lasertechnik.md",
-      "title": "lessmüller"
+      "type": "group",
+      "ctime": 1783413773300,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1726756325798,
+          "path": "Computers/Linux/Terminal/Bash/Bash.md",
+          "title": "bash"
+        },
+        {
+          "type": "file",
+          "ctime": 1775627318051,
+          "path": "Computers/Linux/Terminal/Bash/Basic.md",
+          "title": "bash basic"
+        },
+        {
+          "type": "file",
+          "ctime": 1775627281956,
+          "path": "Computers/Linux/Terminal/Bash/vim.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1783413759606,
+          "path": "Computers/Linux/Terminal/vim.md",
+          "title": "vim2"
+        }
+      ],
+      "title": "References"
     }
   ]
 }

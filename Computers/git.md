@@ -197,6 +197,11 @@ Commands
    > > [!tip]- Diagram of Repo `diff` Options
    > > ![[git_diff.png|]]
 
+### fetch
+> [!NOTE]
+> `git fetch <remote> <local-branch>:<remote-branch>`
+> - Pulls updates from without switching
+
 ### grep
 > [!NOTE]
 > `git grep [pre-ops] <pattern> [<post-ops>] [[--] <pathspec>]`
